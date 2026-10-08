@@ -1,0 +1,24 @@
+baseline seed 1 ...
+    total 239s gap 0.0997928950477511
+baseline seed 7 ...
+    total 327s gap 0.0999120806450611
+baseline seed 13 ...
+    total 268s gap 0.0999674770733289
+r_socweight_off seed 1 ...
+    total 57s gap 0.09992317204092144
+r_socweight_off seed 7 ...
+    total 85s gap 0.0998182005384785
+r_socweight_off seed 13 ...
+    total 102s gap 0.0967597224221877
+
+--- anytime curve ---
+total 880 s, final gap 0.09999442814592441
+gap first reached at:
+   40.0%        1.2 s
+   30.0%        2.7 s
+   25.0%        9.1 s
+   20.0%       12.2 s
+   15.0%       28.0 s
+   12.5%       67.9 s
+   11.0%      164.4 s
+   10.0%      877.2 s
