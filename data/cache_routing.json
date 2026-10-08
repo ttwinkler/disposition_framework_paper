@@ -1,0 +1,8751 @@
+{
+ "geocode": {
+  "01069 Dresden Deutschland": [
+   13.7367646,
+   51.0397362
+  ],
+  "01454 Radeberg Deutschland": [
+   13.9175257,
+   51.1151413
+  ],
+  "01609 Wülknitz Deutschland": [
+   13.4248635,
+   51.3916997
+  ],
+  "04435 Schkeuditz Deutschland": [
+   12.2445514,
+   51.4091622
+  ],
+  "04703 Leisnig Deutschland": [
+   12.9378453,
+   51.1762446
+  ],
+  "04720 Döbeln Deutschland": [
+   13.1187308,
+   51.1384604
+  ],
+  "04808 Wurzen Deutschland": [
+   12.7410574,
+   51.3709574
+  ],
+  "06449 Aschersleben Deutschland": [
+   11.479795,
+   51.7719483
+  ],
+  "06925 Annaburg Deutschland": [
+   13.0157962,
+   51.7073514
+  ],
+  "07356 Bad Lobenstein Deutschland": [
+   11.633445,
+   50.4502752
+  ],
+  "07552 Gera Deutschland": [
+   12.0705903,
+   50.9161481
+  ],
+  "07819 Triptis Deutschland": [
+   11.8411399,
+   50.7463206
+  ],
+  "08297 Zwönitz Deutschland": [
+   12.8310147,
+   50.651309
+  ],
+  "08468 Heinsdorfergrund Deutschland": [
+   12.3325765,
+   50.6212217
+  ],
+  "08485 Lengenfeld Deutschland": [
+   12.3772574,
+   50.5836651
+  ],
+  "09116 Chemnitz Deutschland": [
+   12.8684815,
+   50.8251598
+  ],
+  "09376 Oelsnitz/Erzgebirge Deutschland": [
+   12.7001233,
+   50.7219267
+  ],
+  "09427 Ehrenfriedersdorf Deutschland": [
+   12.9600718,
+   50.6454214
+  ],
+  "10245 Berlin Deutschland": [
+   13.4648062,
+   52.5006167
+  ],
+  "12623 Berlin Deutschland": [
+   13.616542,
+   52.5025905
+  ],
+  "13127 Berlin Deutschland": [
+   13.4334135,
+   52.6189367
+  ],
+  "14943 Luckenwalde Deutschland": [
+   13.1516372,
+   52.0894429
+  ],
+  "2227 Bozhurishte Bulgarien": [
+   23.1969411,
+   42.7529836
+  ],
+  "23848 Oggiono Italien": [
+   9.3483161,
+   45.7899135
+  ],
+  "23868 Valmadrera Italien": [
+   9.352803,
+   45.8442121
+  ],
+  "24064 Grumello del Monte Italien": [
+   9.8636381,
+   45.6353886
+  ],
+  "24145 Kiel Deutschland": [
+   10.1436777,
+   54.2741753
+  ],
+  "27327 Schwarme Deutschland": [
+   9.018542,
+   52.8991792
+  ],
+  "27607 Geestland Deutschland": [
+   8.6578017,
+   53.6597867
+  ],
+  "30926 Seelze Deutschland": [
+   9.5747762,
+   52.3859495
+  ],
+  "31177 Harsum Deutschland": [
+   10.0006064,
+   52.2096545
+  ],
+  "31547 Rehburg-Loccum Deutschland": [
+   9.1929871,
+   52.4663381
+  ],
+  "32105 Bad Salzuflen Deutschland": [
+   8.7418733,
+   52.0886887
+  ],
+  "32278 Kirchlengern Deutschland": [
+   8.6403349,
+   52.2213497
+  ],
+  "32425 Minden Deutschland": [
+   8.8973456,
+   52.3322841
+  ],
+  "33609 Bielefeld Deutschland": [
+   8.5773814,
+   52.0433061
+  ],
+  "35428 Langgöns Deutschland": [
+   8.6017621,
+   50.4709924
+  ],
+  "35578 Wetzlar Deutschland": [
+   8.5125615,
+   50.544437
+  ],
+  "35606 Solms Deutschland": [
+   8.4144517,
+   50.5502177
+  ],
+  "35781 Weilburg Deutschland": [
+   8.2706183,
+   50.4847231
+  ],
+  "35794 Mengerskirchen Deutschland": [
+   8.1725717,
+   50.5524141
+  ],
+  "36043 Fulda Deutschland": [
+   9.6884289,
+   50.5268887
+  ],
+  "36115 Hilders Deutschland": [
+   9.986751,
+   50.5417478
+  ],
+  "36179 Bebra Deutschland": [
+   9.8154417,
+   50.9781184
+  ],
+  "36251 Bad Hersfeld Deutschland": [
+   9.6910744,
+   50.9068402
+  ],
+  "36391 Sinntal Deutschland": [
+   9.6517193,
+   50.2997073
+  ],
+  "40699 Erkrath Deutschland": [
+   6.9277159,
+   51.2173355
+  ],
+  "41460 Neuss Deutschland": [
+   6.7068177,
+   51.2071566
+  ],
+  "41844 Wegberg Deutschland": [
+   6.2494946,
+   51.1427849
+  ],
+  "42477 Radevormwald Deutschland": [
+   7.360129,
+   51.2118439
+  ],
+  "44263 Dortmund Deutschland": [
+   7.4985481,
+   51.4883025
+  ],
+  "45326 Essen Deutschland": [
+   7.0083584,
+   51.4847302
+  ],
+  "45472 Mülheim an der Ruhr Deutschland": [
+   6.934492,
+   51.4366332
+  ],
+  "45663 Recklinghausen Deutschland": [
+   7.2335805,
+   51.5796743
+  ],
+  "45892 Gelsenkirchen Deutschland": [
+   7.1120736,
+   51.5713137
+  ],
+  "46514 Schermbeck Deutschland": [
+   6.8349952,
+   51.6998709
+  ],
+  "46539 Dinslaken Deutschland": [
+   6.7977132,
+   51.5751672
+  ],
+  "48231 Warendorf Deutschland": [
+   7.958357,
+   51.9474805
+  ],
+  "48282 Emsdetten Deutschland": [
+   7.522822,
+   52.173493
+  ],
+  "48317 Drensteinfurt Deutschland": [
+   7.7271254,
+   51.8011776
+  ],
+  "48612 Horstmar Deutschland": [
+   7.2974846,
+   52.0994927
+  ],
+  "49811 Lingen (Ems) Deutschland": [
+   7.3764429,
+   52.5110263
+  ],
+  "50126 Bergheim Deutschland": [
+   6.6198574,
+   50.9666163
+  ],
+  "50679 Köln Deutschland": [
+   6.9782511,
+   50.936743
+  ],
+  "51491 Overath Deutschland": [
+   7.2949156,
+   50.94496
+  ],
+  "51580 Reichshof Deutschland": [
+   7.6874642,
+   50.9572713
+  ],
+  "51647 Gummersbach Deutschland": [
+   7.5752236,
+   51.0457776
+  ],
+  "51702 Bergneustadt Deutschland": [
+   7.6797534,
+   51.0285069
+  ],
+  "52080 Aachen Deutschland": [
+   6.1597139,
+   50.7878892
+  ],
+  "52525 Heinsberg Deutschland": [
+   6.0886928,
+   51.0540067
+  ],
+  "53894 Mechernich Deutschland": [
+   6.6476832,
+   50.5912558
+  ],
+  "53919 Weilerswist Deutschland": [
+   6.8385266,
+   50.731843
+  ],
+  "55129 Mainz Deutschland": [
+   8.2605848,
+   49.9406678
+  ],
+  "55765 Birkenfeld Deutschland": [
+   7.1653316,
+   49.6457728
+  ],
+  "56130 Bad Ems Deutschland": [
+   7.7206097,
+   50.3296568
+  ],
+  "56235 Ransbach-Baumbach Deutschland": [
+   7.7267918,
+   50.4644096
+  ],
+  "56357 Welterod Deutschland": [
+   7.889737,
+   50.130547
+  ],
+  "56656 Brohl-Lützing Deutschland": [
+   7.3127572,
+   50.4754236
+  ],
+  "57339 Erndtebrück Deutschland": [
+   8.2587084,
+   50.9951915
+  ],
+  "57380 Faulquemont Frankreich": [
+   6.5917942,
+   49.016475
+  ],
+  "57413 Finnentrop Deutschland": [
+   8.009593,
+   51.1996631
+  ],
+  "57489 Drolshagen Deutschland": [
+   7.7707717,
+   51.0319041
+  ],
+  "58091 Hagen Deutschland": [
+   7.518283,
+   51.3114533
+  ],
+  "58119 Hagen Deutschland": [
+   7.5682748,
+   51.3513695
+  ],
+  "58256 Ennepetal Deutschland": [
+   7.3658717,
+   51.2828364
+  ],
+  "58300 Wetter (Ruhr) Deutschland": [
+   7.3536796,
+   51.3777438
+  ],
+  "58513 Lüdenscheid Deutschland": [
+   7.6629466,
+   51.2341995
+  ],
+  "58553 Halver Deutschland": [
+   7.4951348,
+   51.1882562
+  ],
+  "58636 Iserlohn Deutschland": [
+   7.7166855,
+   51.384068
+  ],
+  "58640 Iserlohn Deutschland": [
+   7.6744893,
+   51.4295648
+  ],
+  "58675 Hemer Deutschland": [
+   7.7773899,
+   51.3680554
+  ],
+  "58708 Menden (Sauerland) Deutschland": [
+   7.8015487,
+   51.4415866
+  ],
+  "58739 Wickede (Ruhr) Deutschland": [
+   7.8693073,
+   51.4961391
+  ],
+  "58762 Altena Deutschland": [
+   7.6883729,
+   51.2846795
+  ],
+  "58791 Werdohl Deutschland": [
+   7.74552,
+   51.2531563
+  ],
+  "58840 Plettenberg Deutschland": [
+   7.8607082,
+   51.2101567
+  ],
+  "59067 Hamm Deutschland": [
+   7.7843246,
+   51.6651214
+  ],
+  "59368 Werne Deutschland": [
+   7.6261978,
+   51.6783612
+  ],
+  "59510 Lippetal Deutschland": [
+   8.0888465,
+   51.6747545
+  ],
+  "59757 Arnsberg Deutschland": [
+   7.9325666,
+   51.4264814
+  ],
+  "59846 Sundern (Sauerland) Deutschland": [
+   8.0057645,
+   51.3105798
+  ],
+  "59939 Olsberg Deutschland": [
+   8.4884073,
+   51.3296469
+  ],
+  "60386 Frankfurt am Main Deutschland": [
+   8.755298,
+   50.1269773
+  ],
+  "60437 Frankfurt am Main Deutschland": [
+   8.6819477,
+   50.1974579
+  ],
+  "60549 Frankfurt am Main Deutschland": [
+   8.567347,
+   50.0427175
+  ],
+  "61440 Oberursel (Taunus) Deutschland": [
+   8.5547393,
+   50.2092219
+  ],
+  "63110 Rodgau Deutschland": [
+   8.8817024,
+   50.0128026
+  ],
+  "63128 Dietzenbach Deutschland": [
+   8.7844558,
+   50.0111694
+  ],
+  "63505 Langenselbold Deutschland": [
+   9.0465558,
+   50.1829902
+  ],
+  "63599 Biebergemünd Deutschland": [
+   9.3137774,
+   50.1750646
+  ],
+  "63741 Aschaffenburg Deutschland": [
+   9.1170459,
+   49.9803796
+  ],
+  "63801 Kleinostheim Deutschland": [
+   9.0651599,
+   50.0161539
+  ],
+  "63820 Elsenfeld Deutschland": [
+   9.201429,
+   49.8337629
+  ],
+  "64319 Pfungstadt Deutschland": [
+   8.5883994,
+   49.800001
+  ],
+  "64367 Mühltal / BRD Deutschland": [
+   8.6920349,
+   49.808658
+  ],
+  "64367 Mühltal Deutschland": [
+   8.6920349,
+   49.808658
+  ],
+  "64579 Gernsheim Deutschland": [
+   8.5125839,
+   49.7513973
+  ],
+  "64646 Heppenheim (Bergstraße) Deutschland": [
+   8.66254,
+   49.6436753
+  ],
+  "65201 Wiesbaden Deutschland": [
+   8.1698128,
+   50.0606466
+  ],
+  "65375 Oestrich-Winkel Deutschland": [
+   7.986851,
+   50.0469238
+  ],
+  "65451 Kelsterbach Deutschland": [
+   8.5178056,
+   50.049283
+  ],
+  "65529 Waldems Deutschland": [
+   8.3501125,
+   50.2591962
+  ],
+  "65555 Limburg an der Lahn Deutschland": [
+   8.0672165,
+   50.4167694
+  ],
+  "65597 Hünfelden Deutschland": [
+   8.151929,
+   50.3183435
+  ],
+  "65760 Eschborn Deutschland": [
+   8.5670925,
+   50.1506948
+  ],
+  "66130 Saarbrücken Deutschland": [
+   7.0624025,
+   49.1983664
+  ],
+  "66482 Zweibrücken Deutschland": [
+   7.3672433,
+   49.2468401
+  ],
+  "66571 Eppelborn Deutschland": [
+   6.9792412,
+   49.40216
+  ],
+  "66763 Dillingen/Saar Deutschland": [
+   6.7322812,
+   49.3660199
+  ],
+  "66849 Landstuhl Deutschland": [
+   7.5601287,
+   49.4035991
+  ],
+  "66879 Reichenbach-Steegen Deutschland": [
+   7.5330903,
+   49.5032304
+  ],
+  "67063 Ludwigshafen am Rhein Deutschland": [
+   8.4183871,
+   49.5074802
+  ],
+  "67105 Schifferstadt Deutschland": [
+   8.3710891,
+   49.3832351
+  ],
+  "67120 Duppigheim Frankreich": [
+   7.5894588,
+   48.5281292
+  ],
+  "67271 Kleinkarlbach Deutschland": [
+   8.1533344,
+   49.5403884
+  ],
+  "67308 Zellertal Deutschland": [
+   8.1374518,
+   49.640515
+  ],
+  "67346 Speyer Deutschland": [
+   8.4343415,
+   49.3290791
+  ],
+  "67482 Altdorf Deutschland": [
+   8.2164153,
+   49.2863021
+  ],
+  "67657 Kaiserslautern Deutschland": [
+   7.813056,
+   49.4514439
+  ],
+  "67681 Sembach Deutschland": [
+   7.8595906,
+   49.5203311
+  ],
+  "67714 Waldfischbach-Burgalben Deutschland": [
+   7.6674314,
+   49.2850924
+  ],
+  "68199 Mannheim Deutschland": [
+   8.4796335,
+   49.4533756
+  ],
+  "68526 Ladenburg Deutschland": [
+   8.6154087,
+   49.4771293
+  ],
+  "68542 Heddesheim Deutschland": [
+   8.6105328,
+   49.5154981
+  ],
+  "68642 Bürstadt Deutschland": [
+   8.4716496,
+   49.6423594
+  ],
+  "68766 Hockenheim Deutschland": [
+   8.5302122,
+   49.3280439
+  ],
+  "68789 Sankt Leon-Rot Deutschland": [
+   8.6114907,
+   49.2640759
+  ],
+  "69124 Heidelberg Deutschland": [
+   8.6464286,
+   49.3751034
+  ],
+  "69126 Heidelberg Deutschland": [
+   8.6989354,
+   49.3727469
+  ],
+  "69168 Wiesloch Deutschland": [
+   8.7148031,
+   49.2991005
+  ],
+  "69412 Eberbach Deutschland": [
+   9.002767,
+   49.4703771
+  ],
+  "69502 Hemsbach Deutschland": [
+   8.6467383,
+   49.5950454
+  ],
+  "70176 Stuttgart Deutschland": [
+   9.1617381,
+   48.7773527
+  ],
+  "70188 Stuttgart Deutschland": [
+   9.2135245,
+   48.784563
+  ],
+  "70197 Stuttgart Deutschland": [
+   9.1129334,
+   48.7711812
+  ],
+  "70469 Stuttgart Deutschland": [
+   9.1542248,
+   48.810997
+  ],
+  "70736 Fellbach Deutschland": [
+   9.266945,
+   48.8369598
+  ],
+  "70794 Filderstadt Deutschland": [
+   9.2167663,
+   48.6581979
+  ],
+  "70825 Korntal-Münchingen Deutschland": [
+   9.1023081,
+   48.8480322
+  ],
+  "70839 Gerlingen Deutschland": [
+   9.062841,
+   48.788642
+  ],
+  "7100 Szekszárd Ungarn": [
+   18.7051347,
+   46.3468945
+  ],
+  "71069 Sindelfingen Deutschland": [
+   8.9567091,
+   48.7095756
+  ],
+  "71088 Holzgerlingen Deutschland": [
+   9.0173993,
+   48.6403718
+  ],
+  "71101 Schönaich Deutschland": [
+   9.0667608,
+   48.6578572
+  ],
+  "71111 Waldenbuch Deutschland": [
+   9.1311678,
+   48.6302075
+  ],
+  "71116 Gärtringen Deutschland": [
+   8.898047,
+   48.6399895
+  ],
+  "71149 Bondorf Deutschland": [
+   8.8259545,
+   48.522251
+  ],
+  "71154 Nufringen Deutschland": [
+   8.8968601,
+   48.6213854
+  ],
+  "71229 Leonberg Deutschland": [
+   9.0070269,
+   48.7905044
+  ],
+  "71299 Wimsheim Deutschland": [
+   8.8152975,
+   48.8530454
+  ],
+  "71334 Waiblingen Deutschland": [
+   9.3295838,
+   48.8370976
+  ],
+  "71336 Waiblingen Deutschland": [
+   9.3239494,
+   48.8748998
+  ],
+  "71384 Weinstadt Deutschland": [
+   9.3896054,
+   48.7981426
+  ],
+  "71409 Schwaikheim Deutschland": [
+   9.3526195,
+   48.8749248
+  ],
+  "71546 Aspach Deutschland": [
+   9.3901762,
+   48.9899305
+  ],
+  "71554 Weissach im Tal Deutschland": [
+   9.4961153,
+   48.9216517
+  ],
+  "71577 Großerlach Deutschland": [
+   9.5507976,
+   49.0454286
+  ],
+  "71636 Ludwigsburg Deutschland": [
+   9.1667987,
+   48.888392
+  ],
+  "71642 Ludwigsburg Deutschland": [
+   9.2469052,
+   48.9116956
+  ],
+  "71665 Vaihingen an der Enz Deutschland": [
+   8.9656069,
+   48.9473262
+  ],
+  "71679 Asperg Deutschland": [
+   9.1427868,
+   48.9060603
+  ],
+  "71686 Remseck am Neckar Deutschland": [
+   9.2674075,
+   48.8785255
+  ],
+  "71696 Möglingen Deutschland": [
+   9.13332,
+   48.8790733
+  ],
+  "71706 Markgröningen Deutschland": [
+   9.0687129,
+   48.9103479
+  ],
+  "71711 Steinheim an der Murr Deutschland": [
+   9.2780959,
+   48.9750086
+  ],
+  "71720 Oberstenfeld Deutschland": [
+   9.3578485,
+   49.0332147
+  ],
+  "71723 Großbottwar Deutschland": [
+   9.2853625,
+   49.0091677
+  ],
+  "71729 Erdmannhausen Deutschland": [
+   9.2960209,
+   48.9370845
+  ],
+  "72072 Tübingen Deutschland": [
+   9.0438066,
+   48.4912661
+  ],
+  "72108 Rottenburg am Neckar Deutschland": [
+   8.9069477,
+   48.4734431
+  ],
+  "72119 Ammerbuch Deutschland": [
+   8.9568663,
+   48.5567981
+  ],
+  "72124 Pliezhausen Deutschland": [
+   9.1737888,
+   48.5656601
+  ],
+  "72147 Nehren Deutschland": [
+   9.0743922,
+   48.4321096
+  ],
+  "72160 Horb am Neckar Deutschland": [
+   8.6608349,
+   48.4435742
+  ],
+  "72172 Sulz am Neckar Deutschland": [
+   8.6386941,
+   48.3651702
+  ],
+  "72178 Waldachtal Deutschland": [
+   8.5821502,
+   48.4879712
+  ],
+  "72213 Altensteig Deutschland": [
+   8.6017489,
+   48.5961765
+  ],
+  "72221 Haiterbach Deutschland": [
+   8.6454351,
+   48.5300696
+  ],
+  "72229 Rohrdorf Deutschland": [
+   8.6862532,
+   48.5681994
+  ],
+  "72290 Loßburg Deutschland": [
+   8.4484051,
+   48.3992262
+  ],
+  "72297 Seewald Deutschland": [
+   8.4557414,
+   48.5859842
+  ],
+  "72336 Balingen Deutschland": [
+   8.8623776,
+   48.2659024
+  ],
+  "72348 Rosenfeld Deutschland": [
+   8.7167729,
+   48.2844042
+  ],
+  "72358 Dormettingen Deutschland": [
+   8.77424,
+   48.2433968
+  ],
+  "72411 Bodelshausen Deutschland": [
+   8.9706205,
+   48.3984228
+  ],
+  "72414 Rangendingen Deutschland": [
+   8.8761699,
+   48.3868087
+  ],
+  "72534 Hayingen Deutschland": [
+   9.4714254,
+   48.295134
+  ],
+  "72584 Hülben Deutschland": [
+   9.4057281,
+   48.5218049
+  ],
+  "72622 Nürtingen Deutschland": [
+   9.3405139,
+   48.6195383
+  ],
+  "72636 Frickenhausen Deutschland": [
+   9.3607615,
+   48.5860114
+  ],
+  "72644 Oberboihingen Deutschland": [
+   9.3771761,
+   48.6451608
+  ],
+  "72654 Neckartenzlingen Deutschland": [
+   9.2376829,
+   48.5840266
+  ],
+  "72669 Unterensingen Deutschland": [
+   9.3398532,
+   48.6614955
+  ],
+  "72766 Reutlingen Deutschland": [
+   9.233815,
+   48.5302957
+  ],
+  "72768 Reutlingen Deutschland": [
+   9.1937018,
+   48.5360917
+  ],
+  "72810 Gomaringen Deutschland": [
+   9.1016171,
+   48.457067
+  ],
+  "72813 Sankt Johann Deutschland": [
+   7.0256438,
+   49.225065
+  ],
+  "73037 Eschenbach Deutschland": [
+   9.676742,
+   48.6622903
+  ],
+  "73119 Zell unter Aichelberg Deutschland": [
+   9.5749214,
+   48.6483275
+  ],
+  "73207 Plochingen Deutschland": [
+   9.4209727,
+   48.7186469
+  ],
+  "73230 Kirchheim unter Teck Deutschland": [
+   9.4564901,
+   48.642726
+  ],
+  "73262 Reichenbach an der Fils Deutschland": [
+   9.4672592,
+   48.7160454
+  ],
+  "73274 Notzingen Deutschland": [
+   9.4643048,
+   48.6746101
+  ],
+  "73309 Geislingen an der Steige Deutschland": [
+   9.8356703,
+   48.6230397
+  ],
+  "73312 Geislingen an der Steige Deutschland": [
+   9.8321828,
+   48.6100462
+  ],
+  "73431 Aalen Deutschland": [
+   10.0914763,
+   48.8246368
+  ],
+  "73432 Aalen Deutschland": [
+   10.1774255,
+   48.8150279
+  ],
+  "73441 Bopfingen Deutschland": [
+   10.342481,
+   48.857476
+  ],
+  "73447 Oberkochen Deutschland": [
+   10.1005073,
+   48.780935
+  ],
+  "73453 Abtsgmünd Deutschland": [
+   9.9604482,
+   48.9122933
+  ],
+  "73463 Westhausen Deutschland": [
+   10.2086185,
+   48.8898342
+  ],
+  "73466 Lauchheim Deutschland": [
+   10.2589096,
+   48.868848
+  ],
+  "73467 Kirchheim am Ries Deutschland": [
+   10.4061307,
+   48.8843781
+  ],
+  "73479 Ellwangen (Jagst) Deutschland": [
+   10.181147,
+   48.9639829
+  ],
+  "73497 Tannhausen Deutschland": [
+   10.3576737,
+   48.9769014
+  ],
+  "73527 Schwäbisch Gmünd Deutschland": [
+   9.8114797,
+   48.8251744
+  ],
+  "73529 Schwäbisch Gmünd Deutschland": [
+   9.8357713,
+   48.7670032
+  ],
+  "73547 Lorch Deutschland": [
+   9.677838,
+   48.797304
+  ],
+  "73553 Alfdorf Deutschland": [
+   9.7046695,
+   48.8599608
+  ],
+  "73563 Mögglingen Deutschland": [
+   9.9635409,
+   48.8265164
+  ],
+  "73568 Durlangen Deutschland": [
+   9.7903116,
+   48.8568487
+  ],
+  "73635 Rudersberg Deutschland": [
+   9.5395709,
+   48.8797147
+  ],
+  "73642 Welzheim Deutschland": [
+   9.6240531,
+   48.8783857
+  ],
+  "73655 Plüderhausen Deutschland": [
+   9.6110521,
+   48.8050589
+  ],
+  "73660 Urbach Deutschland": [
+   9.5832397,
+   48.8232106
+  ],
+  "73666 Baltmannsweiler Deutschland": [
+   9.4441807,
+   48.7502578
+  ],
+  "73730 Esslingen am Neckar Deutschland": [
+   9.3606401,
+   48.7336265
+  ],
+  "73760 Ostfildern Deutschland": [
+   9.2614189,
+   48.7178523
+  ],
+  "73765 Neuhausen auf den Fildern Deutschland": [
+   9.2769325,
+   48.6811823
+  ],
+  "73770 Denkendorf Deutschland": [
+   9.3210092,
+   48.6937583
+  ],
+  "73776 Altbach Deutschland": [
+   9.380334,
+   48.7260184
+  ],
+  "74076 Heilbronn Deutschland": [
+   9.2283224,
+   49.1584379
+  ],
+  "74078 Heilbronn Deutschland": [
+   9.1425113,
+   49.180032
+  ],
+  "74081 Heilbronn Deutschland": [
+   9.1843011,
+   49.1128774
+  ],
+  "74172 Neckarsulm Deutschland": [
+   9.2351824,
+   49.1986362
+  ],
+  "74177 Bad Friedrichshall Deutschland": [
+   9.2179182,
+   49.2400075
+  ],
+  "74182 Obersulm Deutschland": [
+   9.3875705,
+   49.1319557
+  ],
+  "74189 Weinsberg Deutschland": [
+   9.3025317,
+   49.1540226
+  ],
+  "74193 Schwaigern Deutschland": [
+   9.0299938,
+   49.1385093
+  ],
+  "74196 Neuenstadt am Kocher Deutschland": [
+   9.3236256,
+   49.2397972
+  ],
+  "74211 Leingarten Deutschland": [
+   9.1122473,
+   49.1458648
+  ],
+  "74214 Schöntal Deutschland": [
+   9.5308402,
+   49.34931
+  ],
+  "74219 Möckmühl Deutschland": [
+   9.3552335,
+   49.3248259
+  ],
+  "74226 Nordheim Deutschland": [
+   9.1120958,
+   49.1118317
+  ],
+  "74232 Abstatt Deutschland": [
+   9.3085947,
+   49.0724509
+  ],
+  "74235 Erlenbach Deutschland": [
+   9.267818,
+   49.1795343
+  ],
+  "74238 Krautheim Deutschland": [
+   9.6358036,
+   49.3879158
+  ],
+  "74243 Langenbrettach Deutschland": [
+   9.3966244,
+   49.2144291
+  ],
+  "74245 Löwenstein Deutschland": [
+   9.3899319,
+   49.0971964
+  ],
+  "74252 Massenbachhausen Deutschland": [
+   9.0337237,
+   49.1811913
+  ],
+  "74255 Roigheim Deutschland": [
+   9.337031,
+   49.3645264
+  ],
+  "74257 Untereisesheim Deutschland": [
+   9.1945655,
+   49.2101601
+  ],
+  "74321 Bietigheim-Bissingen Deutschland": [
+   9.1187088,
+   48.9551654
+  ],
+  "74336 Brackenheim Deutschland": [
+   9.0651902,
+   49.0836708
+  ],
+  "74343 Sachsenheim Deutschland": [
+   9.0035901,
+   49.0001206
+  ],
+  "74348 Lauffen am Neckar Deutschland": [
+   9.1544501,
+   49.0753719
+  ],
+  "74354 Besigheim Deutschland": [
+   9.1730168,
+   49.002732
+  ],
+  "74360 Ilsfeld Deutschland": [
+   9.2544618,
+   49.0577455
+  ],
+  "74363 Güglingen Deutschland": [
+   9.0018287,
+   49.0653148
+  ],
+  "74369 Löchgau Deutschland": [
+   9.097976,
+   48.9960865
+  ],
+  "74372 Sersheim Deutschland": [
+   9.0150513,
+   48.962945
+  ],
+  "74385 Pleidelsheim Deutschland": [
+   9.2113203,
+   48.9589037
+  ],
+  "74388 Talheim Deutschland": [
+   9.2012997,
+   49.0851009
+  ],
+  "74389 Cleebronn Deutschland": [
+   9.0279606,
+   49.0418292
+  ],
+  "74405 Gaildorf Deutschland": [
+   9.7751899,
+   49.0027531
+  ],
+  "74417 Gschwend Deutschland": [
+   9.7544766,
+   48.9334013
+  ],
+  "74420 Oberrot Deutschland": [
+   9.6542418,
+   49.0216125
+  ],
+  "74423 Obersontheim Deutschland": [
+   9.8597212,
+   49.0475488
+  ],
+  "74424 Bühlertann Deutschland": [
+   9.9292375,
+   49.0323924
+  ],
+  "74428 Illingen Deutschland": [
+   7.0143689,
+   49.3624732
+  ],
+  "74429 Sulzbach-Laufen Deutschland": [
+   9.8554081,
+   48.9576359
+  ],
+  "74523 Schwäbisch Hall Deutschland": [
+   9.7608912,
+   49.111595
+  ],
+  "74532 Ilshofen Deutschland": [
+   9.8980536,
+   49.1742471
+  ],
+  "74535 Mainhardt Deutschland": [
+   9.5701269,
+   49.0870503
+  ],
+  "74538 Rosengarten Deutschland": [
+   9.70722,
+   49.0606431
+  ],
+  "74541 Vellberg Deutschland": [
+   9.9051248,
+   49.1069956
+  ],
+  "74542 Braunsbach Deutschland": [
+   9.7898909,
+   49.2093986
+  ],
+  "74547 Untermünkheim Deutschland": [
+   9.730807,
+   49.1677308
+  ],
+  "74549 Wolpertshausen Deutschland": [
+   9.8518163,
+   49.1640009
+  ],
+  "74564 Crailsheim Deutschland": [
+   10.0555107,
+   49.1314466
+  ],
+  "74572 Blaufelden Deutschland": [
+   9.9662348,
+   49.3034461
+  ],
+  "74579 Fichtenau Deutschland": [
+   10.2042718,
+   49.0702751
+  ],
+  "74585 Rot am See Deutschland": [
+   10.0603673,
+   49.2656978
+  ],
+  "74586 Frankenhardt / Honhardt Deutschland": [
+   10.03749,
+   49.0714269
+  ],
+  "74592 Kirchberg an der Jagst Deutschland": [
+   9.9771128,
+   49.2030327
+  ],
+  "74595 Langenburg Deutschland": [
+   9.8558443,
+   49.2571396
+  ],
+  "74613 Öhringen Deutschland": [
+   9.5026848,
+   49.2092729
+  ],
+  "74626 Bretzfeld Deutschland": [
+   9.4385244,
+   49.1567606
+  ],
+  "74626 Bretzfeld-Schwabbach Deutschland": [
+   9.4128426,
+   49.180194
+  ],
+  "74629 Pfedelbach Deutschland": [
+   9.5341326,
+   49.1533881
+  ],
+  "74632 Neuenstein Deutschland": [
+   9.5954188,
+   49.2193817
+  ],
+  "74635 Kupferzell Deutschland": [
+   9.6966792,
+   49.2192423
+  ],
+  "74635 Neu-Kupfer Deutschland": [
+   9.6938736,
+   49.1805976
+  ],
+  "74638 Waldenburg Deutschland": [
+   9.6400974,
+   49.1705243
+  ],
+  "74653 Ingelfingen Deutschland": [
+   9.6513353,
+   49.3014449
+  ],
+  "74653 Künzelsau Deutschland": [
+   9.711123,
+   49.2939984
+  ],
+  "74653 Künzelsau Steinbach Deutschland": [
+   9.711123,
+   49.2939984
+  ],
+  "74670 Forchtenberg Deutschland": [
+   9.5366525,
+   49.2855697
+  ],
+  "74673 Mulfingen Deutschland": [
+   9.8016173,
+   49.3459893
+  ],
+  "74676 Niedernhall Deutschland": [
+   9.6132922,
+   49.2783703
+  ],
+  "74677 Dörzbach Deutschland": [
+   9.7172622,
+   49.3740021
+  ],
+  "74706 Osterburken Deutschland": [
+   9.4112265,
+   49.4458421
+  ],
+  "74731 Walldürn Deutschland": [
+   9.3643249,
+   49.5863345
+  ],
+  "74744 Ahorn Deutschland": [
+   9.5460724,
+   49.4920622
+  ],
+  "74746 Höpfingen Deutschland": [
+   9.427208,
+   49.5829554
+  ],
+  "74749 Rosenberg Deutschland": [
+   9.4740314,
+   49.4680755
+  ],
+  "74821 Mosbach Deutschland": [
+   9.1339637,
+   49.3812205
+  ],
+  "74834 Elztal Deutschland": [
+   9.2072159,
+   49.4005885
+  ],
+  "74842 Billigheim Deutschland": [
+   9.2478449,
+   49.3445869
+  ],
+  "74889 Sinsheim Deutschland": [
+   8.8797082,
+   49.2380788
+  ],
+  "74906 Bad Rappenau Deutschland": [
+   9.0655761,
+   49.2389852
+  ],
+  "74912 Kirchardt Deutschland": [
+   8.9895143,
+   49.200285
+  ],
+  "75015 Bretten Deutschland": [
+   8.7028812,
+   49.0438639
+  ],
+  "75015 Bretten-Gölshausen Deutschland": [
+   8.7221349,
+   49.0456993
+  ],
+  "75031 Eppingen Deutschland": [
+   8.9071478,
+   49.1375008
+  ],
+  "75059 Zaisenhausen Deutschland": [
+   8.8113891,
+   49.1077953
+  ],
+  "75177 Pforzheim Deutschland": [
+   8.7060695,
+   48.9003994
+  ],
+  "75203 Königsbach-Stein Deutschland": [
+   8.6347609,
+   48.9722599
+  ],
+  "75217 Birkenfeld Deutschland": [
+   8.6081777,
+   48.8706124
+  ],
+  "75245 Neulingen Deutschland": [
+   8.710738,
+   48.9717094
+  ],
+  "75334 Straubenhardt Deutschland": [
+   8.5237948,
+   48.8445716
+  ],
+  "75417 Mühlacker Deutschland": [
+   8.857437,
+   48.9435725
+  ],
+  "75428 Illingen Deutschland": [
+   8.9083608,
+   48.9774628
+  ],
+  "75433 Maulbronn Deutschland": [
+   8.8182557,
+   48.9990643
+  ],
+  "76139 Karlsruhe Deutschland": [
+   8.4519299,
+   49.0303499
+  ],
+  "76149 Karlsruhe Deutschland": [
+   8.3823838,
+   49.0498545
+  ],
+  "76189 Karlsruhe Deutschland": [
+   8.3252086,
+   48.9994244
+  ],
+  "76227 Karlsruhe Deutschland": [
+   8.4695913,
+   48.9918823
+  ],
+  "76229 Karlsruhe Deutschland": [
+   8.4963674,
+   49.0270164
+  ],
+  "76275 Ettlingen Deutschland": [
+   8.4061314,
+   48.9273179
+  ],
+  "76337 Waldbronn Deutschland": [
+   8.4699386,
+   48.9238569
+  ],
+  "76344 Eggenstein-Leopoldshafen Deutschland": [
+   8.3859781,
+   49.0908411
+  ],
+  "76356 Weingarten (Baden) Deutschland": [
+   8.5361608,
+   49.0552994
+  ],
+  "76437 Rastatt Deutschland": [
+   8.1856579,
+   48.8631434
+  ],
+  "76661 Philippsburg Deutschland": [
+   8.4447176,
+   49.2213808
+  ],
+  "76698 Ubstadt-Weiher Deutschland": [
+   8.6431068,
+   49.177528
+  ],
+  "76709 Kronau Deutschland": [
+   8.6135151,
+   49.2263364
+  ],
+  "76726 Germersheim Deutschland": [
+   8.3716951,
+   49.2137312
+  ],
+  "76829 Landau in der Pfalz Deutschland": [
+   8.0946616,
+   49.1965386
+  ],
+  "76870 Kandel Deutschland": [
+   8.1978224,
+   49.0879038
+  ],
+  "77652 Offenburg Deutschland": [
+   7.9388418,
+   48.50439
+  ],
+  "77656 Offenburg Deutschland": [
+   7.9234795,
+   48.4594035
+  ],
+  "77704 Oberkirch Deutschland": [
+   8.0670733,
+   48.5216194
+  ],
+  "77746 Schutterwald Deutschland": [
+   7.872718,
+   48.4630245
+  ],
+  "77790 Steinach Deutschland": [
+   8.0284981,
+   48.285691
+  ],
+  "77815 Bühl Deutschland": [
+   8.1350401,
+   48.7016606
+  ],
+  "77836 Rheinmünster Deutschland": [
+   8.0476094,
+   48.7596425
+  ],
+  "77866 Rheinau Deutschland": [
+   7.9354029,
+   48.6567421
+  ],
+  "77933 Lahr/Schwarzwald Deutschland": [
+   7.8723584,
+   48.3355086
+  ],
+  "77948 Friesenheim Deutschland": [
+   7.8951348,
+   48.3785759
+  ],
+  "77963 Schwanau Deutschland": [
+   7.7639382,
+   48.3649357
+  ],
+  "78052 Villingen-Schwenningen Deutschland": [
+   8.436108,
+   48.0484379
+  ],
+  "78073 Bad Dürrheim Deutschland": [
+   8.5867366,
+   47.9968146
+  ],
+  "78112 Sankt Georgen im Schwarzwald Deutschland": [
+   8.3294719,
+   48.1226922
+  ],
+  "78126 Königsfeld im Schwarzwald Deutschland": [
+   8.4215954,
+   48.1513683
+  ],
+  "78141 Schönwald im Schwarzwald Deutschland": [
+   8.201087,
+   48.1066652
+  ],
+  "78187 Geisingen Deutschland": [
+   8.6492861,
+   47.9035918
+  ],
+  "78224 Singen (Hohentwiel) Deutschland": [
+   8.869999,
+   47.7606427
+  ],
+  "78239 Rielasingen-Worblingen Deutschland": [
+   8.8438437,
+   47.7280135
+  ],
+  "78315 Radolfzell am Bodensee Deutschland": [
+   8.9832165,
+   47.764418
+  ],
+  "78464 Konstanz Deutschland": [
+   9.1920677,
+   47.6820943
+  ],
+  "78479 Reichenau Deutschland": [
+   9.0669066,
+   47.6977587
+  ],
+  "78554 Aldingen Deutschland": [
+   8.6828838,
+   48.0939701
+  ],
+  "78609 Tuningen Deutschland": [
+   8.6090958,
+   48.0286246
+  ],
+  "78652 Deißlingen Deutschland": [
+   8.5983284,
+   48.111046
+  ],
+  "78665 Frittlingen Deutschland": [
+   8.7125942,
+   48.127241
+  ],
+  "78727 Oberndorf am Neckar Deutschland": [
+   8.5709431,
+   48.2951634
+  ],
+  "79098 Freiburg im Breisgau Deutschland": [
+   7.8486764,
+   47.9948074
+  ],
+  "79108 Freiburg im Breisgau Deutschland": [
+   7.8283367,
+   48.0405165
+  ],
+  "79114 Freiburg im Breisgau Deutschland": [
+   7.8098589,
+   47.9995966
+  ],
+  "79183 Waldkirch Deutschland": [
+   7.9696516,
+   48.0894245
+  ],
+  "79189 Bad Krozingen Deutschland": [
+   7.6808788,
+   47.9208743
+  ],
+  "79206 Breisach am Rhein Deutschland": [
+   7.6215947,
+   48.0167251
+  ],
+  "79211 Denzlingen Deutschland": [
+   7.8843519,
+   48.070484
+  ],
+  "79227 Schallstadt Deutschland": [
+   7.7354776,
+   47.9607608
+  ],
+  "79423 Heitersheim Deutschland": [
+   7.6580829,
+   47.8756537
+  ],
+  "79688 Hausen im Wiesental Deutschland": [
+   7.832603,
+   47.683957
+  ],
+  "79793 Wutöschingen Deutschland": [
+   8.3626047,
+   47.656968
+  ],
+  "79848 Bonndorf im Schwarzwald Deutschland": [
+   8.3248792,
+   47.8127124
+  ],
+  "80807 München Deutschland": [
+   11.5854865,
+   48.1843902
+  ],
+  "80809 München Deutschland": [
+   11.5532738,
+   48.1794087
+  ],
+  "80939 München Deutschland": [
+   11.6161901,
+   48.2061506
+  ],
+  "80995 München Deutschland": [
+   11.5151835,
+   48.2171692
+  ],
+  "81245 München Deutschland": [
+   11.4418758,
+   48.1604953
+  ],
+  "82065 Baierbrunn Deutschland": [
+   11.4801356,
+   48.0146854
+  ],
+  "82110 Germering Deutschland": [
+   11.3603415,
+   48.1289896
+  ],
+  "82256 Fürstenfeldbruck Deutschland": [
+   11.2328075,
+   48.1804247
+  ],
+  "82377 Penzberg Deutschland": [
+   11.3812591,
+   47.761048
+  ],
+  "82515 Wolfratshausen Deutschland": [
+   11.4268615,
+   47.9145415
+  ],
+  "83075 Bad Feilnbach Deutschland": [
+   11.9995354,
+   47.787113
+  ],
+  "83301 Traunreut Deutschland": [
+   12.5829246,
+   47.9556219
+  ],
+  "83376 Seeon-Seebruck Deutschland": [
+   12.502915,
+   47.9585727
+  ],
+  "83471 Schönau am Königssee Deutschland": [
+   13.0014674,
+   47.5689366
+  ],
+  "83530 Schnaitsee Deutschland": [
+   12.3939091,
+   48.0786924
+  ],
+  "83549 Eiselfing Deutschland": [
+   12.2466901,
+   48.03251
+  ],
+  "84056 Rottenburg an der Laaber Deutschland": [
+   12.0384823,
+   48.7164189
+  ],
+  "84076 Pfeffenhausen Deutschland": [
+   11.9427104,
+   48.6636694
+  ],
+  "84088 Neufahrn in Niederbayern Deutschland": [
+   12.1514584,
+   48.7355672
+  ],
+  "84172 Buch am Erlbach Deutschland": [
+   12.046148,
+   48.4425763
+  ],
+  "84184 Tiefenbach Deutschland": [
+   12.1123541,
+   48.4905814
+  ],
+  "84332 Hebertsfelden Deutschland": [
+   12.8193994,
+   48.4270607
+  ],
+  "84364 Bad Birnbach Deutschland": [
+   13.0678204,
+   48.4459558
+  ],
+  "84432 Hohenpolding Deutschland": [
+   12.1322488,
+   48.3972787
+  ],
+  "84453 Mühldorf am Inn Deutschland": [
+   12.5183735,
+   48.249378
+  ],
+  "84539 Ampfing Deutschland": [
+   12.4028151,
+   48.2612753
+  ],
+  "84561 Mehring Deutschland": [
+   12.7909323,
+   48.1847822
+  ],
+  "85092 Kösching Deutschland": [
+   11.5194407,
+   48.8361915
+  ],
+  "85283 Wolnzach Deutschland": [
+   11.6305737,
+   48.6025709
+  ],
+  "85408 Gammelsdorf Deutschland": [
+   11.9367536,
+   48.5554753
+  ],
+  "85435 Erding Deutschland": [
+   11.9141866,
+   48.3063908
+  ],
+  "85560 Ebersberg Deutschland": [
+   11.9478331,
+   48.1060294
+  ],
+  "85599 Vaterstetten Deutschland": [
+   11.7949784,
+   48.1394664
+  ],
+  "85609 Aschheim Deutschland": [
+   11.7154052,
+   48.1853296
+  ],
+  "85640 Putzbrunn Deutschland": [
+   11.7066001,
+   48.0827902
+  ],
+  "85757 Karlsfeld Deutschland": [
+   11.4625779,
+   48.2294761
+  ],
+  "86161 Augsburg Deutschland": [
+   10.9209281,
+   48.3463192
+  ],
+  "86165 Augsburg Deutschland": [
+   10.939004,
+   48.3798728
+  ],
+  "86167 Augsburg Deutschland": [
+   10.9243154,
+   48.3940817
+  ],
+  "86199 Augsburg Deutschland": [
+   10.8305621,
+   48.3217709
+  ],
+  "86316 Friedberg Deutschland": [
+   11.0034407,
+   48.3622786
+  ],
+  "86438 Kissing Deutschland": [
+   10.9809469,
+   48.3045312
+  ],
+  "86444 Affing Deutschland": [
+   10.9639918,
+   48.4492982
+  ],
+  "86529 Schrobenhausen Deutschland": [
+   11.2337023,
+   48.571814
+  ],
+  "86637 Wertingen Deutschland": [
+   10.665738,
+   48.5436937
+  ],
+  "86757 Wallerstein Deutschland": [
+   10.4743855,
+   48.89086
+  ],
+  "86833 Ettringen Deutschland": [
+   10.659592,
+   48.1259191
+  ],
+  "86857 Hurlach Deutschland": [
+   10.8265991,
+   48.120103
+  ],
+  "86916 Kaufering Deutschland": [
+   10.8721046,
+   48.0988973
+  ],
+  "86926 Greifenberg Deutschland": [
+   11.0758849,
+   48.0804619
+  ],
+  "86956 Schongau Deutschland": [
+   10.8965082,
+   47.8127105
+  ],
+  "86978 Hohenfurch Deutschland": [
+   10.8969264,
+   47.8540256
+  ],
+  "87480 Weitnau Deutschland": [
+   10.1484179,
+   47.6536782
+  ],
+  "87541 Bad Hindelang Deutschland": [
+   10.4017169,
+   47.4668668
+  ],
+  "87675 Stötten am Auerberg Deutschland": [
+   10.7116298,
+   47.7413522
+  ],
+  "87700 Memmingen Deutschland": [
+   10.1630642,
+   47.9788332
+  ],
+  "87760 Lachen Deutschland": [
+   10.2454762,
+   47.9427534
+  ],
+  "87770 Oberschönegg Deutschland": [
+   10.3107827,
+   48.1141604
+  ],
+  "87778 Stetten Deutschland": [
+   10.4340047,
+   48.0098361
+  ],
+  "87787 Wolfertschwenden Deutschland": [
+   10.2586957,
+   47.9031136
+  ],
+  "88046 Friedrichshafen Deutschland": [
+   9.5040928,
+   47.6627699
+  ],
+  "88145 Opfenbach Deutschland": [
+   9.8488329,
+   47.6435731
+  ],
+  "88167 Stiefenhofen Deutschland": [
+   10.0041305,
+   47.5925754
+  ],
+  "88212 Ravensburg Deutschland": [
+   9.6241899,
+   47.7808031
+  ],
+  "88213 Ravensburg Deutschland": [
+   9.5425326,
+   47.771751
+  ],
+  "88214 Ravensburg Deutschland": [
+   9.6091249,
+   47.7410818
+  ],
+  "88239 Wangen im Allgäu Deutschland": [
+   9.8061748,
+   47.692501
+  ],
+  "88299 Leutkirch im Allgäu Deutschland": [
+   10.0187551,
+   47.8125783
+  ],
+  "88319 Aitrach Deutschland": [
+   10.061122,
+   47.9364336
+  ],
+  "88356 Ostrach Deutschland": [
+   9.3607035,
+   47.9510806
+  ],
+  "88361 Altshausen Deutschland": [
+   9.5309308,
+   47.9366252
+  ],
+  "88416 Ochsenhausen Deutschland": [
+   9.9475811,
+   48.0555617
+  ],
+  "88471 Laupheim Deutschland": [
+   9.8643425,
+   48.2277175
+  ],
+  "88487 Mietingen Deutschland": [
+   9.8957641,
+   48.1795603
+  ],
+  "88512 Mengen Deutschland": [
+   9.3240678,
+   48.0447244
+  ],
+  "88524 Uttenweiler Deutschland": [
+   9.6107996,
+   48.1578442
+  ],
+  "8854 Krakau Österreich": [
+   13.9632238,
+   47.2150508
+  ],
+  "89079 Ulm Deutschland": [
+   9.9319114,
+   48.3487551
+  ],
+  "89081 Ulm Deutschland": [
+   9.9521265,
+   48.4173938
+  ],
+  "89134 Blaustein Deutschland": [
+   9.8667022,
+   48.4317388
+  ],
+  "89143 Blaubeuren Deutschland": [
+   9.7858164,
+   48.409865
+  ],
+  "89155 Erbach Deutschland": [
+   9.8631406,
+   48.3242743
+  ],
+  "89160 Dornstadt Deutschland": [
+   9.8914519,
+   48.4845728
+  ],
+  "89179 Beimerstetten Deutschland": [
+   9.9763772,
+   48.4851574
+  ],
+  "89188 Merklingen Deutschland": [
+   9.7501542,
+   48.5184665
+  ],
+  "89231 Neu-Ulm Deutschland": [
+   10.0097694,
+   48.3794137
+  ],
+  "89257 Illertissen Deutschland": [
+   10.1103568,
+   48.2279653
+  ],
+  "89264 Weißenhorn Deutschland": [
+   10.1736161,
+   48.3045358
+  ],
+  "89269 Vöhringen Deutschland": [
+   10.0911465,
+   48.2898624
+  ],
+  "89275 Elchingen Deutschland": [
+   10.0842619,
+   48.4487311
+  ],
+  "89278 Nersingen Deutschland": [
+   10.1387015,
+   48.4242328
+  ],
+  "89284 Pfaffenhofen an der Roth Deutschland": [
+   10.1617423,
+   48.3611298
+  ],
+  "89312 Günzburg Deutschland": [
+   10.2804209,
+   48.466309
+  ],
+  "89331 Burgau Deutschland": [
+   10.3831565,
+   48.4288611
+  ],
+  "89349 Burtenbach Deutschland": [
+   10.4597101,
+   48.3468839
+  ],
+  "89359 Kötz Deutschland": [
+   10.2859554,
+   48.4068806
+  ],
+  "89420 Höchstädt an der Donau Deutschland": [
+   10.5746569,
+   48.6243415
+  ],
+  "89520 Heidenheim an der Brenz Deutschland": [
+   10.1937252,
+   48.7304287
+  ],
+  "89522 Heidenheim an der Brenz Deutschland": [
+   10.1850421,
+   48.6667962
+  ],
+  "89547 Gerstetten Deutschland": [
+   10.0451414,
+   48.619044
+  ],
+  "89551 Königsbronn Deutschland": [
+   10.1035673,
+   48.739035
+  ],
+  "89564 Nattheim Deutschland": [
+   10.2718067,
+   48.7135818
+  ],
+  "90411 Nürnberg Deutschland": [
+   11.0996414,
+   49.4931913
+  ],
+  "90431 Nürnberg Deutschland": [
+   11.0212371,
+   49.445219
+  ],
+  "90443 Nürnberg Deutschland": [
+   11.0688084,
+   49.4399617
+  ],
+  "90471 Nürnberg Deutschland": [
+   11.1259398,
+   49.418213
+  ],
+  "90475 Nürnberg Deutschland": [
+   11.1650249,
+   49.4130709
+  ],
+  "90513 Zirndorf Deutschland": [
+   10.9252483,
+   49.4351034
+  ],
+  "90518 Altdorf bei Nürnberg Deutschland": [
+   11.3813094,
+   49.3935132
+  ],
+  "90556 Cadolzburg Deutschland": [
+   10.8495393,
+   49.4588111
+  ],
+  "90579 Langenzenn Deutschland": [
+   10.7826106,
+   49.4891188
+  ],
+  "90592 Schwarzenbruck Deutschland": [
+   11.2479628,
+   49.349562
+  ],
+  "90763 Fürth Deutschland": [
+   10.9940549,
+   49.4560474
+  ],
+  "91056 Erlangen Deutschland": [
+   10.9539496,
+   49.5874653
+  ],
+  "91077 Neunkirchen am Brand Deutschland": [
+   11.1402144,
+   49.6219254
+  ],
+  "91085 Weisendorf Deutschland": [
+   10.8152138,
+   49.6271233
+  ],
+  "91126 Rednitzhembach Deutschland": [
+   11.0782974,
+   49.3014921
+  ],
+  "91126 Schwabach Deutschland": [
+   11.001107,
+   49.3142064
+  ],
+  "91161 Hilpoltstein Deutschland": [
+   11.2290566,
+   49.1708279
+  ],
+  "91189 Rohr Deutschland": [
+   10.927894,
+   49.3419864
+  ],
+  "91217 Hersbruck Deutschland": [
+   11.4274434,
+   49.5063364
+  ],
+  "91301 Forchheim Deutschland": [
+   11.0633887,
+   49.7200369
+  ],
+  "91448 Emskirchen Deutschland": [
+   10.7274826,
+   49.5502399
+  ],
+  "91522 Ansbach Deutschland": [
+   10.5637214,
+   49.2921898
+  ],
+  "91541 Rothenburg ob der Tauber Deutschland": [
+   10.1582699,
+   49.3696392
+  ],
+  "91555 Feuchtwangen Deutschland": [
+   10.321351,
+   49.1752971
+  ],
+  "92-410 Łódź Polen": [
+   19.5567044,
+   51.7391548
+  ],
+  "92224 Amberg Deutschland": [
+   11.8454686,
+   49.4507793
+  ],
+  "92283 Lauterhofen Deutschland": [
+   11.5652227,
+   49.3727741
+  ],
+  "92345 Dietfurt an der Altmühl Deutschland": [
+   11.5908072,
+   49.0290512
+  ],
+  "92353 Postbauer-Heng Deutschland": [
+   11.3544464,
+   49.2898607
+  ],
+  "92706 Luhe-Wildenau Deutschland": [
+   12.1285166,
+   49.5848543
+  ],
+  "92711 Parkstein Deutschland": [
+   12.057321,
+   49.7336546
+  ],
+  "93049 Regensburg Deutschland": [
+   12.0600506,
+   49.0192627
+  ],
+  "93055 Regensburg Deutschland": [
+   12.1513034,
+   49.0048866
+  ],
+  "93098 Mintraching Deutschland": [
+   12.2618114,
+   48.9485619
+  ],
+  "93128 Regenstauf Deutschland": [
+   12.1281808,
+   49.1453417
+  ],
+  "93133 Burglengenfeld Deutschland": [
+   12.0036336,
+   49.2278875
+  ],
+  "93326 Abensberg Deutschland": [
+   11.8582881,
+   48.8300256
+  ],
+  "93333 Neustadt an der Donau Deutschland": [
+   11.755259,
+   48.7964383
+  ],
+  "93426 Roding Deutschland": [
+   12.4804379,
+   49.205971
+  ],
+  "93437 Furth im Wald Deutschland": [
+   12.8349928,
+   49.3089519
+  ],
+  "94065 Waldkirchen Deutschland": [
+   13.6038777,
+   48.7350319
+  ],
+  "94118 Jandelsbrunn Deutschland": [
+   13.6875204,
+   48.7279874
+  ],
+  "94209 Regen Deutschland": [
+   13.1223237,
+   48.9699376
+  ],
+  "94447 Plattling Deutschland": [
+   12.900919,
+   48.783297
+  ],
+  "94538 Fürstenstein Deutschland": [
+   13.3230516,
+   48.7130727
+  ],
+  "9485 Eschen Liechtenstein": [
+   9.5436787,
+   47.1977322
+  ],
+  "95100 Selb Deutschland": [
+   12.1145335,
+   50.1677604
+  ],
+  "95126 Schwarzenbach an der Saale Deutschland": [
+   11.9324503,
+   50.2226309
+  ],
+  "95326 Kulmbach Deutschland": [
+   11.4325921,
+   50.1211843
+  ],
+  "95349 Thurnau Deutschland": [
+   11.4016044,
+   50.0005299
+  ],
+  "95359 Kasendorf Deutschland": [
+   11.345419,
+   50.0402892
+  ],
+  "95509 Marktschorgast Deutschland": [
+   11.6535343,
+   50.0968993
+  ],
+  "95512 Neudrossenfeld Deutschland": [
+   11.4973576,
+   50.0252406
+  ],
+  "95632 Wunsiedel Deutschland": [
+   12.0116169,
+   50.0374871
+  ],
+  "96132 Schlüsselfeld Deutschland": [
+   10.6291383,
+   49.7678918
+  ],
+  "96149 Breitengüßbach Deutschland": [
+   10.914488,
+   49.9698242
+  ],
+  "96190 Untermerzbach Deutschland": [
+   10.8396956,
+   50.120673
+  ],
+  "96215 Lichtenfels Deutschland": [
+   11.1435732,
+   50.094678
+  ],
+  "96269 Großheirath Deutschland": [
+   10.9205335,
+   50.1786058
+  ],
+  "96317 Kronach Deutschland": [
+   11.3348942,
+   50.2444429
+  ],
+  "96450 Coburg Deutschland": [
+   10.9641143,
+   50.2640768
+  ],
+  "96515 Sonneberg Deutschland": [
+   11.1944562,
+   50.4098653
+  ],
+  "97076 Würzburg Deutschland": [
+   9.9882486,
+   49.8046727
+  ],
+  "97215 Uffenheim Deutschland": [
+   10.2062373,
+   49.537468
+  ],
+  "97318 Kitzingen Deutschland": [
+   10.1380517,
+   49.7452328
+  ],
+  "97353 Wiesentheid Deutschland": [
+   10.3341471,
+   49.7987718
+  ],
+  "97450 Arnstein Deutschland": [
+   9.9611371,
+   49.9870641
+  ],
+  "97453 Schonungen Deutschland": [
+   10.3513423,
+   50.078744
+  ],
+  "97478 Knetzgau Deutschland": [
+   10.51657,
+   49.9728535
+  ],
+  "97520 Röthlein Deutschland": [
+   10.2138,
+   49.9637547
+  ],
+  "97525 Schwebheim Deutschland": [
+   10.2583973,
+   49.9905397
+  ],
+  "97631 Bad Königshofen im Grabfeld Deutschland": [
+   10.4806957,
+   50.2706667
+  ],
+  "97769 Bad Brückenau Deutschland": [
+   9.7849482,
+   50.3072385
+  ],
+  "97789 Oberleichtersbach Deutschland": [
+   9.8031658,
+   50.276428
+  ],
+  "97799 Bad Kissingen, gemeindefreies Gebiet Deutschland": [
+   9.7158226,
+   50.2457821
+  ],
+  "97877 Wertheim Deutschland": [
+   9.5222948,
+   49.743162
+  ],
+  "97892 Kreuzwertheim Deutschland": [
+   9.5325722,
+   49.786547
+  ],
+  "97907 Hasloch Deutschland": [
+   9.4825767,
+   49.8019913
+  ],
+  "97922 Lauda-Königshofen Deutschland": [
+   9.7149298,
+   49.5554091
+  ],
+  "97944 Boxberg Deutschland": [
+   9.6351335,
+   49.4902093
+  ],
+  "97959 Assamstadt Deutschland": [
+   9.6797813,
+   49.4293488
+  ],
+  "97980 Bad Mergentheim Deutschland": [
+   9.7738039,
+   49.4546057
+  ],
+  "97990 Weikersheim Deutschland": [
+   9.9149403,
+   49.4815497
+  ],
+  "97993 Creglingen Deutschland": [
+   10.0699593,
+   49.4537379
+  ],
+  "97996 Niederstetten Deutschland": [
+   9.9373987,
+   49.4028398
+  ],
+  "97999 Igersheim Deutschland": [
+   9.8468401,
+   49.5274578
+  ],
+  "98597 Fambach Deutschland": [
+   10.370229,
+   50.7378115
+  ],
+  "99099 Erfurt Deutschland": [
+   11.0988122,
+   50.9500586
+  ],
+  "99100 Dachwig Deutschland": [
+   10.8541253,
+   51.0772773
+  ],
+  "99427 Weimar Deutschland": [
+   11.3026244,
+   51.0112881
+  ],
+  "99752 Bleicherode Deutschland": [
+   10.6239594,
+   51.4508469
+  ],
+  "99834 Gerstungen Deutschland": [
+   10.1766876,
+   50.9437207
+  ],
+  "99848 Wutha-Farnroda Deutschland": [
+   10.3928331,
+   50.9408376
+  ],
+  "99974 Mühlhausen/Thüringen Deutschland": [
+   10.4419918,
+   51.2226896
+  ]
+ },
+ "geocode_alternatives": {
+  "74214 Schöntal Deutschland": [
+   [
+    9.5308402,
+    49.34931
+   ],
+   [
+    9.5378336,
+    49.3466653
+   ]
+  ],
+  "74821 Mosbach Deutschland": [
+   [
+    9.1339637,
+    49.3812205
+   ],
+   [
+    9.1460205,
+    49.3521085
+   ]
+  ],
+  "74423 Obersontheim Deutschland": [
+   [
+    9.8597212,
+    49.0475488
+   ],
+   [
+    9.8981122,
+    49.057508
+   ]
+  ],
+  "75428 Illingen Deutschland": [
+   [
+    8.9083608,
+    48.9774628
+   ],
+   [
+    8.9200047,
+    48.9557335
+   ]
+  ],
+  "74564 Crailsheim Deutschland": [
+   [
+    10.0555107,
+    49.1314466
+   ],
+   [
+    10.0720195,
+    49.1365626
+   ]
+  ],
+  "78479 Reichenau Deutschland": [
+   [
+    9.0669066,
+    47.6977587
+   ],
+   [
+    9.0592022,
+    47.6956373
+   ],
+   [
+    9.0762096,
+    47.7028644
+   ]
+  ],
+  "74635 Kupferzell Deutschland": [
+   [
+    9.6966792,
+    49.2192423
+   ],
+   [
+    9.6902519,
+    49.2276928
+   ]
+  ],
+  "83471 Schönau am Königssee Deutschland": [
+   [
+    13.0014674,
+    47.5689366
+   ],
+   [
+    12.9846526,
+    47.6054955
+   ]
+  ],
+  "87541 Bad Hindelang Deutschland": [
+   [
+    10.4017169,
+    47.4668668
+   ],
+   [
+    10.4007695,
+    47.465757
+   ]
+  ],
+  "74523 Schwäbisch Hall Deutschland": [
+   [
+    9.7608912,
+    49.111595
+   ],
+   [
+    9.7371246,
+    49.1124305
+   ]
+  ]
+ },
+ "routes": {
+  "04435 Schkeuditz Deutschland|74532 Ilshofen Deutschland": [
+   375.4,
+   4.745
+  ],
+  "04435 Schkeuditz Deutschland|74635 Kupferzell Deutschland": [
+   390.3,
+   4.949
+  ],
+  "04703 Leisnig Deutschland|74676 Niedernhall Deutschland": [
+   427.9,
+   5.794
+  ],
+  "04720 Döbeln Deutschland|74676 Niedernhall Deutschland": [
+   416.5,
+   5.381
+  ],
+  "04808 Wurzen Deutschland|74635 Kupferzell Deutschland": [
+   429.4,
+   5.439
+  ],
+  "06925 Annaburg Deutschland|74360 Ilsfeld Deutschland": [
+   516.7,
+   6.668
+  ],
+  "07356 Bad Lobenstein Deutschland|74635 Kupferzell Deutschland": [
+   279.3,
+   3.548
+  ],
+  "23868 Valmadrera Italien|74532 Ilshofen Deutschland": [
+   554.1,
+   8.055
+  ],
+  "24064 Grumello del Monte Italien|74677 Dörzbach Deutschland": [
+   667.9,
+   9.362
+  ],
+  "32105 Bad Salzuflen Deutschland|74635 Kupferzell Deutschland": [
+   437.3,
+   5.641
+  ],
+  "35578 Wetzlar Deutschland|74677 Dörzbach Deutschland": [
+   216.8,
+   2.881
+  ],
+  "35606 Solms Deutschland|74429 Sulzbach-Laufen Deutschland": [
+   292.2,
+   3.968
+  ],
+  "35781 Weilburg Deutschland|74670 Forchtenberg Deutschland": [
+   208.2,
+   3.031
+  ],
+  "41460 Neuss Deutschland|74523 Schwäbisch Hall Deutschland": [
+   404.7,
+   5.19
+  ],
+  "42477 Radevormwald Deutschland|74670 Forchtenberg Deutschland": [
+   330.3,
+   4.616
+  ],
+  "46514 Schermbeck Deutschland|74677 Dörzbach Deutschland": [
+   431.1,
+   5.62
+  ],
+  "46539 Dinslaken Deutschland|74670 Forchtenberg Deutschland": [
+   422.6,
+   5.519
+  ],
+  "46539 Dinslaken Deutschland|74677 Dörzbach Deutschland": [
+   408.7,
+   5.292
+  ],
+  "50126 Bergheim Deutschland|74635 Kupferzell Deutschland": [
+   365.9,
+   4.631
+  ],
+  "50679 Köln Deutschland|74635 Kupferzell Deutschland": [
+   349.2,
+   4.416
+  ],
+  "51647 Gummersbach Deutschland|74677 Dörzbach Deutschland": [
+   321.5,
+   4.3
+  ],
+  "51702 Bergneustadt Deutschland|74677 Dörzbach Deutschland": [
+   311.1,
+   4.086
+  ],
+  "53919 Weilerswist Deutschland|74635 Kupferzell Deutschland": [
+   334.4,
+   4.346
+  ],
+  "55765 Birkenfeld Deutschland|74670 Forchtenberg Deutschland": [
+   239.1,
+   3.183
+  ],
+  "56130 Bad Ems Deutschland|74638 Waldenburg Deutschland": [
+   276.8,
+   3.699
+  ],
+  "56235 Ransbach-Baumbach Deutschland|74670 Forchtenberg Deutschland": [
+   268.0,
+   3.556
+  ],
+  "57489 Drolshagen Deutschland|74670 Forchtenberg Deutschland": [
+   293.5,
+   4.139
+  ],
+  "57489 Drolshagen Deutschland|74677 Dörzbach Deutschland": [
+   306.3,
+   4.092
+  ],
+  "58091 Hagen Deutschland|74670 Forchtenberg Deutschland": [
+   335.2,
+   4.643
+  ],
+  "58091 Hagen Deutschland|74677 Dörzbach Deutschland": [
+   348.1,
+   4.596
+  ],
+  "58091 Hagen Deutschland|97944 Boxberg Deutschland": [
+   338.0,
+   4.442
+  ],
+  "58300 Wetter (Ruhr) Deutschland|74638 Waldenburg Deutschland": [
+   411.4,
+   5.414
+  ],
+  "58300 Wetter (Ruhr) Deutschland|74670 Forchtenberg Deutschland": [
+   362.8,
+   4.964
+  ],
+  "58300 Wetter (Ruhr) Deutschland|74677 Dörzbach Deutschland": [
+   375.7,
+   4.917
+  ],
+  "58300 Wetter (Ruhr) Deutschland|97944 Boxberg Deutschland": [
+   365.6,
+   4.763
+  ],
+  "58513 Lüdenscheid Deutschland|74670 Forchtenberg Deutschland": [
+   316.2,
+   4.319
+  ],
+  "58513 Lüdenscheid Deutschland|74677 Dörzbach Deutschland": [
+   329.0,
+   4.272
+  ],
+  "58553 Halver Deutschland|74670 Forchtenberg Deutschland": [
+   319.6,
+   4.456
+  ],
+  "58636 Iserlohn Deutschland|74670 Forchtenberg Deutschland": [
+   352.9,
+   4.792
+  ],
+  "58636 Iserlohn Deutschland|74677 Dörzbach Deutschland": [
+   365.8,
+   4.745
+  ],
+  "58640 Iserlohn Deutschland|74677 Dörzbach Deutschland": [
+   368.9,
+   4.809
+  ],
+  "58708 Menden (Sauerland) Deutschland|74670 Forchtenberg Deutschland": [
+   361.3,
+   4.958
+  ],
+  "58739 Wickede (Ruhr) Deutschland|74677 Dörzbach Deutschland": [
+   385.0,
+   5.08
+  ],
+  "58739 Wickede (Ruhr) Deutschland|74706 Osterburken Deutschland": [
+   346.4,
+   4.624
+  ],
+  "58762 Altena Deutschland|74670 Forchtenberg Deutschland": [
+   341.2,
+   4.966
+  ],
+  "58762 Altena Deutschland|74677 Dörzbach Deutschland": [
+   354.1,
+   4.919
+  ],
+  "58762 Altena Deutschland|97944 Boxberg Deutschland": [
+   344.0,
+   4.765
+  ],
+  "58791 Werdohl Deutschland|74670 Forchtenberg Deutschland": [
+   330.3,
+   4.555
+  ],
+  "58840 Plettenberg Deutschland|74635 Kupferzell Deutschland": [
+   375.2,
+   4.892
+  ],
+  "58840 Plettenberg Deutschland|74670 Forchtenberg Deutschland": [
+   329.2,
+   4.632
+  ],
+  "58840 Plettenberg Deutschland|74677 Dörzbach Deutschland": [
+   342.0,
+   4.586
+  ],
+  "59067 Hamm Deutschland|74670 Forchtenberg Deutschland": [
+   382.2,
+   5.239
+  ],
+  "59067 Hamm Deutschland|74677 Dörzbach Deutschland": [
+   395.1,
+   5.193
+  ],
+  "59067 Hamm Deutschland|97944 Boxberg Deutschland": [
+   385.0,
+   5.039
+  ],
+  "59368 Werne Deutschland|74670 Forchtenberg Deutschland": [
+   382.5,
+   5.163
+  ],
+  "59757 Arnsberg Deutschland|74670 Forchtenberg Deutschland": [
+   370.4,
+   5.098
+  ],
+  "59757 Arnsberg Deutschland|74677 Dörzbach Deutschland": [
+   383.2,
+   5.052
+  ],
+  "59757 Arnsberg Deutschland|97944 Boxberg Deutschland": [
+   373.1,
+   4.898
+  ],
+  "61440 Oberursel (Taunus) Deutschland|74635 Kupferzell Deutschland": [
+   203.7,
+   2.608
+  ],
+  "61440 Oberursel (Taunus) Deutschland|74670 Forchtenberg Deutschland": [
+   164.9,
+   2.442
+  ],
+  "63128 Dietzenbach Deutschland|74635 Kupferzell Deutschland": [
+   168.9,
+   2.312
+  ],
+  "63128 Dietzenbach Deutschland|74677 Dörzbach Deutschland": [
+   144.2,
+   1.992
+  ],
+  "63505 Langenselbold Deutschland|74549 Wolpertshausen Deutschland": [
+   194.5,
+   2.64
+  ],
+  "64367 Mühltal / BRD Deutschland|74635 Kupferzell Deutschland": [
+   160.9,
+   2.279
+  ],
+  "64367 Mühltal Deutschland|74635 Kupferzell Deutschland": [
+   160.9,
+   2.279
+  ],
+  "64579 Gernsheim Deutschland|74635 Kupferzell Deutschland": [
+   146.1,
+   1.876
+  ],
+  "65201 Wiesbaden Deutschland|74635 Kupferzell Deutschland": [
+   208.5,
+   2.71
+  ],
+  "65201 Wiesbaden Deutschland|74676 Niedernhall Deutschland": [
+   207.3,
+   2.776
+  ],
+  "65451 Kelsterbach Deutschland|74078 Heilbronn Deutschland": [
+   143.8,
+   1.868
+  ],
+  "65597 Hünfelden Deutschland|74635 Kupferzell Deutschland": [
+   225.0,
+   3.026
+  ],
+  "66763 Dillingen/Saar Deutschland|74547 Untermünkheim Deutschland": [
+   269.3,
+   3.605
+  ],
+  "67105 Schifferstadt Deutschland|74632 Neuenstein Deutschland": [
+   103.3,
+   1.344
+  ],
+  "67105 Schifferstadt Deutschland|74635 Kupferzell Deutschland": [
+   113.3,
+   1.474
+  ],
+  "67271 Kleinkarlbach Deutschland|74564 Crailsheim Deutschland": [
+   179.4,
+   2.302
+  ],
+  "67714 Waldfischbach-Burgalben Deutschland|74635 Kupferzell Deutschland": [
+   205.3,
+   2.676
+  ],
+  "68789 Sankt Leon-Rot Deutschland|74635 Kupferzell Deutschland": [
+   94.2,
+   1.234
+  ],
+  "69126 Heidelberg Deutschland|74635 Kupferzell Deutschland": [
+   99.7,
+   1.344
+  ],
+  "70197 Stuttgart Deutschland|74677 Dörzbach Deutschland": [
+   124.6,
+   1.802
+  ],
+  "70839 Gerlingen Deutschland|74572 Blaufelden Deutschland": [
+   121.8,
+   1.748
+  ],
+  "70839 Gerlingen Deutschland|74635 Kupferzell Deutschland": [
+   86.0,
+   1.216
+  ],
+  "70839 Gerlingen Deutschland|74673 Mulfingen Deutschland": [
+   110.3,
+   1.632
+  ],
+  "70839 Gerlingen Deutschland|97980 Bad Mergentheim Deutschland": [
+   118.7,
+   1.832
+  ],
+  "7100 Szekszárd Ungarn|74532 Ilshofen Deutschland": [
+   1044.2,
+   12.476
+  ],
+  "71336 Waiblingen Deutschland|74523 Schwäbisch Hall Deutschland": [
+   56.0,
+   1.046
+  ],
+  "71384 Weinstadt Deutschland|74670 Forchtenberg Deutschland": [
+   95.9,
+   1.469
+  ],
+  "71546 Aspach Deutschland|74635 Kupferzell Deutschland": [
+   66.8,
+   0.914
+  ],
+  "71636 Ludwigsburg Deutschland|74638 Waldenburg Deutschland": [
+   74.0,
+   1.14
+  ],
+  "71665 Vaihingen an der Enz Deutschland|74423 Obersontheim Deutschland": [
+   108.1,
+   1.519
+  ],
+  "71679 Asperg Deutschland|74670 Forchtenberg Deutschland": [
+   70.9,
+   1.122
+  ],
+  "71679 Asperg Deutschland|74677 Dörzbach Deutschland": [
+   92.8,
+   1.298
+  ],
+  "71706 Markgröningen Deutschland|74635 Kupferzell Deutschland": [
+   77.9,
+   1.138
+  ],
+  "71706 Markgröningen Deutschland|74638 Waldenburg Deutschland": [
+   80.4,
+   1.328
+  ],
+  "71706 Markgröningen Deutschland|74677 Dörzbach Deutschland": [
+   100.6,
+   1.481
+  ],
+  "72072 Tübingen Deutschland|8854 Krakau Österreich": [
+   522.2,
+   8.553
+  ],
+  "72108 Rottenburg am Neckar Deutschland|74635 Kupferzell Deutschland": [
+   133.7,
+   1.829
+  ],
+  "72172 Sulz am Neckar Deutschland|74635 Kupferzell Deutschland": [
+   154.8,
+   2.018
+  ],
+  "72172 Sulz am Neckar Deutschland|74670 Forchtenberg Deutschland": [
+   155.6,
+   2.185
+  ],
+  "72172 Sulz am Neckar Deutschland|74706 Osterburken Deutschland": [
+   162.1,
+   2.192
+  ],
+  "72213 Altensteig Deutschland|74389 Cleebronn Deutschland": [
+   91.8,
+   1.415
+  ],
+  "72584 Hülben Deutschland|74635 Kupferzell Deutschland": [
+   143.1,
+   1.878
+  ],
+  "72622 Nürtingen Deutschland|74635 Kupferzell Deutschland": [
+   124.6,
+   1.647
+  ],
+  "72768 Reutlingen Deutschland|74423 Obersontheim Deutschland": [
+   103.6,
+   1.739
+  ],
+  "73037 Eschenbach Deutschland|72160 Horb am Neckar Deutschland": [
+   107.8,
+   1.601
+  ],
+  "73119 Zell unter Aichelberg Deutschland|65201 Wiesbaden Deutschland": [
+   260.9,
+   3.353
+  ],
+  "73207 Plochingen Deutschland|74670 Forchtenberg Deutschland": [
+   106.8,
+   1.793
+  ],
+  "73207 Plochingen Deutschland|74677 Dörzbach Deutschland": [
+   128.7,
+   1.969
+  ],
+  "73230 Kirchheim unter Teck Deutschland|74635 Kupferzell Deutschland": [
+   127.3,
+   1.652
+  ],
+  "73230 Kirchheim unter Teck Deutschland|74677 Dörzbach Deutschland": [
+   150.0,
+   1.996
+  ],
+  "73274 Notzingen Deutschland|74635 Kupferzell Deutschland": [
+   130.7,
+   1.726
+  ],
+  "73274 Notzingen Deutschland|74670 Forchtenberg Deutschland": [
+   131.4,
+   1.893
+  ],
+  "73441 Bopfingen Deutschland|74423 Obersontheim Deutschland": [
+   52.2,
+   0.965
+  ],
+  "73441 Bopfingen Deutschland|74523 Schwäbisch Hall Deutschland": [
+   65.0,
+   1.18
+  ],
+  "73447 Oberkochen Deutschland|74653 Künzelsau Deutschland": [
+   115.2,
+   1.76
+  ],
+  "73453 Abtsgmünd Deutschland|74423 Obersontheim Deutschland": [
+   24.4,
+   0.548
+  ],
+  "73463 Westhausen Deutschland|74523 Schwäbisch Hall Deutschland": [
+   53.5,
+   0.916
+  ],
+  "73479 Ellwangen (Jagst) Deutschland|74635 Kupferzell Deutschland": [
+   80.3,
+   1.056
+  ],
+  "73479 Ellwangen (Jagst) Deutschland|74670 Forchtenberg Deutschland": [
+   95.6,
+   1.407
+  ],
+  "73479 Ellwangen (Jagst) Deutschland|74706 Osterburken Deutschland": [
+   134.0,
+   1.841
+  ],
+  "73547 Lorch Deutschland|74424 Bühlertann Deutschland": [
+   47.7,
+   0.777
+  ],
+  "73553 Alfdorf Deutschland|74677 Dörzbach Deutschland": [
+   77.3,
+   1.359
+  ],
+  "73666 Baltmannsweiler Deutschland|74635 Kupferzell Deutschland": [
+   132.9,
+   2.149
+  ],
+  "73730 Esslingen am Neckar Deutschland|74670 Forchtenberg Deutschland": [
+   102.0,
+   1.671
+  ],
+  "73730 Esslingen am Neckar Deutschland|74677 Dörzbach Deutschland": [
+   124.0,
+   1.847
+  ],
+  "73760 Ostfildern Deutschland|74635 Kupferzell Deutschland": [
+   111.2,
+   1.57
+  ],
+  "74076 Heilbronn Deutschland|06925 Annaburg Deutschland": [
+   511.9,
+   6.592
+  ],
+  "74076 Heilbronn Deutschland|74653 Künzelsau Deutschland": [
+   58.1,
+   0.984
+  ],
+  "74078 Heilbronn Deutschland|77790 Steinach Deutschland": [
+   182.0,
+   2.352
+  ],
+  "74172 Neckarsulm Deutschland|74635 Kupferzell Deutschland": [
+   45.5,
+   0.623
+  ],
+  "74193 Schwaigern Deutschland|74423 Obersontheim Deutschland": [
+   86.1,
+   1.31
+  ],
+  "74193 Schwaigern Deutschland|74635 Kupferzell Deutschland": [
+   62.5,
+   0.963
+  ],
+  "74193 Schwaigern Deutschland|74673 Mulfingen Deutschland": [
+   86.8,
+   1.378
+  ],
+  "74196 Neuenstadt am Kocher Deutschland|74635 Kupferzell Deutschland": [
+   34.0,
+   0.569
+  ],
+  "74196 Neuenstadt am Kocher Deutschland|74638 Waldenburg Deutschland": [
+   36.4,
+   0.759
+  ],
+  "74196 Neuenstadt am Kocher Deutschland|86926 Greifenberg Deutschland": [
+   298.0,
+   3.854
+  ],
+  "74214 Schöntal Deutschland|65201 Wiesbaden Deutschland": [
+   172.4,
+   2.377
+  ],
+  "74214 Schöntal Deutschland|74632 Neuenstein Deutschland": [
+   23.1,
+   0.369
+  ],
+  "74214 Schöntal Deutschland|74635 Kupferzell Deutschland": [
+   30.3,
+   0.488
+  ],
+  "74214 Schöntal Deutschland|74676 Niedernhall Deutschland": [
+   16.6,
+   0.34
+  ],
+  "74214 Schöntal Deutschland|74821 Mosbach Deutschland": [
+   43.0,
+   0.646
+  ],
+  "74219 Möckmühl Deutschland|74523 Schwäbisch Hall Deutschland": [
+   55.9,
+   0.844
+  ],
+  "74219 Möckmühl Deutschland|74635 Kupferzell Deutschland": [
+   45.4,
+   0.641
+  ],
+  "74232 Abstatt Deutschland|06925 Annaburg Deutschland": [
+   514.6,
+   6.696
+  ],
+  "74235 Erlenbach Deutschland|74635 Kupferzell Deutschland": [
+   40.5,
+   0.788
+  ],
+  "74243 Langenbrettach Deutschland|45663 Recklinghausen Deutschland": [
+   418.9,
+   5.418
+  ],
+  "74255 Roigheim Deutschland|08297 Zwönitz Deutschland": [
+   366.0,
+   4.721
+  ],
+  "74257 Untereisesheim Deutschland|74635 Kupferzell Deutschland": [
+   47.8,
+   0.658
+  ],
+  "74257 Untereisesheim Deutschland|74676 Niedernhall Deutschland": [
+   46.5,
+   0.723
+  ],
+  "74321 Bietigheim-Bissingen Deutschland|74635 Kupferzell Deutschland": [
+   71.9,
+   0.973
+  ],
+  "74321 Bietigheim-Bissingen Deutschland|74676 Niedernhall Deutschland": [
+   70.6,
+   1.039
+  ],
+  "74343 Sachsenheim Deutschland|74635 Kupferzell Deutschland": [
+   78.8,
+   1.136
+  ],
+  "74343 Sachsenheim Deutschland|74676 Niedernhall Deutschland": [
+   77.5,
+   1.201
+  ],
+  "74354 Besigheim Deutschland|74635 Kupferzell Deutschland": [
+   64.8,
+   1.043
+  ],
+  "74360 Ilsfeld Deutschland|06925 Annaburg Deutschland": [
+   516.4,
+   6.674
+  ],
+  "74360 Ilsfeld Deutschland|74232 Abstatt Deutschland": [
+   6.6,
+   0.232
+  ],
+  "74363 Güglingen Deutschland|74635 Kupferzell Deutschland": [
+   69.1,
+   1.061
+  ],
+  "74363 Güglingen Deutschland|74653 Künzelsau Deutschland": [
+   82.4,
+   1.43
+  ],
+  "74388 Talheim Deutschland|74214 Schöntal Deutschland": [
+   68.9,
+   0.973
+  ],
+  "74388 Talheim Deutschland|74635 Kupferzell Deutschland": [
+   57.4,
+   0.829
+  ],
+  "74405 Gaildorf Deutschland|74635 Kupferzell Deutschland": [
+   32.3,
+   0.55
+  ],
+  "74405 Gaildorf Deutschland|89359 Kötz Deutschland": [
+   116.6,
+   1.785
+  ],
+  "74423 Obersontheim Deutschland|71546 Aspach Deutschland": [
+   52.6,
+   0.909
+  ],
+  "74423 Obersontheim Deutschland|71665 Vaihingen an der Enz Deutschland": [
+   90.3,
+   1.435
+  ],
+  "74423 Obersontheim Deutschland|72768 Reutlingen Deutschland": [
+   103.7,
+   1.731
+  ],
+  "74423 Obersontheim Deutschland|73441 Bopfingen Deutschland": [
+   52.2,
+   0.966
+  ],
+  "74423 Obersontheim Deutschland|74193 Schwaigern Deutschland": [
+   87.4,
+   1.314
+  ],
+  "74423 Obersontheim Deutschland|74417 Gschwend Deutschland": [
+   20.4,
+   0.362
+  ],
+  "74423 Obersontheim Deutschland|74423 Obersontheim Deutschland": [
+   0.0,
+   0.0
+  ],
+  "74423 Obersontheim Deutschland|74635 Kupferzell Deutschland": [
+   32.4,
+   0.501
+  ],
+  "74423 Obersontheim Deutschland|74676 Niedernhall Deutschland": [
+   43.3,
+   0.695
+  ],
+  "74423 Obersontheim Deutschland|75428 Illingen Deutschland": [
+   101.8,
+   1.541
+  ],
+  "74423 Obersontheim Deutschland|76139 Karlsruhe Deutschland": [
+   152.9,
+   2.091
+  ],
+  "74423 Obersontheim Deutschland|87675 Stötten am Auerberg Deutschland": [
+   213.9,
+   2.946
+  ],
+  "74424 Bühlertann Deutschland|74635 Kupferzell Deutschland": [
+   34.3,
+   0.505
+  ],
+  "74429 Sulzbach-Laufen Deutschland|35606 Solms Deutschland": [
+   293.9,
+   4.0
+  ],
+  "74429 Sulzbach-Laufen Deutschland|74635 Kupferzell Deutschland": [
+   41.5,
+   0.692
+  ],
+  "74429 Sulzbach-Laufen Deutschland|88212 Ravensburg Deutschland": [
+   207.1,
+   2.718
+  ],
+  "74523 Schwäbisch Hall Deutschland|41460 Neuss Deutschland": [
+   405.1,
+   5.209
+  ],
+  "74523 Schwäbisch Hall Deutschland|53919 Weilerswist Deutschland": [
+   345.1,
+   4.557
+  ],
+  "74523 Schwäbisch Hall Deutschland|67657 Kaiserslautern Deutschland": [
+   185.9,
+   2.435
+  ],
+  "74523 Schwäbisch Hall Deutschland|68542 Heddesheim Deutschland": [
+   128.4,
+   1.74
+  ],
+  "74523 Schwäbisch Hall Deutschland|69168 Wiesloch Deutschland": [
+   98.0,
+   1.365
+  ],
+  "74523 Schwäbisch Hall Deutschland|70469 Stuttgart Deutschland": [
+   94.6,
+   1.399
+  ],
+  "74523 Schwäbisch Hall Deutschland|70794 Filderstadt Deutschland": [
+   120.5,
+   1.64
+  ],
+  "74523 Schwäbisch Hall Deutschland|71088 Holzgerlingen Deutschland": [
+   123.5,
+   1.712
+  ],
+  "74523 Schwäbisch Hall Deutschland|71149 Bondorf Deutschland": [
+   141.4,
+   1.914
+  ],
+  "74523 Schwäbisch Hall Deutschland|71336 Waiblingen Deutschland": [
+   56.1,
+   1.047
+  ],
+  "74523 Schwäbisch Hall Deutschland|72336 Balingen Deutschland": [
+   176.7,
+   2.382
+  ],
+  "74523 Schwäbisch Hall Deutschland|73441 Bopfingen Deutschland": [
+   65.1,
+   1.184
+  ],
+  "74523 Schwäbisch Hall Deutschland|73563 Mögglingen Deutschland": [
+   53.2,
+   0.902
+  ],
+  "74523 Schwäbisch Hall Deutschland|73730 Esslingen am Neckar Deutschland": [
+   81.2,
+   1.385
+  ],
+  "74523 Schwäbisch Hall Deutschland|74076 Heilbronn Deutschland": [
+   56.3,
+   0.832
+  ],
+  "74523 Schwäbisch Hall Deutschland|74360 Ilsfeld Deutschland": [
+   60.4,
+   0.901
+  ],
+  "74523 Schwäbisch Hall Deutschland|74523 Schwäbisch Hall Deutschland": [
+   0.0,
+   0.0
+  ],
+  "74523 Schwäbisch Hall Deutschland|74564 Crailsheim Deutschland": [
+   29.5,
+   0.527
+  ],
+  "74523 Schwäbisch Hall Deutschland|74632 Neuenstein Deutschland": [
+   24.3,
+   0.42
+  ],
+  "74523 Schwäbisch Hall Deutschland|74635 Kupferzell Deutschland": [
+   19.3,
+   0.36
+  ],
+  "74523 Schwäbisch Hall Deutschland|74638 Waldenburg Deutschland": [
+   27.2,
+   0.608
+  ],
+  "74523 Schwäbisch Hall Deutschland|74653 Künzelsau Deutschland": [
+   32.6,
+   0.729
+  ],
+  "74523 Schwäbisch Hall Deutschland|76337 Waldbronn Deutschland": [
+   147.2,
+   1.983
+  ],
+  "74523 Schwäbisch Hall Deutschland|76437 Rastatt Deutschland": [
+   168.0,
+   2.249
+  ],
+  "74523 Schwäbisch Hall Deutschland|77656 Offenburg Deutschland": [
+   212.5,
+   2.775
+  ],
+  "74523 Schwäbisch Hall Deutschland|83549 Eiselfing Deutschland": [
+   294.1,
+   4.011
+  ],
+  "74523 Schwäbisch Hall Deutschland|86165 Augsburg Deutschland": [
+   173.8,
+   2.362
+  ],
+  "74523 Schwäbisch Hall Deutschland|86833 Ettringen Deutschland": [
+   206.8,
+   2.789
+  ],
+  "74523 Schwäbisch Hall Deutschland|87787 Wolfertschwenden Deutschland": [
+   178.3,
+   2.428
+  ],
+  "74523 Schwäbisch Hall Deutschland|88471 Laupheim Deutschland": [
+   142.2,
+   2.033
+  ],
+  "74523 Schwäbisch Hall Deutschland|89160 Dornstadt Deutschland": [
+   123.2,
+   1.766
+  ],
+  "74523 Schwäbisch Hall Deutschland|89231 Neu-Ulm Deutschland": [
+   118.3,
+   1.673
+  ],
+  "74523 Schwäbisch Hall Deutschland|91161 Hilpoltstein Deutschland": [
+   134.9,
+   1.845
+  ],
+  "74532 Ilshofen Deutschland|41844 Wegberg Deutschland": [
+   421.0,
+   5.408
+  ],
+  "74532 Ilshofen Deutschland|71336 Waiblingen Deutschland": [
+   94.0,
+   1.336
+  ],
+  "74532 Ilshofen Deutschland|73453 Abtsgmünd Deutschland": [
+   39.8,
+   0.788
+  ],
+  "74532 Ilshofen Deutschland|73547 Lorch Deutschland": [
+   70.5,
+   1.079
+  ],
+  "74532 Ilshofen Deutschland|74532 Ilshofen Deutschland": [
+   0.0,
+   0.0
+  ],
+  "74532 Ilshofen Deutschland|74635 Kupferzell Deutschland": [
+   20.7,
+   0.283
+  ],
+  "74532 Ilshofen Deutschland|88512 Mengen Deutschland": [
+   217.2,
+   2.836
+  ],
+  "74532 Ilshofen Deutschland|91126 Rednitzhembach Deutschland": [
+   104.1,
+   1.322
+  ],
+  "74535 Mainhardt Deutschland|14943 Luckenwalde Deutschland": [
+   529.8,
+   6.851
+  ],
+  "74535 Mainhardt Deutschland|36043 Fulda Deutschland": [
+   237.5,
+   3.102
+  ],
+  "74535 Mainhardt Deutschland|74635 Kupferzell Deutschland": [
+   27.8,
+   0.503
+  ],
+  "74535 Mainhardt Deutschland|77963 Schwanau Deutschland": [
+   214.1,
+   2.929
+  ],
+  "74535 Mainhardt Deutschland|80939 München Deutschland": [
+   250.8,
+   3.464
+  ],
+  "74535 Mainhardt Deutschland|99099 Erfurt Deutschland": [
+   329.3,
+   4.288
+  ],
+  "74541 Vellberg Deutschland|74635 Kupferzell Deutschland": [
+   33.1,
+   0.651
+  ],
+  "74541 Vellberg Deutschland|74638 Waldenburg Deutschland": [
+   41.0,
+   0.9
+  ],
+  "74542 Braunsbach Deutschland|74635 Kupferzell Deutschland": [
+   13.2,
+   0.356
+  ],
+  "74547 Untermünkheim Deutschland|60437 Frankfurt am Main Deutschland": [
+   204.7,
+   2.783
+  ],
+  "74547 Untermünkheim Deutschland|72119 Ammerbuch Deutschland": [
+   125.5,
+   1.909
+  ],
+  "74547 Untermünkheim Deutschland|72147 Nehren Deutschland": [
+   146.8,
+   2.029
+  ],
+  "74547 Untermünkheim Deutschland|74405 Gaildorf Deutschland": [
+   24.8,
+   0.563
+  ],
+  "74547 Untermünkheim Deutschland|74635 Kupferzell Deutschland": [
+   11.6,
+   0.309
+  ],
+  "74547 Untermünkheim Deutschland|74638 Waldenburg Deutschland": [
+   19.5,
+   0.558
+  ],
+  "74547 Untermünkheim Deutschland|74653 Künzelsau Deutschland": [
+   24.8,
+   0.679
+  ],
+  "74547 Untermünkheim Deutschland|74670 Forchtenberg Deutschland": [
+   23.7,
+   0.633
+  ],
+  "74547 Untermünkheim Deutschland|74676 Niedernhall Deutschland": [
+   22.5,
+   0.503
+  ],
+  "74547 Untermünkheim Deutschland|74677 Dörzbach Deutschland": [
+   34.2,
+   0.653
+  ],
+  "74547 Untermünkheim Deutschland|76139 Karlsruhe Deutschland": [
+   132.1,
+   1.899
+  ],
+  "74547 Untermünkheim Deutschland|88356 Ostrach Deutschland": [
+   214.2,
+   3.085
+  ],
+  "74547 Untermünkheim Deutschland|96149 Breitengüßbach Deutschland": [
+   170.7,
+   2.427
+  ],
+  "74547 Untermünkheim Deutschland|97944 Boxberg Deutschland": [
+   62.0,
+   1.101
+  ],
+  "74549 Wolpertshausen Deutschland|01454 Radeberg Deutschland": [
+   436.4,
+   5.545
+  ],
+  "74549 Wolpertshausen Deutschland|44263 Dortmund Deutschland": [
+   410.7,
+   5.242
+  ],
+  "74549 Wolpertshausen Deutschland|74632 Neuenstein Deutschland": [
+   24.9,
+   0.372
+  ],
+  "74549 Wolpertshausen Deutschland|74635 Kupferzell Deutschland": [
+   20.4,
+   0.318
+  ],
+  "74549 Wolpertshausen Deutschland|88471 Laupheim Deutschland": [
+   163.0,
+   2.161
+  ],
+  "74549 Wolpertshausen Deutschland|89231 Neu-Ulm Deutschland": [
+   139.1,
+   1.8
+  ],
+  "74549 Wolpertshausen Deutschland|97789 Oberleichtersbach Deutschland": [
+   186.3,
+   2.399
+  ],
+  "74564 Crailsheim Deutschland|58256 Ennepetal Deutschland": [
+   418.0,
+   5.468
+  ],
+  "74564 Crailsheim Deutschland|74564 Crailsheim Deutschland": [
+   0.0,
+   0.0
+  ],
+  "74564 Crailsheim Deutschland|74635 Kupferzell Deutschland": [
+   37.6,
+   0.564
+  ],
+  "74564 Crailsheim Deutschland|76829 Landau in der Pfalz Deutschland": [
+   172.0,
+   2.276
+  ],
+  "74564 Crailsheim Deutschland|78479 Reichenau Deutschland": null,
+  "74564 Crailsheim Deutschland|85640 Putzbrunn Deutschland": [
+   241.4,
+   3.156
+  ],
+  "74564 Crailsheim Deutschland|89257 Illertissen Deutschland": [
+   123.7,
+   1.678
+  ],
+  "74564 Crailsheim Deutschland|89312 Günzburg Deutschland": [
+   99.6,
+   1.378
+  ],
+  "74564 Crailsheim Deutschland|89349 Burtenbach Deutschland": [
+   129.6,
+   1.706
+  ],
+  "74564 Crailsheim Deutschland|89551 Königsbronn Deutschland": [
+   64.0,
+   1.0
+  ],
+  "74564 Crailsheim Deutschland|97996 Niederstetten Deutschland": [
+   40.2,
+   0.698
+  ],
+  "74572 Blaufelden Deutschland|74635 Kupferzell Deutschland": [
+   37.8,
+   0.608
+  ],
+  "74586 Frankenhardt / Honhardt Deutschland|41844 Wegberg Deutschland": [
+   445.5,
+   5.812
+  ],
+  "74592 Kirchberg an der Jagst Deutschland|73568 Durlangen Deutschland": [
+   69.7,
+   1.048
+  ],
+  "74592 Kirchberg an der Jagst Deutschland|74653 Künzelsau Deutschland": [
+   32.7,
+   0.683
+  ],
+  "74613 Öhringen Deutschland|74635 Kupferzell Deutschland": [
+   22.2,
+   0.327
+  ],
+  "74613 Öhringen Deutschland|97996 Niederstetten Deutschland": [
+   61.8,
+   0.94
+  ],
+  "74626 Bretzfeld Deutschland|65201 Wiesbaden Deutschland": [
+   187.2,
+   2.451
+  ],
+  "74626 Bretzfeld Deutschland|74638 Waldenburg Deutschland": [
+   32.4,
+   0.637
+  ],
+  "74632 Neuenstein Deutschland|67105 Schifferstadt Deutschland": [
+   111.3,
+   1.45
+  ],
+  "74632 Neuenstein Deutschland|74214 Schöntal Deutschland": [
+   23.0,
+   0.368
+  ],
+  "74632 Neuenstein Deutschland|74635 Kupferzell Deutschland": [
+   13.6,
+   0.217
+  ],
+  "74632 Neuenstein Deutschland|74638 Waldenburg Deutschland": [
+   15.5,
+   0.393
+  ],
+  "74632 Neuenstein Deutschland|74653 Künzelsau Deutschland": [
+   20.2,
+   0.533
+  ],
+  "74632 Neuenstein Deutschland|74670 Forchtenberg Deutschland": [
+   12.4,
+   0.355
+  ],
+  "74635 Kupferzell Deutschland|01454 Radeberg Deutschland": [
+   452.5,
+   5.731
+  ],
+  "74635 Kupferzell Deutschland|04435 Schkeuditz Deutschland": [
+   390.5,
+   4.951
+  ],
+  "74635 Kupferzell Deutschland|04703 Leisnig Deutschland": [
+   415.0,
+   5.55
+  ],
+  "74635 Kupferzell Deutschland|04808 Wurzen Deutschland": [
+   430.7,
+   5.488
+  ],
+  "74635 Kupferzell Deutschland|06449 Aschersleben Deutschland": [
+   398.4,
+   5.246
+  ],
+  "74635 Kupferzell Deutschland|07356 Bad Lobenstein Deutschland": [
+   280.3,
+   3.567
+  ],
+  "74635 Kupferzell Deutschland|07552 Gera Deutschland": [
+   336.4,
+   4.285
+  ],
+  "74635 Kupferzell Deutschland|08468 Heinsdorfergrund Deutschland": [
+   307.7,
+   3.879
+  ],
+  "74635 Kupferzell Deutschland|08485 Lengenfeld Deutschland": [
+   307.6,
+   3.929
+  ],
+  "74635 Kupferzell Deutschland|09116 Chemnitz Deutschland": [
+   355.1,
+   4.511
+  ],
+  "74635 Kupferzell Deutschland|09376 Oelsnitz/Erzgebirge Deutschland": [
+   339.4,
+   4.294
+  ],
+  "74635 Kupferzell Deutschland|09427 Ehrenfriedersdorf Deutschland": [
+   358.6,
+   4.598
+  ],
+  "74635 Kupferzell Deutschland|10245 Berlin Deutschland": [
+   563.6,
+   7.113
+  ],
+  "74635 Kupferzell Deutschland|12623 Berlin Deutschland": [
+   595.3,
+   7.506
+  ],
+  "74635 Kupferzell Deutschland|13127 Berlin Deutschland": [
+   595.2,
+   7.484
+  ],
+  "74635 Kupferzell Deutschland|2227 Bozhurishte Bulgarien": [
+   1773.8,
+   22.064
+  ],
+  "74635 Kupferzell Deutschland|23848 Oggiono Italien": [
+   595.3,
+   8.057
+  ],
+  "74635 Kupferzell Deutschland|24145 Kiel Deutschland": [
+   698.0,
+   8.899
+  ],
+  "74635 Kupferzell Deutschland|27327 Schwarme Deutschland": [
+   559.6,
+   7.26
+  ],
+  "74635 Kupferzell Deutschland|27607 Geestland Deutschland": [
+   647.7,
+   8.289
+  ],
+  "74635 Kupferzell Deutschland|30926 Seelze Deutschland": [
+   491.3,
+   6.4
+  ],
+  "74635 Kupferzell Deutschland|31177 Harsum Deutschland": [
+   434.8,
+   5.598
+  ],
+  "74635 Kupferzell Deutschland|31547 Rehburg-Loccum Deutschland": [
+   494.3,
+   6.784
+  ],
+  "74635 Kupferzell Deutschland|32278 Kirchlengern Deutschland": [
+   452.4,
+   5.892
+  ],
+  "74635 Kupferzell Deutschland|32425 Minden Deutschland": [
+   468.6,
+   6.122
+  ],
+  "74635 Kupferzell Deutschland|33609 Bielefeld Deutschland": [
+   428.7,
+   5.556
+  ],
+  "74635 Kupferzell Deutschland|35428 Langgöns Deutschland": [
+   235.6,
+   3.155
+  ],
+  "74635 Kupferzell Deutschland|35794 Mengerskirchen Deutschland": [
+   261.9,
+   3.374
+  ],
+  "74635 Kupferzell Deutschland|36115 Hilders Deutschland": [
+   203.4,
+   2.694
+  ],
+  "74635 Kupferzell Deutschland|36179 Bebra Deutschland": [
+   255.5,
+   3.42
+  ],
+  "74635 Kupferzell Deutschland|36251 Bad Hersfeld Deutschland": [
+   248.8,
+   3.835
+  ],
+  "74635 Kupferzell Deutschland|36391 Sinntal Deutschland": [
+   185.3,
+   2.542
+  ],
+  "74635 Kupferzell Deutschland|40699 Erkrath Deutschland": [
+   379.1,
+   4.89
+  ],
+  "74635 Kupferzell Deutschland|41460 Neuss Deutschland": [
+   394.2,
+   5.002
+  ],
+  "74635 Kupferzell Deutschland|44263 Dortmund Deutschland": [
+   399.1,
+   5.082
+  ],
+  "74635 Kupferzell Deutschland|45326 Essen Deutschland": [
+   415.7,
+   5.36
+  ],
+  "74635 Kupferzell Deutschland|45472 Mülheim an der Ruhr Deutschland": [
+   409.4,
+   5.254
+  ],
+  "74635 Kupferzell Deutschland|45892 Gelsenkirchen Deutschland": [
+   435.7,
+   5.533
+  ],
+  "74635 Kupferzell Deutschland|48231 Warendorf Deutschland": [
+   446.4,
+   5.846
+  ],
+  "74635 Kupferzell Deutschland|48282 Emsdetten Deutschland": [
+   484.8,
+   6.178
+  ],
+  "74635 Kupferzell Deutschland|48317 Drensteinfurt Deutschland": [
+   442.2,
+   5.599
+  ],
+  "74635 Kupferzell Deutschland|48612 Horstmar Deutschland": [
+   486.4,
+   6.183
+  ],
+  "74635 Kupferzell Deutschland|49811 Lingen (Ems) Deutschland": [
+   536.4,
+   6.904
+  ],
+  "74635 Kupferzell Deutschland|50679 Köln Deutschland": [
+   349.9,
+   4.44
+  ],
+  "74635 Kupferzell Deutschland|52080 Aachen Deutschland": [
+   396.8,
+   5.045
+  ],
+  "74635 Kupferzell Deutschland|52525 Heinsberg Deutschland": [
+   417.1,
+   5.338
+  ],
+  "74635 Kupferzell Deutschland|55129 Mainz Deutschland": [
+   193.9,
+   2.593
+  ],
+  "74635 Kupferzell Deutschland|56357 Welterod Deutschland": [
+   239.6,
+   3.129
+  ],
+  "74635 Kupferzell Deutschland|56656 Brohl-Lützing Deutschland": [
+   289.0,
+   3.676
+  ],
+  "74635 Kupferzell Deutschland|57339 Erndtebrück Deutschland": [
+   325.6,
+   4.255
+  ],
+  "74635 Kupferzell Deutschland|57380 Faulquemont Frankreich": [
+   291.0,
+   3.683
+  ],
+  "74635 Kupferzell Deutschland|57413 Finnentrop Deutschland": [
+   363.8,
+   4.823
+  ],
+  "74635 Kupferzell Deutschland|58091 Hagen Deutschland": [
+   381.9,
+   4.932
+  ],
+  "74635 Kupferzell Deutschland|58119 Hagen Deutschland": [
+   382.8,
+   4.88
+  ],
+  "74635 Kupferzell Deutschland|59510 Lippetal Deutschland": [
+   428.6,
+   5.777
+  ],
+  "74635 Kupferzell Deutschland|59846 Sundern (Sauerland) Deutschland": [
+   382.5,
+   5.041
+  ],
+  "74635 Kupferzell Deutschland|60386 Frankfurt am Main Deutschland": [
+   196.1,
+   2.51
+  ],
+  "74635 Kupferzell Deutschland|60549 Frankfurt am Main Deutschland": [
+   188.5,
+   2.513
+  ],
+  "74635 Kupferzell Deutschland|61440 Oberursel (Taunus) Deutschland": [
+   204.7,
+   2.624
+  ],
+  "74635 Kupferzell Deutschland|63128 Dietzenbach Deutschland": [
+   169.9,
+   2.335
+  ],
+  "74635 Kupferzell Deutschland|63599 Biebergemünd Deutschland": [
+   155.5,
+   2.538
+  ],
+  "74635 Kupferzell Deutschland|63741 Aschaffenburg Deutschland": [
+   151.2,
+   2.061
+  ],
+  "74635 Kupferzell Deutschland|64319 Pfungstadt Deutschland": [
+   151.0,
+   1.923
+  ],
+  "74635 Kupferzell Deutschland|64579 Gernsheim Deutschland": [
+   145.9,
+   1.877
+  ],
+  "74635 Kupferzell Deutschland|64646 Heppenheim (Bergstraße) Deutschland": [
+   134.9,
+   1.857
+  ],
+  "74635 Kupferzell Deutschland|65201 Wiesbaden Deutschland": [
+   209.2,
+   2.717
+  ],
+  "74635 Kupferzell Deutschland|65375 Oestrich-Winkel Deutschland": [
+   223.7,
+   3.164
+  ],
+  "74635 Kupferzell Deutschland|65529 Waldems Deutschland": [
+   221.8,
+   2.905
+  ],
+  "74635 Kupferzell Deutschland|65597 Hünfelden Deutschland": [
+   225.4,
+   3.033
+  ],
+  "74635 Kupferzell Deutschland|65760 Eschborn Deutschland": [
+   192.8,
+   2.499
+  ],
+  "74635 Kupferzell Deutschland|66130 Saarbrücken Deutschland": [
+   246.4,
+   3.137
+  ],
+  "74635 Kupferzell Deutschland|66482 Zweibrücken Deutschland": [
+   233.6,
+   2.958
+  ],
+  "74635 Kupferzell Deutschland|66571 Eppelborn Deutschland": [
+   247.3,
+   3.24
+  ],
+  "74635 Kupferzell Deutschland|66763 Dillingen/Saar Deutschland": [
+   266.3,
+   3.445
+  ],
+  "74635 Kupferzell Deutschland|66849 Landstuhl Deutschland": [
+   202.0,
+   2.588
+  ],
+  "74635 Kupferzell Deutschland|66879 Reichenbach-Steegen Deutschland": [
+   200.3,
+   2.567
+  ],
+  "74635 Kupferzell Deutschland|67063 Ludwigshafen am Rhein Deutschland": [
+   138.6,
+   1.875
+  ],
+  "74635 Kupferzell Deutschland|67105 Schifferstadt Deutschland": [
+   121.5,
+   1.58
+  ],
+  "74635 Kupferzell Deutschland|67120 Duppigheim Frankreich": [
+   222.3,
+   2.884
+  ],
+  "74635 Kupferzell Deutschland|67308 Zellertal Deutschland": [
+   155.7,
+   2.012
+  ],
+  "74635 Kupferzell Deutschland|67346 Speyer Deutschland": [
+   111.2,
+   1.448
+  ],
+  "74635 Kupferzell Deutschland|67482 Altdorf Deutschland": [
+   132.2,
+   1.706
+  ],
+  "74635 Kupferzell Deutschland|67681 Sembach Deutschland": [
+   178.1,
+   2.421
+  ],
+  "74635 Kupferzell Deutschland|67714 Waldfischbach-Burgalben Deutschland": [
+   206.4,
+   2.69
+  ],
+  "74635 Kupferzell Deutschland|68199 Mannheim Deutschland": [
+   113.6,
+   1.505
+  ],
+  "74635 Kupferzell Deutschland|68526 Ladenburg Deutschland": [
+   113.3,
+   1.458
+  ],
+  "74635 Kupferzell Deutschland|68542 Heddesheim Deutschland": [
+   117.4,
+   1.533
+  ],
+  "74635 Kupferzell Deutschland|68642 Bürstadt Deutschland": [
+   140.7,
+   1.81
+  ],
+  "74635 Kupferzell Deutschland|68766 Hockenheim Deutschland": [
+   104.6,
+   1.364
+  ],
+  "74635 Kupferzell Deutschland|69124 Heidelberg Deutschland": [
+   103.9,
+   1.45
+  ],
+  "74635 Kupferzell Deutschland|69126 Heidelberg Deutschland": [
+   98.5,
+   1.315
+  ],
+  "74635 Kupferzell Deutschland|69168 Wiesloch Deutschland": [
+   87.1,
+   1.158
+  ],
+  "74635 Kupferzell Deutschland|69412 Eberbach Deutschland": [
+   93.8,
+   1.587
+  ],
+  "74635 Kupferzell Deutschland|69502 Hemsbach Deutschland": [
+   125.4,
+   1.626
+  ],
+  "74635 Kupferzell Deutschland|70176 Stuttgart Deutschland": [
+   90.7,
+   1.333
+  ],
+  "74635 Kupferzell Deutschland|70188 Stuttgart Deutschland": [
+   87.9,
+   1.254
+  ],
+  "74635 Kupferzell Deutschland|70469 Stuttgart Deutschland": [
+   83.7,
+   1.192
+  ],
+  "74635 Kupferzell Deutschland|70736 Fellbach Deutschland": [
+   86.0,
+   1.23
+  ],
+  "74635 Kupferzell Deutschland|70794 Filderstadt Deutschland": [
+   109.6,
+   1.433
+  ],
+  "74635 Kupferzell Deutschland|70825 Korntal-Münchingen Deutschland": [
+   76.5,
+   1.229
+  ],
+  "74635 Kupferzell Deutschland|70839 Gerlingen Deutschland": [
+   85.2,
+   1.191
+  ],
+  "74635 Kupferzell Deutschland|71101 Schönaich Deutschland": [
+   105.1,
+   1.407
+  ],
+  "74635 Kupferzell Deutschland|71111 Waldenbuch Deutschland": [
+   114.5,
+   1.544
+  ],
+  "74635 Kupferzell Deutschland|71116 Gärtringen Deutschland": [
+   116.0,
+   1.59
+  ],
+  "74635 Kupferzell Deutschland|71149 Bondorf Deutschland": [
+   130.5,
+   1.706
+  ],
+  "74635 Kupferzell Deutschland|71154 Nufringen Deutschland": [
+   112.0,
+   1.461
+  ],
+  "74635 Kupferzell Deutschland|71229 Leonberg Deutschland": [
+   89.6,
+   1.181
+  ],
+  "74635 Kupferzell Deutschland|71299 Wimsheim Deutschland": [
+   103.6,
+   1.386
+  ],
+  "74635 Kupferzell Deutschland|71334 Waiblingen Deutschland": [
+   67.8,
+   1.038
+  ],
+  "74635 Kupferzell Deutschland|71409 Schwaikheim Deutschland": [
+   65.4,
+   1.014
+  ],
+  "74635 Kupferzell Deutschland|71546 Aspach Deutschland": [
+   67.7,
+   0.925
+  ],
+  "74635 Kupferzell Deutschland|71554 Weissach im Tal Deutschland": [
+   55.9,
+   0.901
+  ],
+  "74635 Kupferzell Deutschland|71636 Ludwigsburg Deutschland": [
+   72.4,
+   0.96
+  ],
+  "74635 Kupferzell Deutschland|71642 Ludwigsburg Deutschland": [
+   74.2,
+   1.083
+  ],
+  "74635 Kupferzell Deutschland|71679 Asperg Deutschland": [
+   71.0,
+   0.963
+  ],
+  "74635 Kupferzell Deutschland|71686 Remseck am Neckar Deutschland": [
+   76.9,
+   1.063
+  ],
+  "74635 Kupferzell Deutschland|71696 Möglingen Deutschland": [
+   72.0,
+   0.946
+  ],
+  "74635 Kupferzell Deutschland|71706 Markgröningen Deutschland": [
+   78.3,
+   1.145
+  ],
+  "74635 Kupferzell Deutschland|71711 Steinheim an der Murr Deutschland": [
+   63.7,
+   0.868
+  ],
+  "74635 Kupferzell Deutschland|71720 Oberstenfeld Deutschland": [
+   57.1,
+   0.803
+  ],
+  "74635 Kupferzell Deutschland|72072 Tübingen Deutschland": [
+   136.6,
+   1.81
+  ],
+  "74635 Kupferzell Deutschland|72108 Rottenburg am Neckar Deutschland": [
+   133.4,
+   1.836
+  ],
+  "74635 Kupferzell Deutschland|72119 Ammerbuch Deutschland": [
+   122.4,
+   1.752
+  ],
+  "74635 Kupferzell Deutschland|72124 Pliezhausen Deutschland": [
+   123.0,
+   1.6
+  ],
+  "74635 Kupferzell Deutschland|72160 Horb am Neckar Deutschland": [
+   145.5,
+   2.045
+  ],
+  "74635 Kupferzell Deutschland|72172 Sulz am Neckar Deutschland": [
+   154.0,
+   2.057
+  ],
+  "74635 Kupferzell Deutschland|72178 Waldachtal Deutschland": [
+   150.3,
+   2.147
+  ],
+  "74635 Kupferzell Deutschland|72221 Haiterbach Deutschland": [
+   146.2,
+   1.958
+  ],
+  "74635 Kupferzell Deutschland|72297 Seewald Deutschland": [
+   160.1,
+   2.288
+  ],
+  "74635 Kupferzell Deutschland|72336 Balingen Deutschland": [
+   165.8,
+   2.175
+  ],
+  "74635 Kupferzell Deutschland|72348 Rosenfeld Deutschland": [
+   165.0,
+   2.154
+  ],
+  "74635 Kupferzell Deutschland|72358 Dormettingen Deutschland": [
+   175.0,
+   2.313
+  ],
+  "74635 Kupferzell Deutschland|72411 Bodelshausen Deutschland": [
+   151.7,
+   2.011
+  ],
+  "74635 Kupferzell Deutschland|72414 Rangendingen Deutschland": [
+   158.6,
+   2.105
+  ],
+  "74635 Kupferzell Deutschland|72534 Hayingen Deutschland": [
+   169.8,
+   2.327
+  ],
+  "74635 Kupferzell Deutschland|72636 Frickenhausen Deutschland": [
+   128.5,
+   1.719
+  ],
+  "74635 Kupferzell Deutschland|72644 Oberboihingen Deutschland": [
+   129.2,
+   1.696
+  ],
+  "74635 Kupferzell Deutschland|72654 Neckartenzlingen Deutschland": [
+   127.1,
+   1.95
+  ],
+  "74635 Kupferzell Deutschland|72669 Unterensingen Deutschland": [
+   122.2,
+   1.841
+  ],
+  "74635 Kupferzell Deutschland|72810 Gomaringen Deutschland": [
+   142.0,
+   1.877
+  ],
+  "74635 Kupferzell Deutschland|72813 Sankt Johann Deutschland": [
+   244.9,
+   3.113
+  ],
+  "74635 Kupferzell Deutschland|73230 Kirchheim unter Teck Deutschland": [
+   127.6,
+   1.651
+  ],
+  "74635 Kupferzell Deutschland|73262 Reichenbach an der Fils Deutschland": [
+   128.1,
+   1.745
+  ],
+  "74635 Kupferzell Deutschland|73274 Notzingen Deutschland": [
+   130.5,
+   1.741
+  ],
+  "74635 Kupferzell Deutschland|73309 Geislingen an der Steige Deutschland": [
+   90.4,
+   1.521
+  ],
+  "74635 Kupferzell Deutschland|73312 Geislingen an der Steige Deutschland": [
+   95.4,
+   1.696
+  ],
+  "74635 Kupferzell Deutschland|73431 Aalen Deutschland": [
+   102.5,
+   1.351
+  ],
+  "74635 Kupferzell Deutschland|73432 Aalen Deutschland": [
+   104.2,
+   1.402
+  ],
+  "74635 Kupferzell Deutschland|73441 Bopfingen Deutschland": [
+   102.5,
+   1.506
+  ],
+  "74635 Kupferzell Deutschland|73447 Oberkochen Deutschland": [
+   111.6,
+   1.479
+  ],
+  "74635 Kupferzell Deutschland|73466 Lauchheim Deutschland": [
+   94.1,
+   1.245
+  ],
+  "74635 Kupferzell Deutschland|73479 Ellwangen (Jagst) Deutschland": [
+   79.9,
+   1.051
+  ],
+  "74635 Kupferzell Deutschland|73497 Tannhausen Deutschland": [
+   92.9,
+   1.262
+  ],
+  "74635 Kupferzell Deutschland|73527 Schwäbisch Gmünd Deutschland": [
+   60.9,
+   1.148
+  ],
+  "74635 Kupferzell Deutschland|73529 Schwäbisch Gmünd Deutschland": [
+   68.5,
+   1.175
+  ],
+  "74635 Kupferzell Deutschland|73553 Alfdorf Deutschland": [
+   54.3,
+   0.985
+  ],
+  "74635 Kupferzell Deutschland|73563 Mögglingen Deutschland": [
+   64.0,
+   1.07
+  ],
+  "74635 Kupferzell Deutschland|73642 Welzheim Deutschland": [
+   56.0,
+   0.945
+  ],
+  "74635 Kupferzell Deutschland|73655 Plüderhausen Deutschland": [
+   76.3,
+   1.339
+  ],
+  "74635 Kupferzell Deutschland|73660 Urbach Deutschland": [
+   71.7,
+   1.368
+  ],
+  "74635 Kupferzell Deutschland|73730 Esslingen am Neckar Deutschland": [
+   101.3,
+   1.515
+  ],
+  "74635 Kupferzell Deutschland|73760 Ostfildern Deutschland": [
+   114.1,
+   1.605
+  ],
+  "74635 Kupferzell Deutschland|73765 Neuhausen auf den Fildern Deutschland": [
+   112.5,
+   1.471
+  ],
+  "74635 Kupferzell Deutschland|73770 Denkendorf Deutschland": [
+   115.4,
+   1.526
+  ],
+  "74635 Kupferzell Deutschland|73776 Altbach Deutschland": [
+   103.7,
+   1.523
+  ],
+  "74635 Kupferzell Deutschland|74076 Heilbronn Deutschland": [
+   45.4,
+   0.625
+  ],
+  "74635 Kupferzell Deutschland|74078 Heilbronn Deutschland": [
+   51.7,
+   0.703
+  ],
+  "74635 Kupferzell Deutschland|74081 Heilbronn Deutschland": [
+   54.4,
+   0.777
+  ],
+  "74635 Kupferzell Deutschland|74177 Bad Friedrichshall Deutschland": [
+   49.2,
+   0.675
+  ],
+  "74635 Kupferzell Deutschland|74182 Obersulm Deutschland": [
+   34.8,
+   0.53
+  ],
+  "74635 Kupferzell Deutschland|74189 Weinsberg Deutschland": [
+   42.5,
+   0.599
+  ],
+  "74635 Kupferzell Deutschland|74193 Schwaigern Deutschland": [
+   63.4,
+   0.965
+  ],
+  "74635 Kupferzell Deutschland|74196 Neuenstadt am Kocher Deutschland": [
+   33.5,
+   0.562
+  ],
+  "74635 Kupferzell Deutschland|74214 Schöntal Deutschland": [
+   30.3,
+   0.498
+  ],
+  "74635 Kupferzell Deutschland|74219 Möckmühl Deutschland": [
+   45.0,
+   0.64
+  ],
+  "74635 Kupferzell Deutschland|74232 Abstatt Deutschland": [
+   48.5,
+   0.729
+  ],
+  "74635 Kupferzell Deutschland|74252 Massenbachhausen Deutschland": [
+   60.8,
+   0.83
+  ],
+  "74635 Kupferzell Deutschland|74255 Roigheim Deutschland": [
+   51.1,
+   0.75
+  ],
+  "74635 Kupferzell Deutschland|74321 Bietigheim-Bissingen Deutschland": [
+   72.2,
+   0.975
+  ],
+  "74635 Kupferzell Deutschland|74343 Sachsenheim Deutschland": [
+   76.1,
+   1.058
+  ],
+  "74635 Kupferzell Deutschland|74348 Lauffen am Neckar Deutschland": [
+   59.6,
+   0.849
+  ],
+  "74635 Kupferzell Deutschland|74354 Besigheim Deutschland": [
+   65.2,
+   1.055
+  ],
+  "74635 Kupferzell Deutschland|74360 Ilsfeld Deutschland": [
+   49.4,
+   0.694
+  ],
+  "74635 Kupferzell Deutschland|74363 Güglingen Deutschland": [
+   69.2,
+   1.061
+  ],
+  "74635 Kupferzell Deutschland|74385 Pleidelsheim Deutschland": [
+   60.0,
+   0.788
+  ],
+  "74635 Kupferzell Deutschland|74405 Gaildorf Deutschland": [
+   32.9,
+   0.559
+  ],
+  "74635 Kupferzell Deutschland|74423 Obersontheim Deutschland": [
+   32.4,
+   0.506
+  ],
+  "74635 Kupferzell Deutschland|74424 Bühlertann Deutschland": [
+   34.4,
+   0.511
+  ],
+  "74635 Kupferzell Deutschland|74428 Illingen Deutschland": [
+   247.6,
+   3.157
+  ],
+  "74635 Kupferzell Deutschland|74523 Schwäbisch Hall Deutschland": [
+   19.3,
+   0.362
+  ],
+  "74635 Kupferzell Deutschland|74532 Ilshofen Deutschland": [
+   21.5,
+   0.297
+  ],
+  "74635 Kupferzell Deutschland|74535 Mainhardt Deutschland": [
+   27.8,
+   0.5
+  ],
+  "74635 Kupferzell Deutschland|74538 Rosengarten Deutschland": [
+   26.2,
+   0.449
+  ],
+  "74635 Kupferzell Deutschland|74547 Untermünkheim Deutschland": [
+   11.6,
+   0.313
+  ],
+  "74635 Kupferzell Deutschland|74549 Wolpertshausen Deutschland": [
+   20.9,
+   0.326
+  ],
+  "74635 Kupferzell Deutschland|74564 Crailsheim Deutschland": [
+   41.8,
+   0.588
+  ],
+  "74635 Kupferzell Deutschland|74572 Blaufelden Deutschland": [
+   37.8,
+   0.61
+  ],
+  "74635 Kupferzell Deutschland|74579 Fichtenau Deutschland": [
+   65.2,
+   0.854
+  ],
+  "74635 Kupferzell Deutschland|74585 Rot am See Deutschland": [
+   40.0,
+   0.609
+  ],
+  "74635 Kupferzell Deutschland|74613 Öhringen Deutschland": [
+   22.1,
+   0.329
+  ],
+  "74635 Kupferzell Deutschland|74626 Bretzfeld Deutschland": [
+   30.1,
+   0.451
+  ],
+  "74635 Kupferzell Deutschland|74629 Pfedelbach Deutschland": [
+   19.9,
+   0.351
+  ],
+  "74635 Kupferzell Deutschland|74632 Neuenstein Deutschland": [
+   13.4,
+   0.212
+  ],
+  "74635 Kupferzell Deutschland|74635 Kupferzell Deutschland": [
+   0.0,
+   0.0
+  ],
+  "74635 Kupferzell Deutschland|74638 Waldenburg Deutschland": [
+   13.2,
+   0.355
+  ],
+  "74635 Kupferzell Deutschland|74653 Ingelfingen Deutschland": [
+   15.2,
+   0.274
+  ],
+  "74635 Kupferzell Deutschland|74653 Künzelsau Deutschland": [
+   17.0,
+   0.455
+  ],
+  "74635 Kupferzell Deutschland|74670 Forchtenberg Deutschland": [
+   16.5,
+   0.434
+  ],
+  "74635 Kupferzell Deutschland|74673 Mulfingen Deutschland": [
+   28.1,
+   0.502
+  ],
+  "74635 Kupferzell Deutschland|74676 Niedernhall Deutschland": [
+   14.7,
+   0.28
+  ],
+  "74635 Kupferzell Deutschland|74677 Dörzbach Deutschland": [
+   26.5,
+   0.429
+  ],
+  "74635 Kupferzell Deutschland|74706 Osterburken Deutschland": [
+   47.5,
+   0.828
+  ],
+  "74635 Kupferzell Deutschland|74731 Walldürn Deutschland": [
+   71.6,
+   1.094
+  ],
+  "74635 Kupferzell Deutschland|74744 Ahorn Deutschland": [
+   58.6,
+   0.931
+  ],
+  "74635 Kupferzell Deutschland|74746 Höpfingen Deutschland": [
+   78.7,
+   1.225
+  ],
+  "74635 Kupferzell Deutschland|74749 Rosenberg Deutschland": [
+   53.4,
+   0.83
+  ],
+  "74635 Kupferzell Deutschland|74834 Elztal Deutschland": [
+   72.2,
+   0.999
+  ],
+  "74635 Kupferzell Deutschland|74842 Billigheim Deutschland": [
+   65.7,
+   0.939
+  ],
+  "74635 Kupferzell Deutschland|74889 Sinsheim Deutschland": [
+   69.0,
+   0.906
+  ],
+  "74635 Kupferzell Deutschland|74906 Bad Rappenau Deutschland": [
+   59.6,
+   0.783
+  ],
+  "74635 Kupferzell Deutschland|74912 Kirchardt Deutschland": [
+   61.2,
+   0.889
+  ],
+  "74635 Kupferzell Deutschland|75031 Eppingen Deutschland": [
+   80.8,
+   1.13
+  ],
+  "74635 Kupferzell Deutschland|75059 Zaisenhausen Deutschland": [
+   85.6,
+   1.193
+  ],
+  "74635 Kupferzell Deutschland|75203 Königsbach-Stein Deutschland": [
+   113.1,
+   1.572
+  ],
+  "74635 Kupferzell Deutschland|75217 Birkenfeld Deutschland": [
+   127.5,
+   1.674
+  ],
+  "74635 Kupferzell Deutschland|75245 Neulingen Deutschland": [
+   109.8,
+   1.529
+  ],
+  "74635 Kupferzell Deutschland|75334 Straubenhardt Deutschland": [
+   135.3,
+   1.849
+  ],
+  "74635 Kupferzell Deutschland|75417 Mühlacker Deutschland": [
+   101.1,
+   1.452
+  ],
+  "74635 Kupferzell Deutschland|75428 Illingen Deutschland": [
+   96.4,
+   1.282
+  ],
+  "74635 Kupferzell Deutschland|75433 Maulbronn Deutschland": [
+   105.0,
+   1.397
+  ],
+  "74635 Kupferzell Deutschland|76149 Karlsruhe Deutschland": [
+   128.6,
+   1.659
+  ],
+  "74635 Kupferzell Deutschland|76189 Karlsruhe Deutschland": [
+   136.1,
+   1.819
+  ],
+  "74635 Kupferzell Deutschland|76227 Karlsruhe Deutschland": [
+   129.3,
+   1.67
+  ],
+  "74635 Kupferzell Deutschland|76229 Karlsruhe Deutschland": [
+   125.4,
+   1.703
+  ],
+  "74635 Kupferzell Deutschland|76337 Waldbronn Deutschland": [
+   136.2,
+   1.776
+  ],
+  "74635 Kupferzell Deutschland|76344 Eggenstein-Leopoldshafen Deutschland": [
+   125.3,
+   1.864
+  ],
+  "74635 Kupferzell Deutschland|76356 Weingarten (Baden) Deutschland": [
+   120.1,
+   1.64
+  ],
+  "74635 Kupferzell Deutschland|76698 Ubstadt-Weiher Deutschland": [
+   103.7,
+   1.367
+  ],
+  "74635 Kupferzell Deutschland|76709 Kronau Deutschland": [
+   97.0,
+   1.297
+  ],
+  "74635 Kupferzell Deutschland|76829 Landau in der Pfalz Deutschland": [
+   143.2,
+   1.87
+  ],
+  "74635 Kupferzell Deutschland|76870 Kandel Deutschland": [
+   151.9,
+   1.988
+  ],
+  "74635 Kupferzell Deutschland|77652 Offenburg Deutschland": [
+   199.3,
+   2.642
+  ],
+  "74635 Kupferzell Deutschland|77656 Offenburg Deutschland": [
+   201.5,
+   2.567
+  ],
+  "74635 Kupferzell Deutschland|77704 Oberkirch Deutschland": [
+   202.4,
+   2.589
+  ],
+  "74635 Kupferzell Deutschland|77746 Schutterwald Deutschland": [
+   202.0,
+   2.616
+  ],
+  "74635 Kupferzell Deutschland|77790 Steinach Deutschland": [
+   226.9,
+   2.912
+  ],
+  "74635 Kupferzell Deutschland|77815 Bühl Deutschland": [
+   170.0,
+   2.192
+  ],
+  "74635 Kupferzell Deutschland|77836 Rheinmünster Deutschland": [
+   169.2,
+   2.283
+  ],
+  "74635 Kupferzell Deutschland|77866 Rheinau Deutschland": [
+   186.2,
+   2.551
+  ],
+  "74635 Kupferzell Deutschland|77933 Lahr/Schwarzwald Deutschland": [
+   221.6,
+   2.836
+  ],
+  "74635 Kupferzell Deutschland|77948 Friesenheim Deutschland": [
+   214.9,
+   2.808
+  ],
+  "74635 Kupferzell Deutschland|77963 Schwanau Deutschland": [
+   216.5,
+   2.816
+  ],
+  "74635 Kupferzell Deutschland|78112 Sankt Georgen im Schwarzwald Deutschland": [
+   212.1,
+   2.762
+  ],
+  "74635 Kupferzell Deutschland|78141 Schönwald im Schwarzwald Deutschland": [
+   223.3,
+   2.953
+  ],
+  "74635 Kupferzell Deutschland|78187 Geisingen Deutschland": [
+   210.0,
+   2.912
+  ],
+  "74635 Kupferzell Deutschland|78224 Singen (Hohentwiel) Deutschland": [
+   238.5,
+   3.089
+  ],
+  "74635 Kupferzell Deutschland|78239 Rielasingen-Worblingen Deutschland": [
+   235.8,
+   3.055
+  ],
+  "74635 Kupferzell Deutschland|78315 Radolfzell am Bodensee Deutschland": [
+   237.1,
+   3.022
+  ],
+  "74635 Kupferzell Deutschland|78464 Konstanz Deutschland": [
+   258.9,
+   3.561
+  ],
+  "74635 Kupferzell Deutschland|78554 Aldingen Deutschland": [
+   190.6,
+   2.506
+  ],
+  "74635 Kupferzell Deutschland|78609 Tuningen Deutschland": [
+   192.9,
+   2.49
+  ],
+  "74635 Kupferzell Deutschland|78665 Frittlingen Deutschland": [
+   187.5,
+   2.42
+  ],
+  "74635 Kupferzell Deutschland|78727 Oberndorf am Neckar Deutschland": [
+   162.7,
+   2.221
+  ],
+  "74635 Kupferzell Deutschland|79098 Freiburg im Breisgau Deutschland": [
+   260.7,
+   3.345
+  ],
+  "74635 Kupferzell Deutschland|79108 Freiburg im Breisgau Deutschland": [
+   252.2,
+   3.427
+  ],
+  "74635 Kupferzell Deutschland|79114 Freiburg im Breisgau Deutschland": [
+   257.6,
+   3.269
+  ],
+  "74635 Kupferzell Deutschland|79183 Waldkirch Deutschland": [
+   265.4,
+   3.386
+  ],
+  "74635 Kupferzell Deutschland|79189 Bad Krozingen Deutschland": [
+   270.6,
+   3.473
+  ],
+  "74635 Kupferzell Deutschland|79206 Breisach am Rhein Deutschland": [
+   274.7,
+   3.595
+  ],
+  "74635 Kupferzell Deutschland|79211 Denzlingen Deutschland": [
+   258.4,
+   3.289
+  ],
+  "74635 Kupferzell Deutschland|79227 Schallstadt Deutschland": [
+   265.3,
+   3.416
+  ],
+  "74635 Kupferzell Deutschland|79688 Hausen im Wiesental Deutschland": [
+   281.5,
+   3.72
+  ],
+  "74635 Kupferzell Deutschland|79793 Wutöschingen Deutschland": [
+   247.3,
+   3.197
+  ],
+  "74635 Kupferzell Deutschland|80807 München Deutschland": [
+   271.5,
+   3.452
+  ],
+  "74635 Kupferzell Deutschland|80809 München Deutschland": [
+   261.6,
+   3.36
+  ],
+  "74635 Kupferzell Deutschland|80995 München Deutschland": [
+   257.5,
+   3.298
+  ],
+  "74635 Kupferzell Deutschland|81245 München Deutschland": [
+   264.0,
+   3.416
+  ],
+  "74635 Kupferzell Deutschland|82110 Germering Deutschland": [
+   259.9,
+   3.303
+  ],
+  "74635 Kupferzell Deutschland|82256 Fürstenfeldbruck Deutschland": [
+   255.8,
+   3.281
+  ],
+  "74635 Kupferzell Deutschland|82377 Penzberg Deutschland": [
+   314.7,
+   4.025
+  ],
+  "74635 Kupferzell Deutschland|82515 Wolfratshausen Deutschland": [
+   297.9,
+   3.853
+  ],
+  "74635 Kupferzell Deutschland|83075 Bad Feilnbach Deutschland": [
+   341.4,
+   4.325
+  ],
+  "74635 Kupferzell Deutschland|83376 Seeon-Seebruck Deutschland": [
+   359.0,
+   4.656
+  ],
+  "74635 Kupferzell Deutschland|83471 Schönau am Königssee Deutschland": [
+   434.0,
+   5.619
+  ],
+  "74635 Kupferzell Deutschland|83530 Schnaitsee Deutschland": [
+   339.3,
+   4.396
+  ],
+  "74635 Kupferzell Deutschland|83549 Eiselfing Deutschland": [
+   330.9,
+   4.326
+  ],
+  "74635 Kupferzell Deutschland|84056 Rottenburg an der Laaber Deutschland": [
+   257.2,
+   3.411
+  ],
+  "74635 Kupferzell Deutschland|84076 Pfeffenhausen Deutschland": [
+   240.9,
+   3.323
+  ],
+  "74635 Kupferzell Deutschland|84088 Neufahrn in Niederbayern Deutschland": [
+   249.4,
+   3.191
+  ],
+  "74635 Kupferzell Deutschland|84172 Buch am Erlbach Deutschland": [
+   298.0,
+   3.831
+  ],
+  "74635 Kupferzell Deutschland|84184 Tiefenbach Deutschland": [
+   301.2,
+   3.889
+  ],
+  "74635 Kupferzell Deutschland|84332 Hebertsfelden Deutschland": [
+   323.0,
+   4.126
+  ],
+  "74635 Kupferzell Deutschland|84364 Bad Birnbach Deutschland": [
+   346.2,
+   4.431
+  ],
+  "74635 Kupferzell Deutschland|84432 Hohenpolding Deutschland": [
+   292.3,
+   3.79
+  ],
+  "74635 Kupferzell Deutschland|84453 Mühldorf am Inn Deutschland": [
+   343.5,
+   4.385
+  ],
+  "74635 Kupferzell Deutschland|84539 Ampfing Deutschland": [
+   336.9,
+   4.37
+  ],
+  "74635 Kupferzell Deutschland|84561 Mehring Deutschland": [
+   370.3,
+   4.755
+  ],
+  "74635 Kupferzell Deutschland|85092 Kösching Deutschland": [
+   202.9,
+   2.956
+  ],
+  "74635 Kupferzell Deutschland|85283 Wolnzach Deutschland": [
+   228.2,
+   2.894
+  ],
+  "74635 Kupferzell Deutschland|85408 Gammelsdorf Deutschland": [
+   258.0,
+   3.393
+  ],
+  "74635 Kupferzell Deutschland|85435 Erding Deutschland": [
+   288.4,
+   3.667
+  ],
+  "74635 Kupferzell Deutschland|85560 Ebersberg Deutschland": [
+   301.5,
+   3.962
+  ],
+  "74635 Kupferzell Deutschland|85609 Aschheim Deutschland": [
+   273.1,
+   3.448
+  ],
+  "74635 Kupferzell Deutschland|86161 Augsburg Deutschland": [
+   213.9,
+   2.941
+  ],
+  "74635 Kupferzell Deutschland|86165 Augsburg Deutschland": [
+   210.6,
+   2.676
+  ],
+  "74635 Kupferzell Deutschland|86167 Augsburg Deutschland": [
+   206.6,
+   2.627
+  ],
+  "74635 Kupferzell Deutschland|86199 Augsburg Deutschland": [
+   212.9,
+   2.775
+  ],
+  "74635 Kupferzell Deutschland|86316 Friedberg Deutschland": [
+   216.4,
+   2.888
+  ],
+  "74635 Kupferzell Deutschland|86444 Affing Deutschland": [
+   211.1,
+   2.693
+  ],
+  "74635 Kupferzell Deutschland|86529 Schrobenhausen Deutschland": [
+   182.6,
+   2.523
+  ],
+  "74635 Kupferzell Deutschland|86637 Wertingen Deutschland": [
+   155.9,
+   2.177
+  ],
+  "74635 Kupferzell Deutschland|86757 Wallerstein Deutschland": [
+   97.2,
+   1.311
+  ],
+  "74635 Kupferzell Deutschland|86916 Kaufering Deutschland": [
+   243.1,
+   3.21
+  ],
+  "74635 Kupferzell Deutschland|86956 Schongau Deutschland": [
+   278.9,
+   3.549
+  ],
+  "74635 Kupferzell Deutschland|86978 Hohenfurch Deutschland": [
+   272.6,
+   3.438
+  ],
+  "74635 Kupferzell Deutschland|87541 Bad Hindelang Deutschland": null,
+  "74635 Kupferzell Deutschland|87700 Memmingen Deutschland": [
+   203.8,
+   2.595
+  ],
+  "74635 Kupferzell Deutschland|87760 Lachen Deutschland": [
+   209.5,
+   2.701
+  ],
+  "74635 Kupferzell Deutschland|87770 Oberschönegg Deutschland": [
+   192.3,
+   2.547
+  ],
+  "74635 Kupferzell Deutschland|87778 Stetten Deutschland": [
+   222.2,
+   2.83
+  ],
+  "74635 Kupferzell Deutschland|88046 Friedrichshafen Deutschland": [
+   277.6,
+   3.523
+  ],
+  "74635 Kupferzell Deutschland|88145 Opfenbach Deutschland": [
+   247.4,
+   3.219
+  ],
+  "74635 Kupferzell Deutschland|88167 Stiefenhofen Deutschland": [
+   259.4,
+   3.325
+  ],
+  "74635 Kupferzell Deutschland|88213 Ravensburg Deutschland": [
+   248.3,
+   3.38
+  ],
+  "74635 Kupferzell Deutschland|88299 Leutkirch im Allgäu Deutschland": [
+   224.4,
+   2.878
+  ],
+  "74635 Kupferzell Deutschland|88319 Aitrach Deutschland": [
+   209.5,
+   2.735
+  ],
+  "74635 Kupferzell Deutschland|88356 Ostrach Deutschland": [
+   211.0,
+   2.928
+  ],
+  "74635 Kupferzell Deutschland|88361 Altshausen Deutschland": [
+   214.9,
+   2.931
+  ],
+  "74635 Kupferzell Deutschland|88416 Ochsenhausen Deutschland": [
+   206.7,
+   2.698
+  ],
+  "74635 Kupferzell Deutschland|88487 Mietingen Deutschland": [
+   191.3,
+   2.461
+  ],
+  "74635 Kupferzell Deutschland|88524 Uttenweiler Deutschland": [
+   195.7,
+   2.687
+  ],
+  "74635 Kupferzell Deutschland|89079 Ulm Deutschland": [
+   164.6,
+   2.14
+  ],
+  "74635 Kupferzell Deutschland|89081 Ulm Deutschland": [
+   154.6,
+   2.011
+  ],
+  "74635 Kupferzell Deutschland|89134 Blaustein Deutschland": [
+   166.3,
+   2.22
+  ],
+  "74635 Kupferzell Deutschland|89143 Blaubeuren Deutschland": [
+   172.6,
+   2.269
+  ],
+  "74635 Kupferzell Deutschland|89155 Erbach Deutschland": [
+   171.9,
+   2.361
+  ],
+  "74635 Kupferzell Deutschland|89179 Beimerstetten Deutschland": [
+   155.1,
+   2.009
+  ],
+  "74635 Kupferzell Deutschland|89188 Merklingen Deutschland": [
+   161.0,
+   2.158
+  ],
+  "74635 Kupferzell Deutschland|89231 Neu-Ulm Deutschland": [
+   155.1,
+   1.987
+  ],
+  "74635 Kupferzell Deutschland|89257 Illertissen Deutschland": [
+   170.9,
+   2.225
+  ],
+  "74635 Kupferzell Deutschland|89264 Weißenhorn Deutschland": [
+   167.3,
+   2.139
+  ],
+  "74635 Kupferzell Deutschland|89269 Vöhringen Deutschland": [
+   165.0,
+   2.099
+  ],
+  "74635 Kupferzell Deutschland|89275 Elchingen Deutschland": [
+   153.2,
+   1.952
+  ],
+  "74635 Kupferzell Deutschland|89284 Pfaffenhofen an der Roth Deutschland": [
+   161.2,
+   2.183
+  ],
+  "74635 Kupferzell Deutschland|89312 Günzburg Deutschland": [
+   146.8,
+   1.924
+  ],
+  "74635 Kupferzell Deutschland|89420 Höchstädt an der Donau Deutschland": [
+   143.1,
+   1.921
+  ],
+  "74635 Kupferzell Deutschland|89520 Heidenheim an der Brenz Deutschland": [
+   109.6,
+   1.633
+  ],
+  "74635 Kupferzell Deutschland|89522 Heidenheim an der Brenz Deutschland": [
+   119.2,
+   1.572
+  ],
+  "74635 Kupferzell Deutschland|89547 Gerstetten Deutschland": [
+   139.1,
+   1.81
+  ],
+  "74635 Kupferzell Deutschland|90411 Nürnberg Deutschland": [
+   150.1,
+   2.073
+  ],
+  "74635 Kupferzell Deutschland|90431 Nürnberg Deutschland": [
+   135.6,
+   1.759
+  ],
+  "74635 Kupferzell Deutschland|90443 Nürnberg Deutschland": [
+   131.8,
+   1.703
+  ],
+  "74635 Kupferzell Deutschland|90471 Nürnberg Deutschland": [
+   126.4,
+   1.617
+  ],
+  "74635 Kupferzell Deutschland|90475 Nürnberg Deutschland": [
+   127.3,
+   1.66
+  ],
+  "74635 Kupferzell Deutschland|90513 Zirndorf Deutschland": [
+   114.4,
+   1.595
+  ],
+  "74635 Kupferzell Deutschland|90518 Altdorf bei Nürnberg Deutschland": [
+   141.3,
+   1.848
+  ],
+  "74635 Kupferzell Deutschland|90592 Schwarzenbruck Deutschland": [
+   130.9,
+   1.761
+  ],
+  "74635 Kupferzell Deutschland|90763 Fürth Deutschland": [
+   136.8,
+   1.772
+  ],
+  "74635 Kupferzell Deutschland|91077 Neunkirchen am Brand Deutschland": [
+   164.1,
+   2.323
+  ],
+  "74635 Kupferzell Deutschland|91085 Weisendorf Deutschland": [
+   129.1,
+   1.744
+  ],
+  "74635 Kupferzell Deutschland|91126 Rednitzhembach Deutschland": [
+   119.5,
+   1.534
+  ],
+  "74635 Kupferzell Deutschland|91126 Schwabach Deutschland": [
+   108.9,
+   1.396
+  ],
+  "74635 Kupferzell Deutschland|91217 Hersbruck Deutschland": [
+   151.1,
+   1.951
+  ],
+  "74635 Kupferzell Deutschland|91301 Forchheim Deutschland": [
+   174.9,
+   2.242
+  ],
+  "74635 Kupferzell Deutschland|91522 Ansbach Deutschland": [
+   74.3,
+   0.98
+  ],
+  "74635 Kupferzell Deutschland|92224 Amberg Deutschland": [
+   178.8,
+   2.28
+  ],
+  "74635 Kupferzell Deutschland|92283 Lauterhofen Deutschland": [
+   157.8,
+   2.093
+  ],
+  "74635 Kupferzell Deutschland|92353 Postbauer-Heng Deutschland": [
+   142.4,
+   1.883
+  ],
+  "74635 Kupferzell Deutschland|92706 Luhe-Wildenau Deutschland": [
+   220.6,
+   2.974
+  ],
+  "74635 Kupferzell Deutschland|92711 Parkstein Deutschland": [
+   219.1,
+   2.845
+  ],
+  "74635 Kupferzell Deutschland|93049 Regensburg Deutschland": [
+   218.2,
+   2.773
+  ],
+  "74635 Kupferzell Deutschland|93055 Regensburg Deutschland": [
+   223.6,
+   2.862
+  ],
+  "74635 Kupferzell Deutschland|93098 Mintraching Deutschland": [
+   233.8,
+   3.037
+  ],
+  "74635 Kupferzell Deutschland|93128 Regenstauf Deutschland": [
+   213.0,
+   2.981
+  ],
+  "74635 Kupferzell Deutschland|93133 Burglengenfeld Deutschland": [
+   205.0,
+   2.608
+  ],
+  "74635 Kupferzell Deutschland|93326 Abensberg Deutschland": [
+   242.4,
+   3.282
+  ],
+  "74635 Kupferzell Deutschland|93333 Neustadt an der Donau Deutschland": [
+   214.4,
+   2.772
+  ],
+  "74635 Kupferzell Deutschland|93426 Roding Deutschland": [
+   234.5,
+   2.982
+  ],
+  "74635 Kupferzell Deutschland|93437 Furth im Wald Deutschland": [
+   269.2,
+   3.41
+  ],
+  "74635 Kupferzell Deutschland|94065 Waldkirchen Deutschland": [
+   347.4,
+   4.421
+  ],
+  "74635 Kupferzell Deutschland|94118 Jandelsbrunn Deutschland": [
+   355.1,
+   4.559
+  ],
+  "74635 Kupferzell Deutschland|94209 Regen Deutschland": [
+   313.2,
+   4.009
+  ],
+  "74635 Kupferzell Deutschland|94447 Plattling Deutschland": [
+   290.5,
+   3.744
+  ],
+  "74635 Kupferzell Deutschland|94538 Fürstenstein Deutschland": [
+   325.1,
+   4.285
+  ],
+  "74635 Kupferzell Deutschland|95326 Kulmbach Deutschland": [
+   230.9,
+   2.944
+  ],
+  "74635 Kupferzell Deutschland|95349 Thurnau Deutschland": [
+   229.4,
+   2.905
+  ],
+  "74635 Kupferzell Deutschland|95359 Kasendorf Deutschland": [
+   232.7,
+   3.036
+  ],
+  "74635 Kupferzell Deutschland|95509 Marktschorgast Deutschland": [
+   221.8,
+   2.819
+  ],
+  "74635 Kupferzell Deutschland|95512 Neudrossenfeld Deutschland": [
+   220.8,
+   2.796
+  ],
+  "74635 Kupferzell Deutschland|95632 Wunsiedel Deutschland": [
+   252.7,
+   3.231
+  ],
+  "74635 Kupferzell Deutschland|96132 Schlüsselfeld Deutschland": [
+   135.9,
+   1.979
+  ],
+  "74635 Kupferzell Deutschland|96149 Breitengüßbach Deutschland": [
+   173.5,
+   2.344
+  ],
+  "74635 Kupferzell Deutschland|96190 Untermerzbach Deutschland": [
+   189.2,
+   2.557
+  ],
+  "74635 Kupferzell Deutschland|96215 Lichtenfels Deutschland": [
+   193.9,
+   2.624
+  ],
+  "74635 Kupferzell Deutschland|96269 Großheirath Deutschland": [
+   199.2,
+   2.79
+  ],
+  "74635 Kupferzell Deutschland|96317 Kronach Deutschland": [
+   251.5,
+   3.268
+  ],
+  "74635 Kupferzell Deutschland|96450 Coburg Deutschland": [
+   202.9,
+   2.745
+  ],
+  "74635 Kupferzell Deutschland|96515 Sonneberg Deutschland": [
+   240.1,
+   3.577
+  ],
+  "74635 Kupferzell Deutschland|97076 Würzburg Deutschland": [
+   88.1,
+   1.328
+  ],
+  "74635 Kupferzell Deutschland|97318 Kitzingen Deutschland": [
+   97.6,
+   1.376
+  ],
+  "74635 Kupferzell Deutschland|97353 Wiesentheid Deutschland": [
+   116.2,
+   1.603
+  ],
+  "74635 Kupferzell Deutschland|97450 Arnstein Deutschland": [
+   108.5,
+   1.676
+  ],
+  "74635 Kupferzell Deutschland|97453 Schonungen Deutschland": [
+   155.3,
+   2.254
+  ],
+  "74635 Kupferzell Deutschland|97478 Knetzgau Deutschland": [
+   144.1,
+   2.037
+  ],
+  "74635 Kupferzell Deutschland|97769 Bad Brückenau Deutschland": [
+   170.9,
+   2.278
+  ],
+  "74635 Kupferzell Deutschland|97799 Bad Kissingen, gemeindefreies Gebiet Deutschland": [
+   182.2,
+   2.589
+  ],
+  "74635 Kupferzell Deutschland|97877 Wertheim Deutschland": [
+   84.3,
+   1.263
+  ],
+  "74635 Kupferzell Deutschland|97892 Kreuzwertheim Deutschland": [
+   105.8,
+   1.542
+  ],
+  "74635 Kupferzell Deutschland|97907 Hasloch Deutschland": [
+   90.9,
+   1.384
+  ],
+  "74635 Kupferzell Deutschland|97944 Boxberg Deutschland": [
+   54.2,
+   0.877
+  ],
+  "74635 Kupferzell Deutschland|97980 Bad Mergentheim Deutschland": [
+   40.4,
+   0.844
+  ],
+  "74635 Kupferzell Deutschland|97996 Niederstetten Deutschland": [
+   43.4,
+   0.698
+  ],
+  "74635 Kupferzell Deutschland|98597 Fambach Deutschland": [
+   233.4,
+   3.112
+  ],
+  "74635 Kupferzell Deutschland|99100 Dachwig Deutschland": [
+   303.7,
+   3.936
+  ],
+  "74635 Kupferzell Deutschland|99752 Bleicherode Deutschland": [
+   393.1,
+   5.362
+  ],
+  "74635 Kupferzell Deutschland|99834 Gerstungen Deutschland": [
+   265.7,
+   3.618
+  ],
+  "74635 Kupferzell Deutschland|99974 Mühlhausen/Thüringen Deutschland": [
+   306.0,
+   4.237
+  ],
+  "74635 Neu-Kupfer Deutschland|74653 Ingelfingen Deutschland": [
+   18.4,
+   0.324
+  ],
+  "74638 Waldenburg Deutschland|52525 Heinsberg Deutschland": [
+   425.0,
+   5.583
+  ],
+  "74638 Waldenburg Deutschland|53894 Mechernich Deutschland": [
+   372.8,
+   4.881
+  ],
+  "74638 Waldenburg Deutschland|55129 Mainz Deutschland": [
+   201.8,
+   2.838
+  ],
+  "74638 Waldenburg Deutschland|58300 Wetter (Ruhr) Deutschland": [
+   416.1,
+   5.489
+  ],
+  "74638 Waldenburg Deutschland|58739 Wickede (Ruhr) Deutschland": [
+   439.2,
+   5.816
+  ],
+  "74638 Waldenburg Deutschland|59939 Olsberg Deutschland": [
+   358.9,
+   4.824
+  ],
+  "74638 Waldenburg Deutschland|65760 Eschborn Deutschland": [
+   200.7,
+   2.744
+  ],
+  "74638 Waldenburg Deutschland|69126 Heidelberg Deutschland": [
+   106.4,
+   1.56
+  ],
+  "74638 Waldenburg Deutschland|70825 Korntal-Münchingen Deutschland": [
+   84.4,
+   1.474
+  ],
+  "74638 Waldenburg Deutschland|71229 Leonberg Deutschland": [
+   97.5,
+   1.426
+  ],
+  "74638 Waldenburg Deutschland|71384 Weinstadt Deutschland": [
+   65.8,
+   1.182
+  ],
+  "74638 Waldenburg Deutschland|71577 Großerlach Deutschland": [
+   22.8,
+   0.622
+  ],
+  "74638 Waldenburg Deutschland|71636 Ludwigsburg Deutschland": [
+   80.3,
+   1.205
+  ],
+  "74638 Waldenburg Deutschland|71665 Vaihingen an der Enz Deutschland": [
+   92.8,
+   1.421
+  ],
+  "74638 Waldenburg Deutschland|71679 Asperg Deutschland": [
+   78.9,
+   1.208
+  ],
+  "74638 Waldenburg Deutschland|71706 Markgröningen Deutschland": [
+   86.2,
+   1.39
+  ],
+  "74638 Waldenburg Deutschland|71711 Steinheim an der Murr Deutschland": [
+   53.9,
+   1.04
+  ],
+  "74638 Waldenburg Deutschland|71723 Großbottwar Deutschland": [
+   66.6,
+   1.031
+  ],
+  "74638 Waldenburg Deutschland|71729 Erdmannhausen Deutschland": [
+   51.1,
+   1.007
+  ],
+  "74638 Waldenburg Deutschland|72172 Sulz am Neckar Deutschland": [
+   161.9,
+   2.302
+  ],
+  "74638 Waldenburg Deutschland|72766 Reutlingen Deutschland": [
+   137.8,
+   1.997
+  ],
+  "74638 Waldenburg Deutschland|73309 Geislingen an der Steige Deutschland": [
+   88.7,
+   1.639
+  ],
+  "74638 Waldenburg Deutschland|73479 Ellwangen (Jagst) Deutschland": [
+   87.8,
+   1.296
+  ],
+  "74638 Waldenburg Deutschland|73529 Schwäbisch Gmünd Deutschland": [
+   66.8,
+   1.293
+  ],
+  "74638 Waldenburg Deutschland|73568 Durlangen Deutschland": [
+   54.1,
+   1.047
+  ],
+  "74638 Waldenburg Deutschland|73635 Rudersberg Deutschland": [
+   57.9,
+   1.127
+  ],
+  "74638 Waldenburg Deutschland|73660 Urbach Deutschland": [
+   70.0,
+   1.486
+  ],
+  "74638 Waldenburg Deutschland|73760 Ostfildern Deutschland": [
+   122.0,
+   1.85
+  ],
+  "74638 Waldenburg Deutschland|73765 Neuhausen auf den Fildern Deutschland": [
+   120.4,
+   1.716
+  ],
+  "74638 Waldenburg Deutschland|74076 Heilbronn Deutschland": [
+   53.3,
+   0.87
+  ],
+  "74638 Waldenburg Deutschland|74078 Heilbronn Deutschland": [
+   59.6,
+   0.948
+  ],
+  "74638 Waldenburg Deutschland|74182 Obersulm Deutschland": [
+   37.3,
+   0.778
+  ],
+  "74638 Waldenburg Deutschland|74189 Weinsberg Deutschland": [
+   50.4,
+   0.844
+  ],
+  "74638 Waldenburg Deutschland|74211 Leingarten Deutschland": [
+   65.5,
+   1.063
+  ],
+  "74638 Waldenburg Deutschland|74214 Schöntal Deutschland": [
+   33.4,
+   0.656
+  ],
+  "74638 Waldenburg Deutschland|74226 Nordheim Deutschland": [
+   69.6,
+   1.286
+  ],
+  "74638 Waldenburg Deutschland|74238 Krautheim Deutschland": [
+   39.2,
+   0.738
+  ],
+  "74638 Waldenburg Deutschland|74245 Löwenstein Deutschland": [
+   34.9,
+   0.758
+  ],
+  "74638 Waldenburg Deutschland|74255 Roigheim Deutschland": [
+   59.0,
+   0.995
+  ],
+  "74638 Waldenburg Deutschland|74354 Besigheim Deutschland": [
+   73.1,
+   1.3
+  ],
+  "74638 Waldenburg Deutschland|74360 Ilsfeld Deutschland": [
+   57.3,
+   0.939
+  ],
+  "74638 Waldenburg Deutschland|74363 Güglingen Deutschland": [
+   77.1,
+   1.306
+  ],
+  "74638 Waldenburg Deutschland|74372 Sersheim Deutschland": [
+   88.0,
+   1.347
+  ],
+  "74638 Waldenburg Deutschland|74389 Cleebronn Deutschland": [
+   79.3,
+   1.272
+  ],
+  "74638 Waldenburg Deutschland|74405 Gaildorf Deutschland": [
+   31.2,
+   0.677
+  ],
+  "74638 Waldenburg Deutschland|74420 Oberrot Deutschland": [
+   27.7,
+   0.632
+  ],
+  "74638 Waldenburg Deutschland|74523 Schwäbisch Hall Deutschland": [
+   27.2,
+   0.607
+  ],
+  "74638 Waldenburg Deutschland|74532 Ilshofen Deutschland": [
+   29.4,
+   0.542
+  ],
+  "74638 Waldenburg Deutschland|74538 Rosengarten Deutschland": [
+   24.5,
+   0.567
+  ],
+  "74638 Waldenburg Deutschland|74547 Untermünkheim Deutschland": [
+   19.5,
+   0.558
+  ],
+  "74638 Waldenburg Deutschland|74549 Wolpertshausen Deutschland": [
+   28.8,
+   0.571
+  ],
+  "74638 Waldenburg Deutschland|74564 Crailsheim Deutschland": [
+   49.7,
+   0.833
+  ],
+  "74638 Waldenburg Deutschland|74572 Blaufelden Deutschland": [
+   53.0,
+   0.942
+  ],
+  "74638 Waldenburg Deutschland|74585 Rot am See Deutschland": [
+   47.9,
+   0.854
+  ],
+  "74638 Waldenburg Deutschland|74592 Kirchberg an der Jagst Deutschland": [
+   37.2,
+   0.651
+  ],
+  "74638 Waldenburg Deutschland|74595 Langenburg Deutschland": [
+   35.3,
+   0.678
+  ],
+  "74638 Waldenburg Deutschland|74613 Öhringen Deutschland": [
+   23.5,
+   0.531
+  ],
+  "74638 Waldenburg Deutschland|74626 Bretzfeld Deutschland": [
+   38.0,
+   0.696
+  ],
+  "74638 Waldenburg Deutschland|74626 Bretzfeld-Schwabbach Deutschland": [
+   53.4,
+   0.846
+  ],
+  "74638 Waldenburg Deutschland|74629 Pfedelbach Deutschland": [
+   13.0,
+   0.402
+  ],
+  "74638 Waldenburg Deutschland|74632 Neuenstein Deutschland": [
+   15.4,
+   0.391
+  ],
+  "74638 Waldenburg Deutschland|74635 Kupferzell Deutschland": [
+   13.2,
+   0.354
+  ],
+  "74638 Waldenburg Deutschland|74638 Waldenburg Deutschland": [
+   0.0,
+   0.0
+  ],
+  "74638 Waldenburg Deutschland|74653 Ingelfingen Deutschland": [
+   24.6,
+   0.543
+  ],
+  "74638 Waldenburg Deutschland|74653 Künzelsau Deutschland": [
+   26.5,
+   0.723
+  ],
+  "74638 Waldenburg Deutschland|74670 Forchtenberg Deutschland": [
+   22.8,
+   0.643
+  ],
+  "74638 Waldenburg Deutschland|74673 Mulfingen Deutschland": [
+   37.5,
+   0.77
+  ],
+  "74638 Waldenburg Deutschland|74676 Niedernhall Deutschland": [
+   20.7,
+   0.544
+  ],
+  "74638 Waldenburg Deutschland|74677 Dörzbach Deutschland": [
+   35.9,
+   0.697
+  ],
+  "74638 Waldenburg Deutschland|74889 Sinsheim Deutschland": [
+   76.8,
+   1.151
+  ],
+  "74638 Waldenburg Deutschland|74912 Kirchardt Deutschland": [
+   69.1,
+   1.134
+  ],
+  "74638 Waldenburg Deutschland|75015 Bretten Deutschland": [
+   107.3,
+   1.625
+  ],
+  "74638 Waldenburg Deutschland|75334 Straubenhardt Deutschland": [
+   143.2,
+   2.094
+  ],
+  "74638 Waldenburg Deutschland|76275 Ettlingen Deutschland": [
+   144.0,
+   2.212
+  ],
+  "74638 Waldenburg Deutschland|76698 Ubstadt-Weiher Deutschland": [
+   111.6,
+   1.611
+  ],
+  "74638 Waldenburg Deutschland|76726 Germersheim Deutschland": [
+   138.6,
+   1.948
+  ],
+  "74638 Waldenburg Deutschland|83301 Traunreut Deutschland": [
+   367.0,
+   5.009
+  ],
+  "74638 Waldenburg Deutschland|85757 Karlsfeld Deutschland": [
+   261.1,
+   3.448
+  ],
+  "74638 Waldenburg Deutschland|88214 Ravensburg Deutschland": [
+   267.9,
+   3.549
+  ],
+  "74638 Waldenburg Deutschland|89547 Gerstetten Deutschland": [
+   147.0,
+   2.055
+  ],
+  "74638 Waldenburg Deutschland|89564 Nattheim Deutschland": [
+   122.5,
+   1.931
+  ],
+  "74638 Waldenburg Deutschland|91541 Rothenburg ob der Tauber Deutschland": [
+   63.3,
+   1.179
+  ],
+  "74638 Waldenburg Deutschland|91555 Feuchtwangen Deutschland": [
+   68.1,
+   1.303
+  ],
+  "74638 Waldenburg Deutschland|97215 Uffenheim Deutschland": [
+   98.0,
+   1.428
+  ],
+  "74638 Waldenburg Deutschland|97520 Röthlein Deutschland": [
+   133.9,
+   2.12
+  ],
+  "74638 Waldenburg Deutschland|97525 Schwebheim Deutschland": [
+   149.6,
+   2.24
+  ],
+  "74638 Waldenburg Deutschland|97877 Wertheim Deutschland": [
+   93.7,
+   1.531
+  ],
+  "74638 Waldenburg Deutschland|97922 Lauda-Königshofen Deutschland": [
+   61.9,
+   1.117
+  ],
+  "74638 Waldenburg Deutschland|97944 Boxberg Deutschland": [
+   63.6,
+   1.145
+  ],
+  "74638 Waldenburg Deutschland|97959 Assamstadt Deutschland": [
+   45.8,
+   0.835
+  ],
+  "74638 Waldenburg Deutschland|97990 Weikersheim Deutschland": [
+   63.1,
+   1.148
+  ],
+  "74638 Waldenburg Deutschland|97993 Creglingen Deutschland": [
+   70.8,
+   1.233
+  ],
+  "74638 Waldenburg Deutschland|97996 Niederstetten Deutschland": [
+   52.8,
+   0.966
+  ],
+  "74638 Waldenburg Deutschland|97999 Igersheim Deutschland": [
+   57.5,
+   0.981
+  ],
+  "74638 Waldenburg Deutschland|99427 Weimar Deutschland": [
+   313.7,
+   4.287
+  ],
+  "74653 Ingelfingen Deutschland|04435 Schkeuditz Deutschland": [
+   401.0,
+   5.103
+  ],
+  "74653 Ingelfingen Deutschland|74635 Kupferzell Deutschland": [
+   14.4,
+   0.241
+  ],
+  "74653 Ingelfingen Deutschland|74653 Künzelsau Deutschland": [
+   11.6,
+   0.371
+  ],
+  "74653 Ingelfingen Deutschland|74670 Forchtenberg Deutschland": [
+   13.7,
+   0.381
+  ],
+  "74653 Ingelfingen Deutschland|74677 Dörzbach Deutschland": [
+   14.6,
+   0.254
+  ],
+  "74653 Künzelsau Deutschland|74336 Brackenheim Deutschland": [
+   76.5,
+   1.32
+  ],
+  "74653 Künzelsau Deutschland|74363 Güglingen Deutschland": [
+   82.4,
+   1.424
+  ],
+  "74653 Künzelsau Deutschland|74523 Schwäbisch Hall Deutschland": [
+   32.5,
+   0.725
+  ],
+  "74653 Künzelsau Deutschland|74592 Kirchberg an der Jagst Deutschland": [
+   30.1,
+   0.683
+  ],
+  "74653 Künzelsau Deutschland|74635 Kupferzell Deutschland": [
+   17.0,
+   0.452
+  ],
+  "74653 Künzelsau Deutschland|74653 Ingelfingen Deutschland": [
+   12.3,
+   0.4
+  ],
+  "74653 Künzelsau Deutschland|74676 Niedernhall Deutschland": [
+   18.4,
+   0.532
+  ],
+  "74653 Künzelsau Deutschland|92-410 Łódź Polen": [
+   927.1,
+   11.824
+  ],
+  "74653 Künzelsau Steinbach Deutschland|74676 Niedernhall Deutschland": [
+   18.4,
+   0.532
+  ],
+  "74670 Forchtenberg Deutschland|35578 Wetzlar Deutschland": [
+   202.7,
+   2.918
+  ],
+  "74670 Forchtenberg Deutschland|35781 Weilburg Deutschland": [
+   207.9,
+   3.032
+  ],
+  "74670 Forchtenberg Deutschland|36251 Bad Hersfeld Deutschland": [
+   253.4,
+   3.994
+  ],
+  "74670 Forchtenberg Deutschland|42477 Radevormwald Deutschland": [
+   330.6,
+   4.633
+  ],
+  "74670 Forchtenberg Deutschland|51580 Reichshof Deutschland": [
+   292.7,
+   4.112
+  ],
+  "74670 Forchtenberg Deutschland|51702 Bergneustadt Deutschland": [
+   298.2,
+   4.144
+  ],
+  "74670 Forchtenberg Deutschland|55765 Birkenfeld Deutschland": [
+   238.6,
+   3.175
+  ],
+  "74670 Forchtenberg Deutschland|57489 Drolshagen Deutschland": [
+   292.8,
+   4.141
+  ],
+  "74670 Forchtenberg Deutschland|58091 Hagen Deutschland": [
+   335.5,
+   4.664
+  ],
+  "74670 Forchtenberg Deutschland|58300 Wetter (Ruhr) Deutschland": [
+   361.8,
+   4.976
+  ],
+  "74670 Forchtenberg Deutschland|58513 Lüdenscheid Deutschland": [
+   315.8,
+   4.325
+  ],
+  "74670 Forchtenberg Deutschland|58553 Halver Deutschland": [
+   319.9,
+   4.473
+  ],
+  "74670 Forchtenberg Deutschland|58636 Iserlohn Deutschland": [
+   351.9,
+   4.784
+  ],
+  "74670 Forchtenberg Deutschland|58640 Iserlohn Deutschland": [
+   355.1,
+   4.847
+  ],
+  "74670 Forchtenberg Deutschland|58675 Hemer Deutschland": [
+   355.8,
+   4.997
+  ],
+  "74670 Forchtenberg Deutschland|58762 Altena Deutschland": [
+   341.4,
+   4.986
+  ],
+  "74670 Forchtenberg Deutschland|58791 Werdohl Deutschland": [
+   330.5,
+   4.575
+  ],
+  "74670 Forchtenberg Deutschland|58840 Plettenberg Deutschland": [
+   328.9,
+   4.639
+  ],
+  "74670 Forchtenberg Deutschland|59067 Hamm Deutschland": [
+   380.8,
+   5.219
+  ],
+  "74670 Forchtenberg Deutschland|59757 Arnsberg Deutschland": [
+   359.7,
+   5.049
+  ],
+  "74670 Forchtenberg Deutschland|63128 Dietzenbach Deutschland": [
+   134.4,
+   2.084
+  ],
+  "74670 Forchtenberg Deutschland|63820 Elsenfeld Deutschland": [
+   96.7,
+   1.607
+  ],
+  "74670 Forchtenberg Deutschland|70197 Stuttgart Deutschland": [
+   92.0,
+   1.562
+  ],
+  "74670 Forchtenberg Deutschland|71384 Weinstadt Deutschland": [
+   97.2,
+   1.482
+  ],
+  "74670 Forchtenberg Deutschland|71679 Asperg Deutschland": [
+   71.6,
+   1.125
+  ],
+  "74670 Forchtenberg Deutschland|71706 Markgröningen Deutschland": [
+   78.9,
+   1.307
+  ],
+  "74670 Forchtenberg Deutschland|72172 Sulz am Neckar Deutschland": [
+   154.6,
+   2.219
+  ],
+  "74670 Forchtenberg Deutschland|73207 Plochingen Deutschland": [
+   107.7,
+   1.83
+  ],
+  "74670 Forchtenberg Deutschland|73274 Notzingen Deutschland": [
+   131.1,
+   1.903
+  ],
+  "74670 Forchtenberg Deutschland|73730 Esslingen am Neckar Deutschland": [
+   101.9,
+   1.677
+  ],
+  "74670 Forchtenberg Deutschland|74547 Untermünkheim Deutschland": [
+   23.7,
+   0.63
+  ],
+  "74670 Forchtenberg Deutschland|74632 Neuenstein Deutschland": [
+   12.4,
+   0.352
+  ],
+  "74670 Forchtenberg Deutschland|74635 Kupferzell Deutschland": [
+   16.5,
+   0.432
+  ],
+  "74670 Forchtenberg Deutschland|74638 Waldenburg Deutschland": [
+   22.7,
+   0.637
+  ],
+  "74670 Forchtenberg Deutschland|74670 Forchtenberg Deutschland": [
+   0.0,
+   0.0
+  ],
+  "74670 Forchtenberg Deutschland|74676 Niedernhall Deutschland": [
+   13.6,
+   0.436
+  ],
+  "74670 Forchtenberg Deutschland|74731 Walldürn Deutschland": [
+   54.0,
+   0.987
+  ],
+  "74670 Forchtenberg Deutschland|74749 Rosenberg Deutschland": [
+   33.1,
+   0.688
+  ],
+  "74670 Forchtenberg Deutschland|78727 Oberndorf am Neckar Deutschland": [
+   163.3,
+   2.383
+  ],
+  "74670 Forchtenberg Deutschland|82065 Baierbrunn Deutschland": [
+   305.3,
+   4.064
+  ],
+  "74670 Forchtenberg Deutschland|86161 Augsburg Deutschland": [
+   229.0,
+   3.285
+  ],
+  "74670 Forchtenberg Deutschland|91126 Schwabach Deutschland": [
+   124.0,
+   1.74
+  ],
+  "74670 Forchtenberg Deutschland|97631 Bad Königshofen im Grabfeld Deutschland": [
+   192.4,
+   2.741
+  ],
+  "74673 Mulfingen Deutschland|74532 Ilshofen Deutschland": [
+   26.5,
+   0.488
+  ],
+  "74673 Mulfingen Deutschland|74635 Kupferzell Deutschland": [
+   28.1,
+   0.498
+  ],
+  "74673 Mulfingen Deutschland|87480 Weitnau Deutschland": [
+   254.1,
+   3.363
+  ],
+  "74676 Niedernhall Deutschland|04703 Leisnig Deutschland": [
+   425.6,
+   5.734
+  ],
+  "74676 Niedernhall Deutschland|07356 Bad Lobenstein Deutschland": [
+   290.9,
+   3.752
+  ],
+  "74676 Niedernhall Deutschland|07819 Triptis Deutschland": [
+   317.0,
+   4.06
+  ],
+  "74676 Niedernhall Deutschland|36179 Bebra Deutschland": [
+   251.9,
+   3.415
+  ],
+  "74676 Niedernhall Deutschland|51491 Overath Deutschland": [
+   340.9,
+   4.446
+  ],
+  "74676 Niedernhall Deutschland|63110 Rodgau Deutschland": [
+   128.5,
+   1.902
+  ],
+  "74676 Niedernhall Deutschland|63801 Kleinostheim Deutschland": [
+   118.1,
+   1.768
+  ],
+  "74676 Niedernhall Deutschland|65555 Limburg an der Lahn Deutschland": [
+   238.1,
+   3.125
+  ],
+  "74676 Niedernhall Deutschland|72229 Rohrdorf Deutschland": [
+   133.7,
+   1.872
+  ],
+  "74676 Niedernhall Deutschland|72290 Loßburg Deutschland": [
+   169.5,
+   2.458
+  ],
+  "74676 Niedernhall Deutschland|73467 Kirchheim am Ries Deutschland": [
+   110.2,
+   1.575
+  ],
+  "74676 Niedernhall Deutschland|73529 Schwäbisch Gmünd Deutschland": [
+   79.1,
+   1.36
+  ],
+  "74676 Niedernhall Deutschland|74177 Bad Friedrichshall Deutschland": [
+   47.8,
+   0.738
+  ],
+  "74676 Niedernhall Deutschland|74214 Schöntal Deutschland": [
+   16.4,
+   0.334
+  ],
+  "74676 Niedernhall Deutschland|74321 Bietigheim-Bissingen Deutschland": [
+   70.8,
+   1.037
+  ],
+  "74676 Niedernhall Deutschland|74348 Lauffen am Neckar Deutschland": [
+   58.1,
+   0.911
+  ],
+  "74676 Niedernhall Deutschland|74369 Löchgau Deutschland": [
+   66.0,
+   1.002
+  ],
+  "74676 Niedernhall Deutschland|74423 Obersontheim Deutschland": [
+   43.1,
+   0.691
+  ],
+  "74676 Niedernhall Deutschland|74532 Ilshofen Deutschland": [
+   32.2,
+   0.481
+  ],
+  "74676 Niedernhall Deutschland|74564 Crailsheim Deutschland": [
+   52.4,
+   0.773
+  ],
+  "74676 Niedernhall Deutschland|74635 Kupferzell Deutschland": [
+   14.5,
+   0.273
+  ],
+  "74676 Niedernhall Deutschland|74638 Waldenburg Deutschland": [
+   20.7,
+   0.54
+  ],
+  "74676 Niedernhall Deutschland|74653 Ingelfingen Deutschland": [
+   8.9,
+   0.221
+  ],
+  "74676 Niedernhall Deutschland|74653 Künzelsau Deutschland": [
+   18.2,
+   0.518
+  ],
+  "74676 Niedernhall Deutschland|74653 Künzelsau Steinbach Deutschland": [
+   18.2,
+   0.518
+  ],
+  "74676 Niedernhall Deutschland|74670 Forchtenberg Deutschland": [
+   13.3,
+   0.431
+  ],
+  "74676 Niedernhall Deutschland|78126 Königsfeld im Schwarzwald Deutschland": [
+   195.2,
+   2.736
+  ],
+  "74676 Niedernhall Deutschland|78554 Aldingen Deutschland": [
+   189.2,
+   2.569
+  ],
+  "74676 Niedernhall Deutschland|78652 Deißlingen Deutschland": [
+   184.4,
+   2.459
+  ],
+  "74676 Niedernhall Deutschland|79423 Heitersheim Deutschland": [
+   277.9,
+   3.6
+  ],
+  "74676 Niedernhall Deutschland|79848 Bonndorf im Schwarzwald Deutschland": [
+   228.2,
+   3.092
+  ],
+  "74676 Niedernhall Deutschland|85599 Vaterstetten Deutschland": [
+   293.9,
+   3.793
+  ],
+  "74676 Niedernhall Deutschland|86529 Schrobenhausen Deutschland": [
+   193.2,
+   2.708
+  ],
+  "74676 Niedernhall Deutschland|86857 Hurlach Deutschland": [
+   247.3,
+   3.255
+  ],
+  "74676 Niedernhall Deutschland|86916 Kaufering Deutschland": [
+   253.7,
+   3.394
+  ],
+  "74676 Niedernhall Deutschland|86956 Schongau Deutschland": [
+   289.5,
+   3.733
+  ],
+  "74676 Niedernhall Deutschland|91189 Rohr Deutschland": [
+   118.7,
+   1.62
+  ],
+  "74676 Niedernhall Deutschland|92345 Dietfurt an der Altmühl Deutschland": [
+   198.1,
+   2.658
+  ],
+  "74676 Niedernhall Deutschland|9485 Eschen Liechtenstein": [
+   331.9,
+   4.646
+  ],
+  "74676 Niedernhall Deutschland|96269 Großheirath Deutschland": [
+   201.9,
+   2.852
+  ],
+  "74676 Niedernhall Deutschland|96317 Kronach Deutschland": [
+   228.9,
+   3.12
+  ],
+  "74676 Niedernhall Deutschland|97076 Würzburg Deutschland": [
+   84.5,
+   1.323
+  ],
+  "74676 Niedernhall Deutschland|97318 Kitzingen Deutschland": [
+   94.0,
+   1.371
+  ],
+  "74676 Niedernhall Deutschland|99848 Wutha-Farnroda Deutschland": [
+   257.4,
+   3.52
+  ],
+  "74677 Dörzbach Deutschland|35781 Weilburg Deutschland": [
+   218.6,
+   2.959
+  ],
+  "74677 Dörzbach Deutschland|42477 Radevormwald Deutschland": [
+   343.5,
+   4.587
+  ],
+  "74677 Dörzbach Deutschland|51702 Bergneustadt Deutschland": [
+   311.1,
+   4.099
+  ],
+  "74677 Dörzbach Deutschland|57489 Drolshagen Deutschland": [
+   305.7,
+   4.096
+  ],
+  "74677 Dörzbach Deutschland|58091 Hagen Deutschland": [
+   348.4,
+   4.618
+  ],
+  "74677 Dörzbach Deutschland|58300 Wetter (Ruhr) Deutschland": [
+   374.7,
+   4.93
+  ],
+  "74677 Dörzbach Deutschland|58513 Lüdenscheid Deutschland": [
+   328.7,
+   4.279
+  ],
+  "74677 Dörzbach Deutschland|58553 Halver Deutschland": [
+   332.8,
+   4.427
+  ],
+  "74677 Dörzbach Deutschland|58636 Iserlohn Deutschland": [
+   364.8,
+   4.738
+  ],
+  "74677 Dörzbach Deutschland|58762 Altena Deutschland": [
+   354.3,
+   4.941
+  ],
+  "74677 Dörzbach Deutschland|58791 Werdohl Deutschland": [
+   343.4,
+   4.529
+  ],
+  "74677 Dörzbach Deutschland|58840 Plettenberg Deutschland": [
+   341.8,
+   4.593
+  ],
+  "74677 Dörzbach Deutschland|59067 Hamm Deutschland": [
+   393.7,
+   5.174
+  ],
+  "74677 Dörzbach Deutschland|59757 Arnsberg Deutschland": [
+   372.5,
+   5.004
+  ],
+  "74677 Dörzbach Deutschland|63128 Dietzenbach Deutschland": [
+   145.1,
+   2.011
+  ],
+  "74677 Dörzbach Deutschland|70197 Stuttgart Deutschland": [
+   114.1,
+   1.738
+  ],
+  "74677 Dörzbach Deutschland|71336 Waiblingen Deutschland": [
+   104.8,
+   1.549
+  ],
+  "74677 Dörzbach Deutschland|71384 Weinstadt Deutschland": [
+   98.4,
+   1.492
+  ],
+  "74677 Dörzbach Deutschland|71679 Asperg Deutschland": [
+   93.6,
+   1.301
+  ],
+  "74677 Dörzbach Deutschland|71706 Markgröningen Deutschland": [
+   100.9,
+   1.483
+  ],
+  "74677 Dörzbach Deutschland|73207 Plochingen Deutschland": [
+   129.8,
+   2.006
+  ],
+  "74677 Dörzbach Deutschland|73230 Kirchheim unter Teck Deutschland": [
+   150.2,
+   1.989
+  ],
+  "74677 Dörzbach Deutschland|73730 Esslingen am Neckar Deutschland": [
+   123.9,
+   1.853
+  ],
+  "74677 Dörzbach Deutschland|74635 Kupferzell Deutschland": [
+   26.5,
+   0.427
+  ],
+  "74677 Dörzbach Deutschland|74653 Ingelfingen Deutschland": [
+   17.0,
+   0.305
+  ],
+  "74677 Dörzbach Deutschland|74749 Rosenberg Deutschland": [
+   36.7,
+   0.575
+  ],
+  "74677 Dörzbach Deutschland|97980 Bad Mergentheim Deutschland": [
+   15.7,
+   0.521
+  ],
+  "74677 Dörzbach Deutschland|98597 Fambach Deutschland": [
+   208.6,
+   2.789
+  ],
+  "74706 Osterburken Deutschland|72172 Sulz am Neckar Deutschland": [
+   162.3,
+   2.245
+  ],
+  "74706 Osterburken Deutschland|74564 Crailsheim Deutschland": [
+   97.6,
+   1.395
+  ],
+  "74706 Osterburken Deutschland|74635 Kupferzell Deutschland": [
+   49.9,
+   0.845
+  ],
+  "74706 Osterburken Deutschland|74638 Waldenburg Deutschland": [
+   53.0,
+   1.011
+  ],
+  "74731 Walldürn Deutschland|74635 Kupferzell Deutschland": [
+   69.7,
+   1.069
+  ],
+  "74744 Ahorn Deutschland|74635 Kupferzell Deutschland": [
+   58.7,
+   0.931
+  ],
+  "74749 Rosenberg Deutschland|74670 Forchtenberg Deutschland": [
+   33.0,
+   0.687
+  ],
+  "74749 Rosenberg Deutschland|74677 Dörzbach Deutschland": [
+   36.6,
+   0.571
+  ],
+  "74821 Mosbach Deutschland|74214 Schöntal Deutschland": [
+   42.9,
+   0.64
+  ],
+  "74889 Sinsheim Deutschland|74523 Schwäbisch Hall Deutschland": [
+   79.2,
+   1.1
+  ],
+  "75015 Bretten-Gölshausen Deutschland|74635 Kupferzell Deutschland": [
+   95.2,
+   1.313
+  ],
+  "75015 Bretten-Gölshausen Deutschland|74670 Forchtenberg Deutschland": [
+   95.9,
+   1.48
+  ],
+  "75015 Bretten-Gölshausen Deutschland|74677 Dörzbach Deutschland": [
+   117.8,
+   1.656
+  ],
+  "75059 Zaisenhausen Deutschland|74635 Kupferzell Deutschland": [
+   81.0,
+   1.133
+  ],
+  "75177 Pforzheim Deutschland|74635 Kupferzell Deutschland": [
+   116.2,
+   1.51
+  ],
+  "75203 Königsbach-Stein Deutschland|74635 Kupferzell Deutschland": [
+   113.1,
+   1.57
+  ],
+  "75203 Königsbach-Stein Deutschland|74670 Forchtenberg Deutschland": [
+   113.8,
+   1.737
+  ],
+  "75203 Königsbach-Stein Deutschland|74677 Dörzbach Deutschland": [
+   135.7,
+   1.913
+  ],
+  "75217 Birkenfeld Deutschland|74635 Kupferzell Deutschland": [
+   126.6,
+   1.668
+  ],
+  "75217 Birkenfeld Deutschland|74670 Forchtenberg Deutschland": [
+   127.4,
+   1.835
+  ],
+  "75245 Neulingen Deutschland|74635 Kupferzell Deutschland": [
+   121.8,
+   1.586
+  ],
+  "75428 Illingen Deutschland|74423 Obersontheim Deutschland": [
+   116.8,
+   1.597
+  ],
+  "75428 Illingen Deutschland|74523 Schwäbisch Hall Deutschland": [
+   103.8,
+   1.453
+  ],
+  "76139 Karlsruhe Deutschland|74423 Obersontheim Deutschland": [
+   149.7,
+   2.015
+  ],
+  "76139 Karlsruhe Deutschland|74635 Kupferzell Deutschland": [
+   126.2,
+   1.668
+  ],
+  "76227 Karlsruhe Deutschland|74214 Schöntal Deutschland": [
+   139.6,
+   1.796
+  ],
+  "76227 Karlsruhe Deutschland|74635 Kupferzell Deutschland": [
+   128.1,
+   1.652
+  ],
+  "76337 Waldbronn Deutschland|74635 Kupferzell Deutschland": [
+   137.0,
+   1.809
+  ],
+  "76661 Philippsburg Deutschland|73479 Ellwangen (Jagst) Deutschland": [
+   191.7,
+   2.686
+  ],
+  "77652 Offenburg Deutschland|74635 Kupferzell Deutschland": [
+   201.2,
+   2.666
+  ],
+  "77656 Offenburg Deutschland|74635 Kupferzell Deutschland": [
+   203.8,
+   2.604
+  ],
+  "77933 Lahr/Schwarzwald Deutschland|74635 Kupferzell Deutschland": [
+   223.6,
+   2.865
+  ],
+  "78052 Villingen-Schwenningen Deutschland|74635 Kupferzell Deutschland": [
+   201.3,
+   2.768
+  ],
+  "78073 Bad Dürrheim Deutschland|74635 Kupferzell Deutschland": [
+   195.2,
+   2.537
+  ],
+  "78609 Tuningen Deutschland|74635 Kupferzell Deutschland": [
+   192.4,
+   2.471
+  ],
+  "78609 Tuningen Deutschland|74670 Forchtenberg Deutschland": [
+   193.2,
+   2.638
+  ],
+  "78727 Oberndorf am Neckar Deutschland|74635 Kupferzell Deutschland": [
+   163.1,
+   2.214
+  ],
+  "78727 Oberndorf am Neckar Deutschland|74670 Forchtenberg Deutschland": [
+   163.8,
+   2.381
+  ],
+  "82110 Germering Deutschland|74547 Untermünkheim Deutschland": [
+   258.0,
+   3.397
+  ],
+  "82256 Fürstenfeldbruck Deutschland|74214 Schöntal Deutschland": [
+   279.7,
+   3.618
+  ],
+  "85283 Wolnzach Deutschland|74547 Untermünkheim Deutschland": [
+   225.7,
+   3.009
+  ],
+  "85640 Putzbrunn Deutschland|74564 Crailsheim Deutschland": [
+   241.4,
+   3.149
+  ],
+  "86165 Augsburg Deutschland|74523 Schwäbisch Hall Deutschland": [
+   171.6,
+   2.339
+  ],
+  "86438 Kissing Deutschland|74635 Kupferzell Deutschland": [
+   219.6,
+   2.792
+  ],
+  "86916 Kaufering Deutschland|74676 Niedernhall Deutschland": [
+   270.7,
+   3.56
+  ],
+  "86926 Greifenberg Deutschland|74635 Kupferzell Deutschland": [
+   272.5,
+   3.44
+  ],
+  "87541 Bad Hindelang Deutschland|74635 Kupferzell Deutschland": null,
+  "88214 Ravensburg Deutschland|74638 Waldenburg Deutschland": [
+   268.7,
+   3.564
+  ],
+  "88239 Wangen im Allgäu Deutschland|74638 Waldenburg Deutschland": [
+   252.1,
+   3.331
+  ],
+  "88512 Mengen Deutschland|74572 Blaufelden Deutschland": [
+   217.1,
+   2.929
+  ],
+  "89143 Blaubeuren Deutschland|74653 Ingelfingen Deutschland": [
+   183.2,
+   2.47
+  ],
+  "89155 Erbach Deutschland|74653 Künzelsau Deutschland": [
+   178.4,
+   2.673
+  ],
+  "89278 Nersingen Deutschland|74547 Untermünkheim Deutschland": [
+   149.4,
+   2.04
+  ],
+  "89331 Burgau Deutschland|74214 Schöntal Deutschland": [
+   191.9,
+   2.569
+  ],
+  "89331 Burgau Deutschland|74219 Möckmühl Deutschland": [
+   200.9,
+   2.699
+  ],
+  "89331 Burgau Deutschland|74572 Blaufelden Deutschland": [
+   150.1,
+   2.085
+  ],
+  "89331 Burgau Deutschland|74635 Kupferzell Deutschland": [
+   166.0,
+   2.205
+  ],
+  "89331 Burgau Deutschland|74673 Mulfingen Deutschland": [
+   167.5,
+   2.384
+  ],
+  "89331 Burgau Deutschland|74676 Niedernhall Deutschland": [
+   179.3,
+   2.454
+  ],
+  "89331 Burgau Deutschland|74706 Osterburken Deutschland": [
+   218.5,
+   3.001
+  ],
+  "89331 Burgau Deutschland|97996 Niederstetten Deutschland": [
+   166.5,
+   2.287
+  ],
+  "89359 Kötz Deutschland|74405 Gaildorf Deutschland": [
+   116.7,
+   1.78
+  ],
+  "89522 Heidenheim an der Brenz Deutschland|89564 Nattheim Deutschland": [
+   21.2,
+   0.532
+  ],
+  "89564 Nattheim Deutschland|89522 Heidenheim an der Brenz Deutschland": [
+   21.2,
+   0.533
+  ],
+  "90471 Nürnberg Deutschland|74635 Kupferzell Deutschland": [
+   127.6,
+   1.655
+  ],
+  "90556 Cadolzburg Deutschland|74547 Untermünkheim Deutschland": [
+   110.6,
+   1.69
+  ],
+  "90579 Langenzenn Deutschland|74523 Schwäbisch Hall Deutschland": [
+   117.5,
+   1.637
+  ],
+  "91056 Erlangen Deutschland|74677 Dörzbach Deutschland": [
+   144.8,
+   2.014
+  ],
+  "91126 Rednitzhembach Deutschland|74532 Ilshofen Deutschland": [
+   101.7,
+   1.295
+  ],
+  "91126 Schwabach Deutschland|74635 Kupferzell Deutschland": [
+   107.9,
+   1.38
+  ],
+  "91126 Schwabach Deutschland|74677 Dörzbach Deutschland": [
+   130.6,
+   1.723
+  ],
+  "91161 Hilpoltstein Deutschland|74523 Schwäbisch Hall Deutschland": [
+   149.6,
+   1.984
+  ],
+  "91448 Emskirchen Deutschland|74214 Schöntal Deutschland": [
+   144.4,
+   1.975
+  ],
+  "91555 Feuchtwangen Deutschland|74638 Waldenburg Deutschland": [
+   67.9,
+   1.302
+  ],
+  "92283 Lauterhofen Deutschland|74635 Kupferzell Deutschland": [
+   157.6,
+   2.09
+  ],
+  "93055 Regensburg Deutschland|74635 Kupferzell Deutschland": [
+   223.7,
+   2.874
+  ],
+  "95100 Selb Deutschland|74635 Kupferzell Deutschland": [
+   260.6,
+   3.367
+  ],
+  "95126 Schwarzenbach an der Saale Deutschland|74564 Crailsheim Deutschland": [
+   225.0,
+   2.898
+  ],
+  "95326 Kulmbach Deutschland|74214 Schöntal Deutschland": [
+   226.8,
+   2.911
+  ],
+  "95326 Kulmbach Deutschland|74635 Kupferzell Deutschland": [
+   230.9,
+   2.937
+  ],
+  "95359 Kasendorf Deutschland|74635 Kupferzell Deutschland": [
+   203.6,
+   2.778
+  ],
+  "96149 Breitengüßbach Deutschland|74547 Untermünkheim Deutschland": [
+   171.1,
+   2.419
+  ],
+  "96215 Lichtenfels Deutschland|74547 Untermünkheim Deutschland": [
+   191.6,
+   2.7
+  ],
+  "96269 Großheirath Deutschland|74676 Niedernhall Deutschland": [
+   206.8,
+   2.9
+  ],
+  "96317 Kronach Deutschland|74635 Kupferzell Deutschland": [
+   251.3,
+   3.258
+  ],
+  "97076 Würzburg Deutschland|74676 Niedernhall Deutschland": [
+   85.0,
+   1.334
+  ],
+  "97318 Kitzingen Deutschland|74635 Kupferzell Deutschland": [
+   121.0,
+   1.572
+  ],
+  "97353 Wiesentheid Deutschland|74653 Künzelsau Deutschland": [
+   109.0,
+   1.668
+  ],
+  "97944 Boxberg Deutschland|74547 Untermünkheim Deutschland": [
+   62.0,
+   1.094
+  ],
+  "97944 Boxberg Deutschland|74635 Kupferzell Deutschland": [
+   54.2,
+   0.87
+  ],
+  "97944 Boxberg Deutschland|74676 Niedernhall Deutschland": [
+   50.9,
+   0.88
+  ],
+  "97993 Creglingen Deutschland|01609 Wülknitz Deutschland": [
+   393.7,
+   5.355
+  ],
+  "97993 Creglingen Deutschland|04435 Schkeuditz Deutschland": [
+   336.0,
+   4.446
+  ],
+  "97993 Creglingen Deutschland|63741 Aschaffenburg Deutschland": [
+   125.6,
+   1.722
+  ],
+  "97993 Creglingen Deutschland|74635 Kupferzell Deutschland": [
+   61.4,
+   0.96
+  ],
+  "97996 Niederstetten Deutschland|01069 Dresden Deutschland": [
+   395.5,
+   5.254
+  ],
+  "97996 Niederstetten Deutschland|71069 Sindelfingen Deutschland": [
+   150.0,
+   2.037
+  ],
+  "97996 Niederstetten Deutschland|74363 Güglingen Deutschland": [
+   108.8,
+   1.667
+  ],
+  "98597 Fambach Deutschland|74677 Dörzbach Deutschland": [
+   209.9,
+   2.81
+  ],
+  "99848 Wutha-Farnroda Deutschland|74676 Niedernhall Deutschland": [
+   258.0,
+   3.543
+  ],
+  "74635 Kupferzell Deutschland|51702 Bergneustadt Deutschland": [
+   344.6,
+   4.413
+  ],
+  "74635 Kupferzell Deutschland|58513 Lüdenscheid Deutschland": [
+   362.2,
+   4.593
+  ],
+  "74635 Kupferzell Deutschland|59067 Hamm Deutschland": [
+   427.2,
+   5.488
+  ],
+  "74635 Kupferzell Deutschland|73207 Plochingen Deutschland": [
+   107.1,
+   1.668
+  ],
+  "71679 Asperg Deutschland|74635 Kupferzell Deutschland": [
+   70.2,
+   0.955
+  ],
+  "73262 Reichenbach an der Fils Deutschland|74635 Kupferzell Deutschland": [
+   127.4,
+   1.733
+  ],
+  "04808 Wurzen Deutschland|91126 Rednitzhembach Deutschland": [
+   324.1,
+   4.119
+  ],
+  "71679 Asperg Deutschland|73207 Plochingen Deutschland": [
+   40.2,
+   0.852
+  ],
+  "74532 Ilshofen Deutschland|73207 Plochingen Deutschland": [
+   118.9,
+   1.794
+  ],
+  "73262 Reichenbach an der Fils Deutschland|71679 Asperg Deutschland": [
+   44.2,
+   0.849
+  ],
+  "71679 Asperg Deutschland|91126 Rednitzhembach Deutschland": [
+   180.3,
+   2.324
+  ],
+  "73262 Reichenbach an der Fils Deutschland|73207 Plochingen Deutschland": [
+   7.2,
+   0.275
+  ],
+  "74635 Kupferzell Deutschland|57489 Drolshagen Deutschland": [
+   339.2,
+   4.41
+  ],
+  "74635 Kupferzell Deutschland|58300 Wetter (Ruhr) Deutschland": [
+   408.2,
+   5.244
+  ],
+  "51702 Bergneustadt Deutschland|74635 Kupferzell Deutschland": [
+   344.3,
+   4.392
+  ],
+  "58513 Lüdenscheid Deutschland|74635 Kupferzell Deutschland": [
+   362.3,
+   4.578
+  ],
+  "59757 Arnsberg Deutschland|74635 Kupferzell Deutschland": [
+   416.4,
+   5.358
+  ],
+  "73207 Plochingen Deutschland|74635 Kupferzell Deutschland": [
+   106.1,
+   1.626
+  ],
+  "89275 Elchingen Deutschland|74635 Kupferzell Deutschland": [
+   152.6,
+   1.944
+  ],
+  "78609 Tuningen Deutschland|73207 Plochingen Deutschland": [
+   131.9,
+   1.817
+  ],
+  "93055 Regensburg Deutschland|74423 Obersontheim Deutschland": [
+   222.4,
+   2.938
+  ],
+  "71706 Markgröningen Deutschland|73207 Plochingen Deutschland": [
+   41.7,
+   0.938
+  ],
+  "51702 Bergneustadt Deutschland|58091 Hagen Deutschland": [
+   55.1,
+   0.832
+  ],
+  "58513 Lüdenscheid Deutschland|58091 Hagen Deutschland": [
+   20.9,
+   0.361
+  ],
+  "59757 Arnsberg Deutschland|58513 Lüdenscheid Deutschland": [
+   44.5,
+   0.738
+  ],
+  "73207 Plochingen Deutschland|71706 Markgröningen Deutschland": [
+   41.4,
+   0.906
+  ],
+  "74423 Obersontheim Deutschland|73207 Plochingen Deutschland": [
+   76.5,
+   1.355
+  ],
+  "89275 Elchingen Deutschland|73207 Plochingen Deutschland": [
+   82.6,
+   1.291
+  ],
+  "97076 Würzburg Deutschland|74635 Kupferzell Deutschland": [
+   88.4,
+   1.324
+  ],
+  "74635 Kupferzell Deutschland|76661 Philippsburg Deutschland": [
+   120.2,
+   1.788
+  ],
+  "97076 Würzburg Deutschland|71706 Markgröningen Deutschland": [
+   144.5,
+   2.056
+  ],
+  "73479 Ellwangen (Jagst) Deutschland|71706 Markgröningen Deutschland": [
+   114.5,
+   1.711
+  ],
+  "51702 Bergneustadt Deutschland|58513 Lüdenscheid Deutschland": [
+   35.4,
+   0.493
+  ],
+  "58513 Lüdenscheid Deutschland|51702 Bergneustadt Deutschland": [
+   34.5,
+   0.48
+  ],
+  "74423 Obersontheim Deutschland|74638 Waldenburg Deutschland": [
+   40.3,
+   0.75
+  ],
+  "74677 Dörzbach Deutschland|97076 Würzburg Deutschland": [
+   63.3,
+   1.004
+  ],
+  "74532 Ilshofen Deutschland|74677 Dörzbach Deutschland": [
+   43.3,
+   0.627
+  ],
+  "74670 Forchtenberg Deutschland|74677 Dörzbach Deutschland": [
+   29.2,
+   0.621
+  ],
+  "74635 Kupferzell Deutschland|59757 Arnsberg Deutschland": [
+   406.0,
+   5.318
+  ],
+  "70794 Filderstadt Deutschland|74635 Kupferzell Deutschland": [
+   109.3,
+   1.427
+  ],
+  "97520 Röthlein Deutschland|74635 Kupferzell Deutschland": [
+   125.2,
+   1.856
+  ],
+  "58762 Altena Deutschland|74635 Kupferzell Deutschland": [
+   387.3,
+   5.225
+  ],
+  "70197 Stuttgart Deutschland|74635 Kupferzell Deutschland": [
+   101.9,
+   1.458
+  ],
+  "74677 Dörzbach Deutschland|74670 Forchtenberg Deutschland": [
+   29.1,
+   0.626
+  ],
+  "97944 Boxberg Deutschland|74677 Dörzbach Deutschland": [
+   29.4,
+   0.55
+  ],
+  "74423 Obersontheim Deutschland|74670 Forchtenberg Deutschland": [
+   44.5,
+   0.825
+  ],
+  "63128 Dietzenbach Deutschland|74670 Forchtenberg Deutschland": [
+   132.7,
+   2.058
+  ],
+  "70794 Filderstadt Deutschland|73207 Plochingen Deutschland": [
+   33.4,
+   0.58
+  ],
+  "70839 Gerlingen Deutschland|71706 Markgröningen Deutschland": [
+   21.6,
+   0.499
+  ],
+  "91126 Schwabach Deutschland|74423 Obersontheim Deutschland": [
+   106.6,
+   1.444
+  ],
+  "97520 Röthlein Deutschland|74677 Dörzbach Deutschland": [
+   100.4,
+   1.536
+  ],
+  "58762 Altena Deutschland|59757 Arnsberg Deutschland": [
+   44.5,
+   0.975
+  ],
+  "70197 Stuttgart Deutschland|71706 Markgröningen Deutschland": [
+   37.6,
+   0.741
+  ],
+  "74635 Kupferzell Deutschland|58636 Iserlohn Deutschland": [
+   398.3,
+   5.052
+  ],
+  "74635 Kupferzell Deutschland|58739 Wickede (Ruhr) Deutschland": [
+   429.8,
+   5.547
+  ],
+  "74635 Kupferzell Deutschland|72768 Reutlingen Deutschland": [
+   127.7,
+   1.681
+  ],
+  "06925 Annaburg Deutschland|74635 Kupferzell Deutschland": [
+   476.1,
+   6.132
+  ],
+  "72768 Reutlingen Deutschland|74635 Kupferzell Deutschland": [
+   127.1,
+   1.664
+  ],
+  "58256 Ennepetal Deutschland|74635 Kupferzell Deutschland": [
+   384.8,
+   5.02
+  ],
+  "85092 Kösching Deutschland|74635 Kupferzell Deutschland": [
+   203.6,
+   2.993
+  ],
+  "99752 Bleicherode Deutschland|74635 Kupferzell Deutschland": [
+   375.0,
+   5.193
+  ],
+  "71384 Weinstadt Deutschland|74635 Kupferzell Deutschland": [
+   75.1,
+   1.148
+  ],
+  "36179 Bebra Deutschland|74635 Kupferzell Deutschland": [
+   256.1,
+   3.428
+  ],
+  "96269 Großheirath Deutschland|74635 Kupferzell Deutschland": [
+   197.9,
+   2.754
+  ],
+  "58636 Iserlohn Deutschland|74635 Kupferzell Deutschland": [
+   399.0,
+   5.051
+  ],
+  "74635 Kupferzell Deutschland|35578 Wetzlar Deutschland": [
+   249.0,
+   3.187
+  ],
+  "73431 Aalen Deutschland|74635 Kupferzell Deutschland": [
+   103.0,
+   1.36
+  ],
+  "74706 Osterburken Deutschland|74670 Forchtenberg Deutschland": [
+   34.1,
+   0.752
+  ],
+  "74423 Obersontheim Deutschland|74564 Crailsheim Deutschland": [
+   19.8,
+   0.344
+  ],
+  "06925 Annaburg Deutschland|96269 Großheirath Deutschland": [
+   307.1,
+   4.194
+  ],
+  "72768 Reutlingen Deutschland|73207 Plochingen Deutschland": [
+   33.0,
+   0.675
+  ],
+  "58256 Ennepetal Deutschland|58636 Iserlohn Deutschland": [
+   48.7,
+   0.768
+  ],
+  "85092 Kösching Deutschland|73479 Ellwangen (Jagst) Deutschland": [
+   140.1,
+   2.355
+  ],
+  "99752 Bleicherode Deutschland|96269 Großheirath Deutschland": [
+   223.3,
+   3.358
+  ],
+  "73479 Ellwangen (Jagst) Deutschland|74564 Crailsheim Deutschland": [
+   28.8,
+   0.52
+  ],
+  "51702 Bergneustadt Deutschland|58636 Iserlohn Deutschland": [
+   71.5,
+   0.952
+  ],
+  "71384 Weinstadt Deutschland|70839 Gerlingen Deutschland": [
+   33.3,
+   0.585
+  ],
+  "71706 Markgröningen Deutschland|70839 Gerlingen Deutschland": [
+   20.0,
+   0.465
+  ],
+  "36179 Bebra Deutschland|35578 Wetzlar Deutschland": [
+   125.8,
+   1.7
+  ],
+  "96269 Großheirath Deutschland|74677 Dörzbach Deutschland": [
+   185.4,
+   2.57
+  ],
+  "58636 Iserlohn Deutschland|58739 Wickede (Ruhr) Deutschland": [
+   21.5,
+   0.375
+  ],
+  "63128 Dietzenbach Deutschland|35578 Wetzlar Deutschland": [
+   83.1,
+   1.138
+  ],
+  "73207 Plochingen Deutschland|72768 Reutlingen Deutschland": [
+   33.4,
+   0.686
+  ],
+  "73431 Aalen Deutschland|73479 Ellwangen (Jagst) Deutschland": [
+   27.3,
+   0.42
+  ],
+  "72766 Reutlingen Deutschland|74635 Kupferzell Deutschland": [
+   129.5,
+   1.74
+  ],
+  "91555 Feuchtwangen Deutschland|74635 Kupferzell Deutschland": [
+   60.0,
+   1.054
+  ],
+  "73529 Schwäbisch Gmünd Deutschland|74635 Kupferzell Deutschland": [
+   70.2,
+   1.259
+  ],
+  "59067 Hamm Deutschland|74635 Kupferzell Deutschland": [
+   428.3,
+   5.499
+  ],
+  "30926 Seelze Deutschland|74635 Kupferzell Deutschland": [
+   473.2,
+   6.268
+  ],
+  "84539 Ampfing Deutschland|74635 Kupferzell Deutschland": [
+   336.0,
+   4.336
+  ],
+  "90763 Fürth Deutschland|74635 Kupferzell Deutschland": [
+   122.3,
+   1.655
+  ],
+  "74677 Dörzbach Deutschland|97944 Boxberg Deutschland": [
+   29.4,
+   0.553
+  ],
+  "74706 Osterburken Deutschland|97944 Boxberg Deutschland": [
+   32.3,
+   0.635
+  ],
+  "72766 Reutlingen Deutschland|73207 Plochingen Deutschland": [
+   35.4,
+   0.725
+  ],
+  "73479 Ellwangen (Jagst) Deutschland|74423 Obersontheim Deutschland": [
+   30.6,
+   0.518
+  ],
+  "91555 Feuchtwangen Deutschland|73479 Ellwangen (Jagst) Deutschland": [
+   37.7,
+   0.774
+  ],
+  "63128 Dietzenbach Deutschland|74706 Osterburken Deutschland": [
+   106.9,
+   1.556
+  ],
+  "36179 Bebra Deutschland|97076 Würzburg Deutschland": [
+   166.5,
+   2.293
+  ],
+  "73529 Schwäbisch Gmünd Deutschland|73207 Plochingen Deutschland": [
+   42.9,
+   0.803
+  ],
+  "97076 Würzburg Deutschland|97944 Boxberg Deutschland": [
+   60.4,
+   0.97
+  ],
+  "59067 Hamm Deutschland|59757 Arnsberg Deutschland": [
+   39.3,
+   0.677
+  ],
+  "74423 Obersontheim Deutschland|73479 Ellwangen (Jagst) Deutschland": [
+   30.6,
+   0.52
+  ],
+  "30926 Seelze Deutschland|59757 Arnsberg Deutschland": [
+   195.5,
+   2.616
+  ],
+  "84539 Ampfing Deutschland|73479 Ellwangen (Jagst) Deutschland": [
+   260.4,
+   3.396
+  ],
+  "90763 Fürth Deutschland|73479 Ellwangen (Jagst) Deutschland": [
+   110.2,
+   1.508
+  ],
+  "95359 Kasendorf Deutschland|97076 Würzburg Deutschland": [
+   139.4,
+   1.923
+  ],
+  "74635 Kupferzell Deutschland|06925 Annaburg Deutschland": [
+   476.3,
+   6.142
+  ],
+  "74360 Ilsfeld Deutschland|74635 Kupferzell Deutschland": [
+   49.5,
+   0.697
+  ],
+  "74635 Kupferzell Deutschland|58840 Plettenberg Deutschland": [
+   375.3,
+   4.907
+  ],
+  "74635 Kupferzell Deutschland|71384 Weinstadt Deutschland": [
+   75.8,
+   1.155
+  ],
+  "41460 Neuss Deutschland|74635 Kupferzell Deutschland": [
+   394.2,
+   4.987
+  ],
+  "73563 Mögglingen Deutschland|74635 Kupferzell Deutschland": [
+   64.3,
+   1.088
+  ],
+  "91126 Rednitzhembach Deutschland|74635 Kupferzell Deutschland": [
+   116.5,
+   1.5
+  ],
+  "58300 Wetter (Ruhr) Deutschland|74635 Kupferzell Deutschland": [
+   408.9,
+   5.223
+  ],
+  "58739 Wickede (Ruhr) Deutschland|74635 Kupferzell Deutschland": [
+   418.2,
+   5.386
+  ],
+  "73765 Neuhausen auf den Fildern Deutschland|74635 Kupferzell Deutschland": [
+   111.8,
+   1.459
+  ],
+  "99427 Weimar Deutschland|74635 Kupferzell Deutschland": [
+   305.7,
+   4.033
+  ],
+  "04703 Leisnig Deutschland|74635 Kupferzell Deutschland": [
+   414.7,
+   5.545
+  ],
+  "57489 Drolshagen Deutschland|74635 Kupferzell Deutschland": [
+   339.5,
+   4.399
+  ],
+  "74635 Kupferzell Deutschland|89331 Burgau Deutschland": [
+   166.8,
+   2.219
+  ],
+  "85640 Putzbrunn Deutschland|74635 Kupferzell Deutschland": [
+   288.8,
+   3.695
+  ],
+  "13127 Berlin Deutschland|74635 Kupferzell Deutschland": [
+   595.7,
+   7.486
+  ],
+  "31547 Rehburg-Loccum Deutschland|74635 Kupferzell Deutschland": [
+   494.7,
+   6.783
+  ],
+  "83376 Seeon-Seebruck Deutschland|74635 Kupferzell Deutschland": [
+   358.6,
+   4.637
+  ],
+  "74635 Kupferzell Deutschland|70197 Stuttgart Deutschland": [
+   91.4,
+   1.4
+  ],
+  "09376 Oelsnitz/Erzgebirge Deutschland|74635 Kupferzell Deutschland": [
+   338.9,
+   4.283
+  ],
+  "97353 Wiesentheid Deutschland|74635 Kupferzell Deutschland": [
+   116.3,
+   1.601
+  ],
+  "74360 Ilsfeld Deutschland|71679 Asperg Deutschland": [
+   25.4,
+   0.41
+  ],
+  "74677 Dörzbach Deutschland|74706 Osterburken Deutschland": [
+   33.4,
+   0.628
+  ],
+  "74670 Forchtenberg Deutschland|74706 Osterburken Deutschland": [
+   31.8,
+   0.725
+  ],
+  "41460 Neuss Deutschland|58513 Lüdenscheid Deutschland": [
+   93.0,
+   1.361
+  ],
+  "73563 Mögglingen Deutschland|73479 Ellwangen (Jagst) Deutschland": [
+   32.3,
+   0.469
+  ],
+  "91126 Rednitzhembach Deutschland|73479 Ellwangen (Jagst) Deutschland": [
+   104.3,
+   1.353
+  ],
+  "58300 Wetter (Ruhr) Deutschland|58636 Iserlohn Deutschland": [
+   36.9,
+   0.56
+  ],
+  "58739 Wickede (Ruhr) Deutschland|58840 Plettenberg Deutschland": [
+   57.3,
+   1.068
+  ],
+  "73765 Neuhausen auf den Fildern Deutschland|70197 Stuttgart Deutschland": [
+   27.6,
+   0.624
+  ],
+  "97944 Boxberg Deutschland|74706 Osterburken Deutschland": [
+   34.4,
+   0.64
+  ],
+  "99427 Weimar Deutschland|06925 Annaburg Deutschland": [
+   216.1,
+   2.952
+  ],
+  "58513 Lüdenscheid Deutschland|58636 Iserlohn Deutschland": [
+   37.3,
+   0.482
+  ],
+  "58636 Iserlohn Deutschland|58513 Lüdenscheid Deutschland": [
+   39.9,
+   0.547
+  ],
+  "58840 Plettenberg Deutschland|58636 Iserlohn Deutschland": [
+   59.9,
+   0.917
+  ],
+  "71706 Markgröningen Deutschland|71679 Asperg Deutschland": [
+   7.7,
+   0.253
+  ],
+  "73207 Plochingen Deutschland|70197 Stuttgart Deutschland": [
+   35.4,
+   0.859
+  ],
+  "04703 Leisnig Deutschland|06925 Annaburg Deutschland": [
+   75.9,
+   1.503
+  ],
+  "36179 Bebra Deutschland|61440 Oberursel (Taunus) Deutschland": [
+   150.4,
+   2.004
+  ],
+  "57489 Drolshagen Deutschland|58840 Plettenberg Deutschland": [
+   43.1,
+   0.804
+  ],
+  "74564 Crailsheim Deutschland|74423 Obersontheim Deutschland": [
+   19.7,
+   0.339
+  ],
+  "85640 Putzbrunn Deutschland|89331 Burgau Deutschland": [
+   129.2,
+   1.799
+  ],
+  "13127 Berlin Deutschland|06925 Annaburg Deutschland": [
+   168.8,
+   2.253
+  ],
+  "31547 Rehburg-Loccum Deutschland|59757 Arnsberg Deutschland": [
+   176.3,
+   2.728
+  ],
+  "83376 Seeon-Seebruck Deutschland|89331 Burgau Deutschland": [
+   199.0,
+   2.741
+  ],
+  "09376 Oelsnitz/Erzgebirge Deutschland|06925 Annaburg Deutschland": [
+   157.8,
+   2.26
+  ],
+  "72108 Rottenburg am Neckar Deutschland|72172 Sulz am Neckar Deutschland": [
+   39.4,
+   0.644
+  ],
+  "97353 Wiesentheid Deutschland|97944 Boxberg Deutschland": [
+   88.0,
+   1.243
+  ],
+  "68542 Heddesheim Deutschland|74635 Kupferzell Deutschland": [
+   118.0,
+   1.541
+  ],
+  "71229 Leonberg Deutschland|74635 Kupferzell Deutschland": [
+   90.7,
+   1.205
+  ],
+  "97922 Lauda-Königshofen Deutschland|74635 Kupferzell Deutschland": [
+   52.4,
+   0.844
+  ],
+  "55765 Birkenfeld Deutschland|74635 Kupferzell Deutschland": [
+   238.3,
+   3.016
+  ],
+  "58791 Werdohl Deutschland|74635 Kupferzell Deutschland": [
+   376.4,
+   4.815
+  ],
+  "71088 Holzgerlingen Deutschland|74635 Kupferzell Deutschland": [
+   112.3,
+   1.487
+  ],
+  "74635 Kupferzell Deutschland|73666 Baltmannsweiler Deutschland": [
+   133.7,
+   2.164
+  ],
+  "97996 Niederstetten Deutschland|74635 Kupferzell Deutschland": [
+   43.4,
+   0.694
+  ],
+  "74360 Ilsfeld Deutschland|71706 Markgröningen Deutschland": [
+   32.7,
+   0.592
+  ],
+  "74706 Osterburken Deutschland|74677 Dörzbach Deutschland": [
+   35.8,
+   0.656
+  ],
+  "68542 Heddesheim Deutschland|63128 Dietzenbach Deutschland": [
+   80.5,
+   1.121
+  ],
+  "91126 Schwabach Deutschland|73479 Ellwangen (Jagst) Deutschland": [
+   95.7,
+   1.233
+  ],
+  "58739 Wickede (Ruhr) Deutschland|58636 Iserlohn Deutschland": [
+   21.6,
+   0.377
+  ],
+  "71229 Leonberg Deutschland|75245 Neulingen Deutschland": [
+   38.5,
+   0.531
+  ],
+  "97922 Lauda-Königshofen Deutschland|74677 Dörzbach Deutschland": [
+   27.6,
+   0.525
+  ],
+  "55765 Birkenfeld Deutschland|66763 Dillingen/Saar Deutschland": [
+   55.0,
+   0.952
+  ],
+  "57489 Drolshagen Deutschland|58513 Lüdenscheid Deutschland": [
+   30.0,
+   0.49
+  ],
+  "58791 Werdohl Deutschland|58636 Iserlohn Deutschland": [
+   27.9,
+   0.517
+  ],
+  "59067 Hamm Deutschland|58636 Iserlohn Deutschland": [
+   47.5,
+   0.756
+  ],
+  "71706 Markgröningen Deutschland|75245 Neulingen Deutschland": [
+   41.4,
+   0.718
+  ],
+  "73529 Schwäbisch Gmünd Deutschland|73666 Baltmannsweiler Deutschland": [
+   50.5,
+   1.146
+  ],
+  "97076 Würzburg Deutschland|74677 Dörzbach Deutschland": [
+   63.6,
+   1.004
+  ],
+  "71679 Asperg Deutschland|73666 Baltmannsweiler Deutschland": [
+   48.7,
+   1.268
+  ],
+  "73230 Kirchheim unter Teck Deutschland|71706 Markgröningen Deutschland": [
+   62.9,
+   0.935
+  ],
+  "74676 Niedernhall Deutschland|74706 Osterburken Deutschland": [
+   33.6,
+   0.664
+  ],
+  "71088 Holzgerlingen Deutschland|71706 Markgröningen Deutschland": [
+   47.9,
+   0.771
+  ],
+  "74219 Möckmühl Deutschland|74676 Niedernhall Deutschland": [
+   32.5,
+   0.541
+  ],
+  "74673 Mulfingen Deutschland|74706 Osterburken Deutschland": [
+   43.9,
+   0.8
+  ],
+  "74354 Besigheim Deutschland|75245 Neulingen Deutschland": [
+   42.9,
+   0.855
+  ],
+  "74572 Blaufelden Deutschland|74677 Dörzbach Deutschland": [
+   29.5,
+   0.49
+  ],
+  "97996 Niederstetten Deutschland|74677 Dörzbach Deutschland": [
+   23.3,
+   0.435
+  ],
+  "73568 Durlangen Deutschland|74635 Kupferzell Deutschland": [
+   56.1,
+   0.962
+  ],
+  "89143 Blaubeuren Deutschland|74635 Kupferzell Deutschland": [
+   174.2,
+   2.286
+  ],
+  "74706 Osterburken Deutschland|74423 Obersontheim Deutschland": [
+   74.7,
+   1.196
+  ],
+  "73568 Durlangen Deutschland|74423 Obersontheim Deutschland": [
+   33.1,
+   0.578
+  ],
+  "74523 Schwäbisch Hall Deutschland|73479 Ellwangen (Jagst) Deutschland": [
+   43.5,
+   0.738
+  ],
+  "89143 Blaubeuren Deutschland|73479 Ellwangen (Jagst) Deutschland": [
+   98.6,
+   1.345
+  ],
+  "88471 Laupheim Deutschland|74635 Kupferzell Deutschland": [
+   179.1,
+   2.345
+  ],
+  "73309 Geislingen an der Steige Deutschland|74635 Kupferzell Deutschland": [
+   102.7,
+   1.712
+  ],
+  "74389 Cleebronn Deutschland|74635 Kupferzell Deutschland": [
+   70.2,
+   1.005
+  ],
+  "89188 Merklingen Deutschland|74635 Kupferzell Deutschland": [
+   173.8,
+   2.297
+  ],
+  "74423 Obersontheim Deutschland|74549 Wolpertshausen Deutschland": [
+   21.3,
+   0.382
+  ],
+  "74706 Osterburken Deutschland|74549 Wolpertshausen Deutschland": [
+   76.8,
+   1.132
+  ],
+  "88471 Laupheim Deutschland|72768 Reutlingen Deutschland": [
+   75.1,
+   1.075
+  ],
+  "73309 Geislingen an der Steige Deutschland|73207 Plochingen Deutschland": [
+   37.7,
+   0.626
+  ],
+  "97993 Creglingen Deutschland|74549 Wolpertshausen Deutschland": [
+   69.4,
+   0.995
+  ],
+  "97076 Würzburg Deutschland|74706 Osterburken Deutschland": [
+   76.4,
+   1.173
+  ],
+  "74564 Crailsheim Deutschland|74549 Wolpertshausen Deutschland": [
+   20.0,
+   0.36
+  ],
+  "74523 Schwäbisch Hall Deutschland|74549 Wolpertshausen Deutschland": [
+   13.9,
+   0.301
+  ],
+  "89188 Merklingen Deutschland|73207 Plochingen Deutschland": [
+   50.6,
+   0.949
+  ],
+  "93333 Neustadt an der Donau Deutschland|74635 Kupferzell Deutschland": [
+   214.6,
+   2.798
+  ],
+  "74635 Kupferzell Deutschland|58553 Halver Deutschland": [
+   366.3,
+   4.742
+  ],
+  "72336 Balingen Deutschland|74635 Kupferzell Deutschland": [
+   165.5,
+   2.143
+  ],
+  "94065 Waldkirchen Deutschland|74635 Kupferzell Deutschland": [
+   348.1,
+   4.43
+  ],
+  "79848 Bonndorf im Schwarzwald Deutschland|74635 Kupferzell Deutschland": [
+   230.2,
+   3.027
+  ],
+  "74635 Kupferzell Deutschland|76139 Karlsruhe Deutschland": [
+   128.9,
+   1.742
+  ],
+  "74635 Kupferzell Deutschland|42477 Radevormwald Deutschland": [
+   376.9,
+   4.901
+  ],
+  "84076 Pfeffenhausen Deutschland|74635 Kupferzell Deutschland": [
+   241.2,
+   3.352
+  ],
+  "87778 Stetten Deutschland|74635 Kupferzell Deutschland": [
+   222.1,
+   2.828
+  ],
+  "88046 Friedrichshafen Deutschland|74635 Kupferzell Deutschland": [
+   278.5,
+   3.531
+  ],
+  "97877 Wertheim Deutschland|74635 Kupferzell Deutschland": [
+   84.3,
+   1.258
+  ],
+  "99100 Dachwig Deutschland|74635 Kupferzell Deutschland": [
+   302.8,
+   3.924
+  ],
+  "08297 Zwönitz Deutschland|74635 Kupferzell Deutschland": [
+   349.5,
+   4.454
+  ],
+  "82065 Baierbrunn Deutschland|74635 Kupferzell Deutschland": [
+   291.0,
+   3.736
+  ],
+  "74635 Kupferzell Deutschland|78073 Bad Dürrheim Deutschland": [
+   194.8,
+   2.54
+  ],
+  "74635 Kupferzell Deutschland|88214 Ravensburg Deutschland": [
+   260.0,
+   3.304
+  ],
+  "74677 Dörzbach Deutschland|74255 Roigheim Deutschland": [
+   44.4,
+   0.736
+  ],
+  "67105 Schifferstadt Deutschland|76139 Karlsruhe Deutschland": [
+   64.0,
+   0.924
+  ],
+  "68542 Heddesheim Deutschland|74255 Roigheim Deutschland": [
+   98.5,
+   1.398
+  ],
+  "72336 Balingen Deutschland|78727 Oberndorf am Neckar Deutschland": [
+   42.1,
+   0.723
+  ],
+  "77656 Offenburg Deutschland|78727 Oberndorf am Neckar Deutschland": [
+   79.3,
+   1.257
+  ],
+  "94065 Waldkirchen Deutschland|74423 Obersontheim Deutschland": [
+   346.8,
+   4.495
+  ],
+  "71229 Leonberg Deutschland|73207 Plochingen Deutschland": [
+   47.0,
+   0.761
+  ],
+  "51702 Bergneustadt Deutschland|58553 Halver Deutschland": [
+   33.8,
+   0.599
+  ],
+  "71706 Markgröningen Deutschland|73666 Baltmannsweiler Deutschland": [
+   50.2,
+   1.353
+  ],
+  "73207 Plochingen Deutschland|71679 Asperg Deutschland": [
+   40.3,
+   0.831
+  ],
+  "04703 Leisnig Deutschland|97076 Würzburg Deutschland": [
+   359.1,
+   4.923
+  ],
+  "07356 Bad Lobenstein Deutschland|97076 Würzburg Deutschland": [
+   223.8,
+   2.926
+  ],
+  "79848 Bonndorf im Schwarzwald Deutschland|78073 Bad Dürrheim Deutschland": [
+   41.9,
+   0.634
+  ],
+  "58513 Lüdenscheid Deutschland|58553 Halver Deutschland": [
+   17.9,
+   0.319
+  ],
+  "58636 Iserlohn Deutschland|58553 Halver Deutschland": [
+   46.8,
+   0.732
+  ],
+  "58762 Altena Deutschland|58553 Halver Deutschland": [
+   40.6,
+   0.927
+  ],
+  "74423 Obersontheim Deutschland|74677 Dörzbach Deutschland": [
+   55.0,
+   0.845
+  ],
+  "84076 Pfeffenhausen Deutschland|74423 Obersontheim Deutschland": [
+   199.8,
+   2.977
+  ],
+  "87778 Stetten Deutschland|73207 Plochingen Deutschland": [
+   157.3,
+   2.21
+  ],
+  "88046 Friedrichshafen Deutschland|78073 Bad Dürrheim Deutschland": [
+   105.6,
+   1.401
+  ],
+  "97877 Wertheim Deutschland|97076 Würzburg Deutschland": [
+   52.1,
+   0.81
+  ],
+  "99100 Dachwig Deutschland|97076 Würzburg Deutschland": [
+   213.3,
+   2.789
+  ],
+  "08297 Zwönitz Deutschland|97076 Würzburg Deutschland": [
+   294.0,
+   3.832
+  ],
+  "82065 Baierbrunn Deutschland|74423 Obersontheim Deutschland": [
+   241.4,
+   3.207
+  ],
+  "74635 Kupferzell Deutschland|35781 Weilburg Deutschland": [
+   247.2,
+   3.209
+  ],
+  "74635 Kupferzell Deutschland|46539 Dinslaken Deutschland": [
+   434.7,
+   5.524
+  ],
+  "71665 Vaihingen an der Enz Deutschland|74635 Kupferzell Deutschland": [
+   84.5,
+   1.171
+  ],
+  "65760 Eschborn Deutschland|74635 Kupferzell Deutschland": [
+   192.0,
+   2.473
+  ],
+  "72534 Hayingen Deutschland|74635 Kupferzell Deutschland": [
+   168.3,
+   2.299
+  ],
+  "71723 Großbottwar Deutschland|74635 Kupferzell Deutschland": [
+   57.9,
+   0.772
+  ],
+  "78554 Aldingen Deutschland|74635 Kupferzell Deutschland": [
+   190.6,
+   2.496
+  ],
+  "98597 Fambach Deutschland|74635 Kupferzell Deutschland": [
+   234.7,
+   3.13
+  ],
+  "63599 Biebergemünd Deutschland|74635 Kupferzell Deutschland": [
+   155.9,
+   2.538
+  ],
+  "76829 Landau in der Pfalz Deutschland|74635 Kupferzell Deutschland": [
+   143.5,
+   1.875
+  ],
+  "76870 Kandel Deutschland|74635 Kupferzell Deutschland": [
+   152.3,
+   1.992
+  ],
+  "97892 Kreuzwertheim Deutschland|74635 Kupferzell Deutschland": [
+   105.7,
+   1.533
+  ],
+  "06925 Annaburg Deutschland|74677 Dörzbach Deutschland": [
+   473.5,
+   6.197
+  ],
+  "71665 Vaihingen an der Enz Deutschland|74193 Schwaigern Deutschland": [
+   31.4,
+   0.621
+  ],
+  "74193 Schwaigern Deutschland|74360 Ilsfeld Deutschland": [
+   29.8,
+   0.581
+  ],
+  "63128 Dietzenbach Deutschland|35781 Weilburg Deutschland": [
+   80.9,
+   1.155
+  ],
+  "65760 Eschborn Deutschland|35781 Weilburg Deutschland": [
+   64.1,
+   0.927
+  ],
+  "68542 Heddesheim Deutschland|74193 Schwaigern Deutschland": [
+   71.0,
+   1.109
+  ],
+  "72534 Hayingen Deutschland|89143 Blaubeuren Deutschland": [
+   33.6,
+   0.65
+  ],
+  "71723 Großbottwar Deutschland|71706 Markgröningen Deutschland": [
+   29.0,
+   0.515
+  ],
+  "72172 Sulz am Neckar Deutschland|70197 Stuttgart Deutschland": [
+   89.6,
+   1.381
+  ],
+  "71706 Markgröningen Deutschland|70197 Stuttgart Deutschland": [
+   26.3,
+   0.674
+  ],
+  "78554 Aldingen Deutschland|72172 Sulz am Neckar Deutschland": [
+   45.1,
+   0.687
+  ],
+  "96317 Kronach Deutschland|74677 Dörzbach Deutschland": [
+   207.6,
+   2.797
+  ],
+  "98597 Fambach Deutschland|35781 Weilburg Deutschland": [
+   190.5,
+   2.596
+  ],
+  "74653 Ingelfingen Deutschland|74706 Osterburken Deutschland": [
+   34.0,
+   0.614
+  ],
+  "63599 Biebergemünd Deutschland|74706 Osterburken Deutschland": [
+   137.0,
+   2.268
+  ],
+  "76829 Landau in der Pfalz Deutschland|76139 Karlsruhe Deutschland": [
+   47.3,
+   0.789
+  ],
+  "76870 Kandel Deutschland|76139 Karlsruhe Deutschland": [
+   29.9,
+   0.584
+  ],
+  "97892 Kreuzwertheim Deutschland|74706 Osterburken Deutschland": [
+   60.4,
+   1.039
+  ],
+  "76698 Ubstadt-Weiher Deutschland|74635 Kupferzell Deutschland": [
+   102.9,
+   1.354
+  ],
+  "91077 Neunkirchen am Brand Deutschland|74635 Kupferzell Deutschland": [
+   163.9,
+   2.323
+  ],
+  "91189 Rohr Deutschland|74635 Kupferzell Deutschland": [
+   107.8,
+   1.427
+  ],
+  "35794 Mengerskirchen Deutschland|74635 Kupferzell Deutschland": [
+   262.4,
+   3.381
+  ],
+  "75417 Mühlacker Deutschland|74635 Kupferzell Deutschland": [
+   97.9,
+   1.414
+  ],
+  "78239 Rielasingen-Worblingen Deutschland|74635 Kupferzell Deutschland": [
+   235.5,
+   3.042
+  ],
+  "85408 Gammelsdorf Deutschland|74635 Kupferzell Deutschland": [
+   258.4,
+   3.423
+  ],
+  "96132 Schlüsselfeld Deutschland|74635 Kupferzell Deutschland": [
+   136.0,
+   1.976
+  ],
+  "85640 Putzbrunn Deutschland|92283 Lauterhofen Deutschland": [
+   198.4,
+   2.664
+  ],
+  "76698 Ubstadt-Weiher Deutschland|76139 Karlsruhe Deutschland": [
+   35.0,
+   0.566
+  ],
+  "91077 Neunkirchen am Brand Deutschland|92283 Lauterhofen Deutschland": [
+   64.4,
+   1.153
+  ],
+  "91126 Schwabach Deutschland|92283 Lauterhofen Deutschland": [
+   51.5,
+   0.751
+  ],
+  "74389 Cleebronn Deutschland|74193 Schwaigern Deutschland": [
+   15.0,
+   0.335
+  ],
+  "58840 Plettenberg Deutschland|57489 Drolshagen Deutschland": [
+   42.8,
+   0.801
+  ],
+  "04703 Leisnig Deutschland|96269 Großheirath Deutschland": [
+   247.2,
+   3.628
+  ],
+  "91189 Rohr Deutschland|92283 Lauterhofen Deutschland": [
+   57.0,
+   0.892
+  ],
+  "96269 Großheirath Deutschland|92283 Lauterhofen Deutschland": [
+   135.5,
+   1.927
+  ],
+  "58513 Lüdenscheid Deutschland|42477 Radevormwald Deutschland": [
+   28.5,
+   0.479
+  ],
+  "70197 Stuttgart Deutschland|71679 Asperg Deutschland": [
+   41.1,
+   0.71
+  ],
+  "71679 Asperg Deutschland|71706 Markgröningen Deutschland": [
+   8.8,
+   0.261
+  ],
+  "35794 Mengerskirchen Deutschland|57489 Drolshagen Deutschland": [
+   93.9,
+   1.347
+  ],
+  "75417 Mühlacker Deutschland|71679 Asperg Deutschland": [
+   30.1,
+   0.569
+  ],
+  "78239 Rielasingen-Worblingen Deutschland|73207 Plochingen Deutschland": [
+   175.0,
+   2.389
+  ],
+  "85408 Gammelsdorf Deutschland|92283 Lauterhofen Deutschland": [
+   133.5,
+   1.873
+  ],
+  "96132 Schlüsselfeld Deutschland|96269 Großheirath Deutschland": [
+   70.6,
+   1.238
+  ],
+  "74635 Kupferzell Deutschland|58762 Altena Deutschland": [
+   387.8,
+   5.255
+  ],
+  "69168 Wiesloch Deutschland|74635 Kupferzell Deutschland": [
+   88.2,
+   1.172
+  ],
+  "71149 Bondorf Deutschland|74635 Kupferzell Deutschland": [
+   131.2,
+   1.703
+  ],
+  "74889 Sinsheim Deutschland|74635 Kupferzell Deutschland": [
+   68.7,
+   0.898
+  ],
+  "35578 Wetzlar Deutschland|74635 Kupferzell Deutschland": [
+   250.0,
+   3.188
+  ],
+  "74635 Kupferzell Deutschland|89359 Kötz Deutschland": [
+   159.6,
+   2.223
+  ],
+  "74635 Kupferzell Deutschland|50126 Bergheim Deutschland": [
+   366.0,
+   4.638
+  ],
+  "71336 Waiblingen Deutschland|74635 Kupferzell Deutschland": [
+   81.2,
+   1.195
+  ],
+  "89257 Illertissen Deutschland|74635 Kupferzell Deutschland": [
+   169.3,
+   2.223
+  ],
+  "70825 Korntal-Münchingen Deutschland|74635 Kupferzell Deutschland": [
+   76.0,
+   1.214
+  ],
+  "74635 Kupferzell Deutschland|58791 Werdohl Deutschland": [
+   376.8,
+   4.843
+  ],
+  "72348 Rosenfeld Deutschland|74635 Kupferzell Deutschland": [
+   164.8,
+   2.142
+  ],
+  "74635 Kupferzell Deutschland|71336 Waiblingen Deutschland": [
+   82.1,
+   1.211
+  ],
+  "74360 Ilsfeld Deutschland|71336 Waiblingen Deutschland": [
+   36.5,
+   0.658
+  ],
+  "71149 Bondorf Deutschland|71706 Markgröningen Deutschland": [
+   66.8,
+   0.986
+  ],
+  "35578 Wetzlar Deutschland|57489 Drolshagen Deutschland": [
+   101.3,
+   1.439
+  ],
+  "58636 Iserlohn Deutschland|58762 Altena Deutschland": [
+   21.3,
+   0.686
+  ],
+  "59067 Hamm Deutschland|58762 Altena Deutschland": [
+   92.5,
+   1.602
+  ],
+  "71384 Weinstadt Deutschland|73207 Plochingen Deutschland": [
+   35.3,
+   0.678
+  ],
+  "71679 Asperg Deutschland|71336 Waiblingen Deutschland": [
+   16.4,
+   0.381
+  ],
+  "07356 Bad Lobenstein Deutschland|95359 Kasendorf Deutschland": [
+   91.4,
+   1.28
+  ],
+  "74405 Gaildorf Deutschland|73479 Ellwangen (Jagst) Deutschland": [
+   38.7,
+   0.617
+  ],
+  "71336 Waiblingen Deutschland|73207 Plochingen Deutschland": [
+   39.1,
+   0.807
+  ],
+  "89257 Illertissen Deutschland|89359 Kötz Deutschland": [
+   30.4,
+   0.717
+  ],
+  "70825 Korntal-Münchingen Deutschland|71336 Waiblingen Deutschland": [
+   21.6,
+   0.631
+  ],
+  "72348 Rosenfeld Deutschland|73207 Plochingen Deutschland": [
+   104.3,
+   1.489
+  ],
+  "89275 Elchingen Deutschland|89359 Kötz Deutschland": [
+   22.6,
+   0.518
+  ],
+  "74635 Kupferzell Deutschland|53919 Weilerswist Deutschland": [
+   334.1,
+   4.35
+  ],
+  "73441 Bopfingen Deutschland|74635 Kupferzell Deutschland": [
+   102.2,
+   1.5
+  ],
+  "52525 Heinsberg Deutschland|74635 Kupferzell Deutschland": [
+   418.4,
+   5.35
+  ],
+  "78126 Königsfeld im Schwarzwald Deutschland|74635 Kupferzell Deutschland": [
+   197.0,
+   2.665
+  ],
+  "86916 Kaufering Deutschland|74635 Kupferzell Deutschland": [
+   257.5,
+   3.311
+  ],
+  "42477 Radevormwald Deutschland|74635 Kupferzell Deutschland": [
+   376.4,
+   4.876
+  ],
+  "97215 Uffenheim Deutschland|74635 Kupferzell Deutschland": [
+   89.1,
+   1.17
+  ],
+  "71665 Vaihingen an der Enz Deutschland|70197 Stuttgart Deutschland": [
+   38.3,
+   0.777
+  ],
+  "73441 Bopfingen Deutschland|73479 Ellwangen (Jagst) Deutschland": [
+   26.6,
+   0.56
+  ],
+  "71149 Bondorf Deutschland|70197 Stuttgart Deutschland": [
+   66.0,
+   1.067
+  ],
+  "52525 Heinsberg Deutschland|53919 Weilerswist Deutschland": [
+   90.3,
+   1.315
+  ],
+  "71229 Leonberg Deutschland|70197 Stuttgart Deutschland": [
+   18.6,
+   0.488
+  ],
+  "74389 Cleebronn Deutschland|70197 Stuttgart Deutschland": [
+   46.3,
+   0.893
+  ],
+  "35578 Wetzlar Deutschland|51702 Bergneustadt Deutschland": [
+   106.7,
+   1.442
+  ],
+  "78126 Königsfeld im Schwarzwald Deutschland|70197 Stuttgart Deutschland": [
+   131.8,
+   2.029
+  ],
+  "86916 Kaufering Deutschland|89331 Burgau Deutschland": [
+   86.2,
+   1.386
+  ],
+  "96317 Kronach Deutschland|96269 Großheirath Deutschland": [
+   42.1,
+   0.72
+  ],
+  "42477 Radevormwald Deutschland|58300 Wetter (Ruhr) Deutschland": [
+   27.9,
+   0.504
+  ],
+  "71679 Asperg Deutschland|70197 Stuttgart Deutschland": [
+   26.4,
+   0.6
+  ],
+  "72336 Balingen Deutschland|70197 Stuttgart Deutschland": [
+   100.3,
+   1.507
+  ],
+  "72766 Reutlingen Deutschland|73230 Kirchheim unter Teck Deutschland": [
+   31.6,
+   0.611
+  ],
+  "97215 Uffenheim Deutschland|97076 Würzburg Deutschland": [
+   47.4,
+   0.71
+  ],
+  "74214 Schöntal Deutschland|74706 Osterburken Deutschland": [
+   18.8,
+   0.371
+  ],
+  "77790 Steinach Deutschland|74635 Kupferzell Deutschland": [
+   229.2,
+   2.949
+  ],
+  "87760 Lachen Deutschland|74635 Kupferzell Deutschland": [
+   209.8,
+   2.7
+  ],
+  "91301 Forchheim Deutschland|74635 Kupferzell Deutschland": [
+   165.5,
+   2.167
+  ],
+  "55129 Mainz Deutschland|74635 Kupferzell Deutschland": [
+   192.9,
+   2.594
+  ],
+  "73730 Esslingen am Neckar Deutschland|74635 Kupferzell Deutschland": [
+   101.3,
+   1.504
+  ],
+  "07819 Triptis Deutschland|74635 Kupferzell Deutschland": [
+   305.5,
+   3.864
+  ],
+  "58553 Halver Deutschland|74635 Kupferzell Deutschland": [
+   365.7,
+   4.716
+  ],
+  "72336 Balingen Deutschland|73207 Plochingen Deutschland": [
+   76.3,
+   1.245
+  ],
+  "87760 Lachen Deutschland|89331 Burgau Deutschland": [
+   94.1,
+   1.337
+  ],
+  "91301 Forchheim Deutschland|92283 Lauterhofen Deutschland": [
+   75.4,
+   1.07
+  ],
+  "99752 Bleicherode Deutschland|06925 Annaburg Deutschland": [
+   241.1,
+   3.487
+  ],
+  "55129 Mainz Deutschland|74706 Osterburken Deutschland": [
+   155.0,
+   2.254
+  ],
+  "73730 Esslingen am Neckar Deutschland|71706 Markgröningen Deutschland": [
+   36.6,
+   0.784
+  ],
+  "07356 Bad Lobenstein Deutschland|92283 Lauterhofen Deutschland": [
+   179.8,
+   2.378
+  ],
+  "07819 Triptis Deutschland|06925 Annaburg Deutschland": [
+   178.3,
+   2.415
+  ],
+  "58553 Halver Deutschland|58300 Wetter (Ruhr) Deutschland": [
+   36.4,
+   0.624
+  ],
+  "93055 Regensburg Deutschland|92283 Lauterhofen Deutschland": [
+   80.5,
+   1.184
+  ],
+  "74219 Möckmühl Deutschland|74670 Forchtenberg Deutschland": [
+   28.9,
+   0.578
+  ],
+  "97996 Niederstetten Deutschland|74706 Osterburken Deutschland": [
+   60.0,
+   0.938
+  ],
+  "70469 Stuttgart Deutschland|74635 Kupferzell Deutschland": [
+   80.3,
+   1.098
+  ],
+  "09427 Ehrenfriedersdorf Deutschland|74635 Kupferzell Deutschland": [
+   358.2,
+   4.591
+  ],
+  "75031 Eppingen Deutschland|74635 Kupferzell Deutschland": [
+   76.2,
+   1.065
+  ],
+  "58091 Hagen Deutschland|74635 Kupferzell Deutschland": [
+   381.3,
+   4.902
+  ],
+  "71101 Schönaich Deutschland|74635 Kupferzell Deutschland": [
+   104.6,
+   1.389
+  ],
+  "74746 Höpfingen Deutschland|74635 Kupferzell Deutschland": [
+   78.7,
+   1.217
+  ],
+  "92224 Amberg Deutschland|74635 Kupferzell Deutschland": [
+   178.2,
+   2.27
+  ],
+  "70469 Stuttgart Deutschland|71706 Markgröningen Deutschland": [
+   15.7,
+   0.378
+  ],
+  "09427 Ehrenfriedersdorf Deutschland|06925 Annaburg Deutschland": [
+   143.4,
+   2.341
+  ],
+  "73274 Notzingen Deutschland|70197 Stuttgart Deutschland": [
+   41.2,
+   0.871
+  ],
+  "89257 Illertissen Deutschland|89155 Erbach Deutschland": [
+   31.6,
+   0.629
+  ],
+  "97520 Röthlein Deutschland|97076 Würzburg Deutschland": [
+   39.1,
+   0.75
+  ],
+  "58840 Plettenberg Deutschland|58513 Lüdenscheid Deutschland": [
+   23.8,
+   0.458
+  ],
+  "78727 Oberndorf am Neckar Deutschland|70839 Gerlingen Deutschland": [
+   91.6,
+   1.369
+  ],
+  "96269 Großheirath Deutschland|96317 Kronach Deutschland": [
+   41.7,
+   0.715
+  ],
+  "58091 Hagen Deutschland|58300 Wetter (Ruhr) Deutschland": [
+   23.7,
+   0.5
+  ],
+  "73230 Kirchheim unter Teck Deutschland|70197 Stuttgart Deutschland": [
+   42.9,
+   0.815
+  ],
+  "74673 Mulfingen Deutschland|97944 Boxberg Deutschland": [
+   40.0,
+   0.725
+  ],
+  "74532 Ilshofen Deutschland|74423 Obersontheim Deutschland": [
+   20.2,
+   0.365
+  ],
+  "71101 Schönaich Deutschland|70197 Stuttgart Deutschland": [
+   39.4,
+   0.752
+  ],
+  "74746 Höpfingen Deutschland|74706 Osterburken Deutschland": [
+   30.3,
+   0.577
+  ],
+  "92224 Amberg Deutschland|91126 Rednitzhembach Deutschland": [
+   72.9,
+   0.95
+  ],
+  "72810 Gomaringen Deutschland|74635 Kupferzell Deutschland": [
+   141.4,
+   1.862
+  ],
+  "86165 Augsburg Deutschland|74635 Kupferzell Deutschland": [
+   208.4,
+   2.654
+  ],
+  "73660 Urbach Deutschland|74635 Kupferzell Deutschland": [
+   69.9,
+   1.164
+  ],
+  "63801 Kleinostheim Deutschland|74635 Kupferzell Deutschland": [
+   148.8,
+   2.035
+  ],
+  "74677 Dörzbach Deutschland|74638 Waldenburg Deutschland": [
+   35.8,
+   0.692
+  ],
+  "72810 Gomaringen Deutschland|73207 Plochingen Deutschland": [
+   50.6,
+   0.92
+  ],
+  "86165 Augsburg Deutschland|82256 Fürstenfeldbruck Deutschland": [
+   53.2,
+   0.738
+  ],
+  "73660 Urbach Deutschland|71384 Weinstadt Deutschland": [
+   20.1,
+   0.32
+  ],
+  "58553 Halver Deutschland|51702 Bergneustadt Deutschland": [
+   33.8,
+   0.597
+  ],
+  "58636 Iserlohn Deutschland|58091 Hagen Deutschland": [
+   28.6,
+   0.42
+  ],
+  "07356 Bad Lobenstein Deutschland|91126 Schwabach Deutschland": [
+   173.6,
+   2.214
+  ],
+  "63801 Kleinostheim Deutschland|63128 Dietzenbach Deutschland": [
+   27.6,
+   0.433
+  ],
+  "71706 Markgröningen Deutschland|71384 Weinstadt Deutschland": [
+   37.2,
+   0.735
+  ],
+  "74423 Obersontheim Deutschland|74523 Schwäbisch Hall Deutschland": [
+   17.7,
+   0.342
+  ],
+  "74523 Schwäbisch Hall Deutschland|74423 Obersontheim Deutschland": [
+   17.7,
+   0.342
+  ],
+  "74405 Gaildorf Deutschland|74523 Schwäbisch Hall Deutschland": [
+   25.8,
+   0.438
+  ],
+  "74673 Mulfingen Deutschland|74638 Waldenburg Deutschland": [
+   37.4,
+   0.764
+  ],
+  "74912 Kirchardt Deutschland|74635 Kupferzell Deutschland": [
+   60.9,
+   0.887
+  ],
+  "97525 Schwebheim Deutschland|74635 Kupferzell Deutschland": [
+   140.3,
+   1.981
+  ],
+  "78652 Deißlingen Deutschland|74635 Kupferzell Deutschland": [
+   184.9,
+   2.377
+  ],
+  "77963 Schwanau Deutschland|74635 Kupferzell Deutschland": [
+   219.0,
+   2.857
+  ],
+  "79211 Denzlingen Deutschland|74635 Kupferzell Deutschland": [
+   259.6,
+   3.306
+  ],
+  "74677 Dörzbach Deutschland|74423 Obersontheim Deutschland": [
+   55.1,
+   0.844
+  ],
+  "69168 Wiesloch Deutschland|67105 Schifferstadt Deutschland": [
+   42.9,
+   0.605
+  ],
+  "97525 Schwebheim Deutschland|97076 Würzburg Deutschland": [
+   41.7,
+   0.758
+  ],
+  "97944 Boxberg Deutschland|97076 Würzburg Deutschland": [
+   59.2,
+   0.957
+  ],
+  "35578 Wetzlar Deutschland|63128 Dietzenbach Deutschland": [
+   85.4,
+   1.161
+  ],
+  "78652 Deißlingen Deutschland|73207 Plochingen Deutschland": [
+   124.4,
+   1.723
+  ],
+  "42477 Radevormwald Deutschland|51702 Bergneustadt Deutschland": [
+   44.5,
+   0.757
+  ],
+  "04435 Schkeuditz Deutschland|06925 Annaburg Deutschland": [
+   90.0,
+   1.338
+  ],
+  "74219 Möckmühl Deutschland|74677 Dörzbach Deutschland": [
+   38.3,
+   0.618
+  ],
+  "97996 Niederstetten Deutschland|74423 Obersontheim Deutschland": [
+   57.0,
+   0.975
+  ],
+  "93133 Burglengenfeld Deutschland|74635 Kupferzell Deutschland": [
+   205.2,
+   2.609
+  ],
+  "72229 Rohrdorf Deutschland|74635 Kupferzell Deutschland": [
+   135.3,
+   1.797
+  ],
+  "73655 Plüderhausen Deutschland|74635 Kupferzell Deutschland": [
+   75.6,
+   1.321
+  ],
+  "86161 Augsburg Deutschland|74635 Kupferzell Deutschland": [
+   214.2,
+   2.943
+  ],
+  "74670 Forchtenberg Deutschland|74423 Obersontheim Deutschland": [
+   44.5,
+   0.823
+  ],
+  "73730 Esslingen am Neckar Deutschland|71679 Asperg Deutschland": [
+   35.5,
+   0.71
+  ],
+  "93133 Burglengenfeld Deutschland|89331 Burgau Deutschland": [
+   203.8,
+   2.741
+  ],
+  "70197 Stuttgart Deutschland|73207 Plochingen Deutschland": [
+   42.8,
+   0.822
+  ],
+  "63801 Kleinostheim Deutschland|97076 Würzburg Deutschland": [
+   93.1,
+   1.303
+  ],
+  "72229 Rohrdorf Deutschland|78727 Oberndorf am Neckar Deutschland": [
+   53.9,
+   0.831
+  ],
+  "74405 Gaildorf Deutschland|74676 Niedernhall Deutschland": [
+   43.3,
+   0.744
+  ],
+  "73655 Plüderhausen Deutschland|73207 Plochingen Deutschland": [
+   49.3,
+   0.978
+  ],
+  "86161 Augsburg Deutschland|89331 Burgau Deutschland": [
+   54.6,
+   1.048
+  ],
+  "74214 Schöntal Deutschland|74423 Obersontheim Deutschland": [
+   55.1,
+   0.84
+  ],
+  "74673 Mulfingen Deutschland|74423 Obersontheim Deutschland": [
+   52.6,
+   0.89
+  ],
+  "35781 Weilburg Deutschland|74635 Kupferzell Deutschland": [
+   258.9,
+   3.302
+  ],
+  "74360 Ilsfeld Deutschland|74193 Schwaigern Deutschland": [
+   30.4,
+   0.605
+  ],
+  "72336 Balingen Deutschland|73274 Notzingen Deutschland": [
+   80.3,
+   1.223
+  ],
+  "74731 Walldürn Deutschland|97944 Boxberg Deutschland": [
+   34.8,
+   0.594
+  ],
+  "35781 Weilburg Deutschland|63128 Dietzenbach Deutschland": [
+   82.1,
+   1.167
+  ],
+  "51702 Bergneustadt Deutschland|58840 Plettenberg Deutschland": [
+   48.5,
+   0.807
+  ],
+  "73529 Schwäbisch Gmünd Deutschland|73274 Notzingen Deutschland": [
+   43.7,
+   0.74
+  ],
+  "78126 Königsfeld im Schwarzwald Deutschland|73274 Notzingen Deutschland": [
+   140.5,
+   1.99
+  ],
+  "97318 Kitzingen Deutschland|97944 Boxberg Deutschland": [
+   70.5,
+   1.029
+  ],
+  "71706 Markgröningen Deutschland|74193 Schwaigern Deutschland": [
+   57.0,
+   1.059
+  ],
+  "67105 Schifferstadt Deutschland|74193 Schwaigern Deutschland": [
+   66.3,
+   1.042
+  ],
+  "58636 Iserlohn Deutschland|58840 Plettenberg Deutschland": [
+   61.1,
+   0.938
+  ],
+  "71336 Waiblingen Deutschland|71706 Markgröningen Deutschland": [
+   22.9,
+   0.565
+  ],
+  "76437 Rastatt Deutschland|74635 Kupferzell Deutschland": [
+   153.2,
+   1.981
+  ],
+  "45472 Mülheim an der Ruhr Deutschland|74635 Kupferzell Deutschland": [
+   409.2,
+   5.235
+  ],
+  "74677 Dörzbach Deutschland|74632 Neuenstein Deutschland": [
+   29.2,
+   0.504
+  ],
+  "97944 Boxberg Deutschland|74632 Neuenstein Deutschland": [
+   57.0,
+   0.947
+  ],
+  "72336 Balingen Deutschland|72108 Rottenburg am Neckar Deutschland": [
+   37.9,
+   0.632
+  ],
+  "71679 Asperg Deutschland|71384 Weinstadt Deutschland": [
+   28.4,
+   0.539
+  ],
+  "97993 Creglingen Deutschland|74677 Dörzbach Deutschland": [
+   41.3,
+   0.7
+  ],
+  "63128 Dietzenbach Deutschland|97076 Würzburg Deutschland": [
+   113.2,
+   1.579
+  ],
+  "96269 Großheirath Deutschland|97076 Würzburg Deutschland": [
+   110.6,
+   1.652
+  ],
+  "74676 Niedernhall Deutschland|74632 Neuenstein Deutschland": [
+   10.4,
+   0.253
+  ],
+  "45472 Mülheim an der Ruhr Deutschland|58300 Wetter (Ruhr) Deutschland": [
+   54.4,
+   0.858
+  ],
+  "97996 Niederstetten Deutschland|74632 Neuenstein Deutschland": [
+   46.2,
+   0.771
+  ],
+  "36251 Bad Hersfeld Deutschland|74635 Kupferzell Deutschland": [
+   248.9,
+   3.832
+  ],
+  "89522 Heidenheim an der Brenz Deutschland|74635 Kupferzell Deutschland": [
+   120.0,
+   1.545
+  ],
+  "76726 Germersheim Deutschland|74635 Kupferzell Deutschland": [
+   129.9,
+   1.692
+  ],
+  "85599 Vaterstetten Deutschland|74635 Kupferzell Deutschland": [
+   283.1,
+   3.594
+  ],
+  "90431 Nürnberg Deutschland|74635 Kupferzell Deutschland": [
+   134.5,
+   1.748
+  ],
+  "74635 Kupferzell Deutschland|75015 Bretten-Gölshausen Deutschland": [
+   95.3,
+   1.319
+  ],
+  "92711 Parkstein Deutschland|74635 Kupferzell Deutschland": [
+   218.1,
+   2.833
+  ],
+  "36251 Bad Hersfeld Deutschland|63128 Dietzenbach Deutschland": [
+   167.3,
+   2.743
+  ],
+  "69168 Wiesloch Deutschland|74889 Sinsheim Deutschland": [
+   21.1,
+   0.312
+  ],
+  "74354 Besigheim Deutschland|75015 Bretten-Gölshausen Deutschland": [
+   48.3,
+   0.916
+  ],
+  "89522 Heidenheim an der Brenz Deutschland|89331 Burgau Deutschland": [
+   44.1,
+   0.699
+  ],
+  "69126 Heidelberg Deutschland|74889 Sinsheim Deutschland": [
+   32.7,
+   0.484
+  ],
+  "76726 Germersheim Deutschland|67105 Schifferstadt Deutschland": [
+   31.4,
+   0.473
+  ],
+  "71706 Markgröningen Deutschland|75015 Bretten-Gölshausen Deutschland": [
+   47.2,
+   0.779
+  ],
+  "07356 Bad Lobenstein Deutschland|06925 Annaburg Deutschland": [
+   224.6,
+   3.006
+  ],
+  "85599 Vaterstetten Deutschland|86165 Augsburg Deutschland": [
+   82.2,
+   1.076
+  ],
+  "90431 Nürnberg Deutschland|74677 Dörzbach Deutschland": [
+   157.2,
+   2.092
+  ],
+  "92711 Parkstein Deutschland|86165 Augsburg Deutschland": [
+   225.0,
+   2.938
+  ],
+  "74676 Niedernhall Deutschland|97944 Boxberg Deutschland": [
+   50.6,
+   0.872
+  ],
+  "74635 Kupferzell Deutschland|71665 Vaihingen an der Enz Deutschland": [
+   84.9,
+   1.176
+  ],
+  "60437 Frankfurt am Main Deutschland|74635 Kupferzell Deutschland": [
+   203.0,
+   2.637
+  ],
+  "74360 Ilsfeld Deutschland|74363 Güglingen Deutschland": [
+   25.3,
+   0.467
+  ],
+  "72336 Balingen Deutschland|71706 Markgröningen Deutschland": [
+   101.2,
+   1.426
+  ],
+  "99752 Bleicherode Deutschland|95359 Kasendorf Deutschland": [
+   302.9,
+   4.196
+  ],
+  "97922 Lauda-Königshofen Deutschland|74547 Untermünkheim Deutschland": [
+   60.2,
+   1.069
+  ],
+  "58636 Iserlohn Deutschland|59757 Arnsberg Deutschland": [
+   19.8,
+   0.354
+  ],
+  "58840 Plettenberg Deutschland|51702 Bergneustadt Deutschland": [
+   47.5,
+   0.794
+  ],
+  "71384 Weinstadt Deutschland|71679 Asperg Deutschland": [
+   27.6,
+   0.525
+  ],
+  "72229 Rohrdorf Deutschland|71665 Vaihingen an der Enz Deutschland": [
+   83.7,
+   1.177
+  ],
+  "78126 Königsfeld im Schwarzwald Deutschland|71706 Markgröningen Deutschland": [
+   132.6,
+   1.948
+  ],
+  "71679 Asperg Deutschland|74638 Waldenburg Deutschland": [
+   72.6,
+   1.145
+  ],
+  "74405 Gaildorf Deutschland|74638 Waldenburg Deutschland": [
+   30.8,
+   0.674
+  ],
+  "60437 Frankfurt am Main Deutschland|51702 Bergneustadt Deutschland": [
+   151.3,
+   2.013
+  ],
+  "74219 Möckmühl Deutschland|74638 Waldenburg Deutschland": [
+   47.7,
+   0.837
+  ],
+  "89264 Weißenhorn Deutschland|74635 Kupferzell Deutschland": [
+   166.9,
+   2.129
+  ],
+  "77656 Offenburg Deutschland|71706 Markgröningen Deutschland": [
+   150.3,
+   2.039
+  ],
+  "89264 Weißenhorn Deutschland|73207 Plochingen Deutschland": [
+   102.1,
+   1.511
+  ],
+  "95326 Kulmbach Deutschland|73479 Ellwangen (Jagst) Deutschland": [
+   218.7,
+   2.79
+  ],
+  "59846 Sundern (Sauerland) Deutschland|74635 Kupferzell Deutschland": [
+   382.5,
+   5.022
+  ],
+  "08468 Heinsdorfergrund Deutschland|74635 Kupferzell Deutschland": [
+   307.0,
+   3.867
+  ],
+  "74677 Dörzbach Deutschland|73479 Ellwangen (Jagst) Deutschland": [
+   102.5,
+   1.389
+  ],
+  "75245 Neulingen Deutschland|73207 Plochingen Deutschland": [
+   78.1,
+   1.142
+  ],
+  "73479 Ellwangen (Jagst) Deutschland|73207 Plochingen Deutschland": [
+   89.2,
+   1.408
+  ],
+  "59846 Sundern (Sauerland) Deutschland|58513 Lüdenscheid Deutschland": [
+   40.2,
+   0.688
+  ],
+  "08468 Heinsdorfergrund Deutschland|73479 Ellwangen (Jagst) Deutschland": [
+   294.8,
+   3.72
+  ],
+  "79423 Heitersheim Deutschland|74635 Kupferzell Deutschland": [
+   278.7,
+   3.551
+  ],
+  "74677 Dörzbach Deutschland|74676 Niedernhall Deutschland": [
+   23.1,
+   0.437
+  ],
+  "79423 Heitersheim Deutschland|70197 Stuttgart Deutschland": [
+   224.3,
+   3.067
+  ],
+  "74354 Besigheim Deutschland|71706 Markgröningen Deutschland": [
+   17.6,
+   0.576
+  ],
+  "58256 Ennepetal Deutschland|58513 Lüdenscheid Deutschland": [
+   37.0,
+   0.624
+  ],
+  "89231 Neu-Ulm Deutschland|74635 Kupferzell Deutschland": [
+   155.8,
+   1.993
+  ],
+  "73547 Lorch Deutschland|74635 Kupferzell Deutschland": [
+   64.9,
+   1.107
+  ],
+  "74423 Obersontheim Deutschland|74532 Ilshofen Deutschland": [
+   20.2,
+   0.364
+  ],
+  "75203 Königsbach-Stein Deutschland|71665 Vaihingen an der Enz Deutschland": [
+   30.8,
+   0.548
+  ],
+  "77656 Offenburg Deutschland|71665 Vaihingen an der Enz Deutschland": [
+   123.1,
+   1.67
+  ],
+  "89231 Neu-Ulm Deutschland|74532 Ilshofen Deutschland": [
+   141.0,
+   1.788
+  ],
+  "51702 Bergneustadt Deutschland|58762 Altena Deutschland": [
+   61.0,
+   1.154
+  ],
+  "58513 Lüdenscheid Deutschland|58762 Altena Deutschland": [
+   26.3,
+   0.679
+  ],
+  "58636 Iserlohn Deutschland|51702 Bergneustadt Deutschland": [
+   71.3,
+   0.953
+  ],
+  "71706 Markgröningen Deutschland|74670 Forchtenberg Deutschland": [
+   78.7,
+   1.305
+  ],
+  "73547 Lorch Deutschland|71706 Markgröningen Deutschland": [
+   60.4,
+   0.985
+  ],
+  "79183 Waldkirch Deutschland|74635 Kupferzell Deutschland": [
+   267.4,
+   3.421
+  ],
+  "93437 Furth im Wald Deutschland|74635 Kupferzell Deutschland": [
+   269.1,
+   3.41
+  ],
+  "89547 Gerstetten Deutschland|74635 Kupferzell Deutschland": [
+   134.0,
+   1.821
+  ],
+  "90443 Nürnberg Deutschland|74635 Kupferzell Deutschland": [
+   130.9,
+   1.695
+  ],
+  "74363 Güglingen Deutschland|74523 Schwäbisch Hall Deutschland": [
+   79.6,
+   1.264
+  ],
+  "93437 Furth im Wald Deutschland|74423 Obersontheim Deutschland": [
+   267.9,
+   3.475
+  ],
+  "89547 Gerstetten Deutschland|74423 Obersontheim Deutschland": [
+   84.4,
+   1.292
+  ],
+  "58300 Wetter (Ruhr) Deutschland|58513 Lüdenscheid Deutschland": [
+   49.8,
+   0.719
+  ],
+  "58762 Altena Deutschland|58513 Lüdenscheid Deutschland": [
+   26.3,
+   0.672
+  ],
+  "71679 Asperg Deutschland|74523 Schwäbisch Hall Deutschland": [
+   80.7,
+   1.158
+  ],
+  "71706 Markgröningen Deutschland|74523 Schwäbisch Hall Deutschland": [
+   88.4,
+   1.341
+  ],
+  "58553 Halver Deutschland|58091 Hagen Deutschland": [
+   20.9,
+   0.407
+  ],
+  "74423 Obersontheim Deutschland|71706 Markgröningen Deutschland": [
+   83.7,
+   1.404
+  ],
+  "74523 Schwäbisch Hall Deutschland|71706 Markgröningen Deutschland": [
+   89.2,
+   1.353
+  ],
+  "73309 Geislingen an der Steige Deutschland|74423 Obersontheim Deutschland": [
+   79.8,
+   1.328
+  ],
+  "90443 Nürnberg Deutschland|74423 Obersontheim Deutschland": [
+   129.6,
+   1.76
+  ],
+  "73447 Oberkochen Deutschland|74635 Kupferzell Deutschland": [
+   109.8,
+   1.465
+  ],
+  "71711 Steinheim an der Murr Deutschland|74635 Kupferzell Deutschland": [
+   65.2,
+   0.889
+  ],
+  "74635 Kupferzell Deutschland|91161 Hilpoltstein Deutschland": [
+   138.2,
+   1.803
+  ],
+  "73447 Oberkochen Deutschland|74423 Obersontheim Deutschland": [
+   56.9,
+   0.928
+  ],
+  "71711 Steinheim an der Murr Deutschland|71679 Asperg Deutschland": [
+   18.8,
+   0.322
+  ],
+  "58513 Lüdenscheid Deutschland|58840 Plettenberg Deutschland": [
+   24.4,
+   0.465
+  ],
+  "74523 Schwäbisch Hall Deutschland|74670 Forchtenberg Deutschland": [
+   31.4,
+   0.683
+  ],
+  "61440 Oberursel (Taunus) Deutschland|51702 Bergneustadt Deutschland": [
+   156.1,
+   2.054
+  ],
+  "59067 Hamm Deutschland|58300 Wetter (Ruhr) Deutschland": [
+   55.6,
+   0.864
+  ],
+  "71229 Leonberg Deutschland|71706 Markgröningen Deutschland": [
+   26.3,
+   0.488
+  ],
+  "73660 Urbach Deutschland|73207 Plochingen Deutschland": [
+   44.4,
+   0.842
+  ]
+ }
+}
